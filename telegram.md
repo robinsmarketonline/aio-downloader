@@ -7,6 +7,155 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 11:12
+---
+
+## VahidOOnLine — post 239470
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239470_1778485371.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند ایرانیان مقیم اسپانیا و یونان، یکشنبه ۲۰ اردیبهشت در تجمع‌های اعتراضی برگزارشده در شهرهای مادرید و آتن، علیه جمهوری اسلامی پرفورمنس اعتراضی برگزار کردند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 10897
+
+<div align="center">
+  <a href="telegram/content/WithYashar_10897_1778485373.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یاشار برنامه ما دیروز سیدنی
+</div>
+
+## WithYashar — post 10896
+
+<div align="center">
+  <a href="telegram/content/WithYashar_10896_1778485377.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نخست‌وزیر اسرائیل، بنیامین نتانیاهو:
+
+در ایران، خیابان‌ها را به نام من نامگذاری می‌کنند. می‌دانید؟ خب، البته بعد از رئیس‌جمهور ترامپ هم، چون او رهبری مبارزه را بر عهده دارد.
+اما آن‌ها این را دارند؛ من فارسی صحبت نمی‌کنم،
+اما مرا «بیبی جون» صدا می‌کنند: بیبی عزیز.
+@withyashar
+BIBI JOON , FINISH THE JOB 💥😍
+برین تمام پستهای بیبی رو چک کنین اونایی که کامنت گذاشتم میبینید که من اولین بار گفتم بیبی جون و همیشه هم بیشترین لایک رو داشتیم با کمک شما پس در این مورد هم موفق شدیم با هم ، چشم حسود کور 🤣
+</div>
+
+## IranIntlTV — post 336602
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336602_1778485378.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند ایرانیان مقیم اسپانیا و یونان، یکشنبه ۲۰ اردیبهشت در تجمع‌های اعتراضی برگزارشده در شهرهای مادرید و آتن، علیه جمهوری اسلامی پرفورمنس اعتراضی برگزار کردند.
+</div>
+
+## FarsiVOA — post 217406
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺افزایش قیمت نان؛ فشار هزینه‌ها در سفره مردم بیشتر شد
+
+◾️گزارش‌های رسیده به صدای آمریکا نشان می‌دهد پس از افزایش رسمی قیمت نان در همدان، نان در برخی شهرها با نرخ‌های تازه عرضه می‌شود.
+
+◾️بر اساس این گزارش‌ها، در استان‌ها و شهرهایی از جمله اصفهان، یزد، مشهد و قم، نانوایی‌ها در روزهای اخیر نان را با قیمت‌های جدید عرضه کرده‌اند.
+
+◾️در تهران نیز گزارش‌های میدانی حاکی است که قیمت‌های مصوب رعایت نمی‌شود و در برخی مناطق، نانوایی‌های سنگک و بربری عملاً آزادپز شده‌اند و دیگر نان را با نرخ دولتی عرضه نمی‌کنند.
+
+◾️عصر ایران در گزارشی درباره گران‌فروشی نان نوشته یک نانوایی سنگک، نانی را که باید با آرد دولتی ۷ هزار و ۶۰۰ تومان عرضه کند، ۲۰ هزار تومان فروخته است.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8148760.html
+</div>
+
+## Persian_Trend_Official — post 13879
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13879_1778485380.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هیچکس مثل جبهه پایداری به اهداف اسرائیل کمک نمیکنه !
+فکر میکنم در حق این نماینده های خدوم جفا شده 😄
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13878
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13878_1778485382.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ اظهارات جنجالی ظهره‌وند درباره سلاح سری ایران:
+
+من جاها و ظرفیت هایی رو دیدم که اتفاقی میوفته که بمب اتم جلوش ترقه است/ شما میتونید زمان رو پشت سر بزارید، چیزی که در چند ثانیه از تهران تا واشنگتن برود/میشه یه کارهایی کرد که بمب اتم جلوش بچه بازیه!
+
+پ.ن: شعر گوی اعظم
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 13877
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13877_1778485383.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ به گفته GB News، نخست‌وزیر بریتانیا کیر استارمر «به نظر می‌رسد این هفته استعفا دهد.»
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## alonews — post 119202
+
+<div align="center">
+  <a href="telegram/content/alonews_119202_1778485385.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت خارجه ایران: پاسخ ما به آمریکا شامل مطالبات منطقی است و در واکنش به پیشنهاد واشینگتن نیز همین رویکرد را دنبال می‌کنیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119201
+
+<div align="center">
+  <a href="telegram/content/alonews_119201_1778485385.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈۲۰ سال حضور عباس عراقچی در مذاکرات؛ از مونیخ ۲۰۰۶ تا تهران ۲۰۲۶
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119200
+
+<div align="center">
+  <a href="telegram/content/alonews_119200_1778485385.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈جنگنده‌های اسرائیلی شهر کفر رومانی در جنوب لبنان را بمباران کردند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 11:02
 ---
 
