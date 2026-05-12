@@ -7,6 +7,992 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 01:33
+---
+
+## vpn_xvpn_ch — post 391
+
+<div align="center">
+  <a href="https://t.me/vpn_xvpn_ch/391" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ رایگان داریم ولی به دلیل سو استفاده دوستان مجددا به صورت ناسرعت پر محدود
+@vpn_xvpn_ch
+</div>
+
+## saministamm — post 62716
+
+<div align="center">
+  <a href="telegram/content/saministamm_62716_1778623425.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرعت موشک
+🚀
+پینگ زیر 150 
+⭐
+قیمت عالی گیگی 
+💸 199 
+💸
+چنلشون
+👇
+@Vpn_star5
+بابت ثبت سفارش به آیدی زیر پیام بدید
+💥
+@Star_Admin5 
+✅
+</div>
+
+## saministamm — post 62715
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پروکسی متصل :
+
+https://t.me/proxy?server=194.120.230.199&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+</div>
+
+## saministamm — post 62709
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨تهران دوباره لرزید.
+</div>
+
+## saministamm — post 62702
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴رسمی ؛ کرج هم زلزله اومده.
+</div>
+
+## saministamm — post 62701
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨 هم اکنون زلزله تهران را لرزاند.
+</div>
+
+## saministamm — post 62700
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨 هم اکنون زلزله تهران را لرزاند.
+</div>
+
+## saministamm — post 62699
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پروکسی وصل :
+
+tg://proxy?server=95.217.235.33&port=443&secret=dd104462821249bd7ac519130220c25d09
+</div>
+
+## saministamm — post 62698
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترکیبی وصله :
+vless://f0cfea8e-afc8-411c-9879-860f8a5203c7@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%40saministamm
+</div>
+
+## saministamm — post 62696
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨 صداوسیما:
+الوعده وفا؛ داریم اینترنت اونایی که کسب‌وکار دارن یا تو فضای مجازی فعالیت می‌کنن رو وصل می‌کنیم(بهشون سیم‌کارت پرو میدن) که برن عشق کنن.
+</div>
+
+## saministamm — post 62695
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترکیب کنید وصله عشقا :
+
+vless://272d7c53-64f9-4eee-a7d3-4616d15ebd78@www.varzesh3.com:2082?path=%2F&security=&encryption=none&host=server1.mizbanertebatfarda.ir&type=ws#saministamm%20Time%205G%20%F0%9F%87%AB%F0%9F%87%AE
+
+
+@saministamm 
+✅
+</div>
+
+## saministamm — post 62688
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پروکسی متصل :
+
+tg://proxy?server=62.238.27.70&port=443&secret=dd104462821249bd7ac519130220c25d09
+</div>
+
+## saministamm — post 62687
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترکیبی متصل :
+vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=&encryption=none&headerType=&type=tcp#saministamm
+</div>
+
+## Skyportall — post 10637
+
+<div align="center">
+  <img src="telegram/content/Skyportall_10637_1778623426.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ یکی مونده به آخر که نوشتی قطعه ، همچنان دارم استفاده میکنمش ✌🏻 دمت گرم ♥️
+</div>
+
+## Skyportall — post 10636
+
+<div align="center">
+  <img src="telegram/content/Skyportall_10636_1778623426.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دمت‌ گرم‌ هنوز وصله
+</div>
+
+## Skyportall — post 10627
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تا الان وصل بود
+</div>
+
+## Skyportall — post 10626
+
+<div align="center">
+  <img src="telegram/content/Skyportall_10626_1778623427.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📷 Photo
+</div>
+
+## Skyportall — post 10625
+
+<div align="center">
+  <a href="telegram/content/Skyportall_10625_1778623428.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نمیدونم این مدت اینستاگرام سر زدید یا نه ولی بشدت خرید، فروش و داشتن سیمکارت پرو داره توش عادی سازی میشه. بمیرید دیگه
+</div>
+
+## Skyportall — post 10624
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نمیدونم این مدت اینستاگرام سر زدید یا نه ولی بشدت خرید، فروش و داشتن سیمکارت پرو داره توش عادی سازی میشه.
+بمیرید دیگه
+</div>
+
+## Skyportall — post 10623
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://c597953b-c891-df7e-1cba-fbb3c9353a11@snapp.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=main.fasrgobar.ir#%40Skyportall
+
+
+⚡️ @Skyportall
+</div>
+
+## Skyportall — post 10622
+
+<div align="center">
+  <a href="telegram/content/Skyportall_10622_1778623428.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://51c399b9-f103-1965-c7bd-914a08d34dfc@snapp.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=main.fasrgobar.ir#%40Skyportall
+وصله
+✅
+
+
+⚡️ @Skyportall
+قطع شد
+😭
+</div>
+
+## Skyportall — post 10621
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://7c85ea94-c75b-46e4-a3c9-e39a9791a33b@cdn4.yazdfa.ir:8080?path=%2F&security=none&encryption=none&type=ws#%40Skyportall
+
+ترکیبی هم میشه زد
+✅
+
+قطع شد
+🤓
+</div>
+
+## hamedvpns — post 18810
+
+<div align="center">
+  <img src="telegram/content/hamedvpns_18810_1778623429.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اپ متن‌باز و رایگان TunnelX برای زمانی ساخته شده که کاربر نمیخواد تمام ترافیک در سیستم‌عامل ویندوز از VPN عبور کنه.
+
+با این برنامه میشه فقط برنامه‌هایی مثل مرورگر، تلگرام ، ابزارهای توسعه یا برنامه‌های مشخص دیگه رو وارد تانل کرد و بقیه ترافیک سیستم رو روی اینترنت عادی نگه داشت.
+
+👉 github.com/MaxiFan/TunnelX/releases/latest
+
+🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+@ircfspace
+
+
+لینک دانلود داخلی :
+https://uplod.ir/tqiyspcuyy0y/TunnelX-v1.2.24-standalone-compressed.exe.htm
+
+رمز عبور : hamedvpns 👉👉
+بعد از دانلود تغییر نام بزنید و از آخر نام فایل حرف .htm را حذف کنید .
+
+
+
+❤️اشتراک‌گذاری یادتون نره🌈
+..
+‌‌@hamedvpns ☑️
+
+لایک   |   Like 👍❤️
+اشتراک بزارین   |   Share ⭐
+</div>
+
+## ConfigWireguard — post 31684
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+NekoBox PC  v5.11.14
+بروزرسانی جدید کلاینت نکوباکس برای دسکتاپ
+https://github.com/qr243vbi/nekobox
+📥 لینک دانلود داخلی
+💻 nekobox-5.11.14-windows-arm64-installer.exe 43.9 MB
+💻 nekobox-5.11.14-windows64-installer.exe 47.3 MB
+💻 nekobox-5.11.14-windows32-installer.exe 37.2 MB
+@ConfigWireguard
+</div>
+
+## Zel2oVPN — post 2740
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅VayDNS [S112]
+
+
+slipnet-enc://Afa5+JLHEKTQgzD86s05EkNQAAJ1srGkpoM/6qeQJt2ddHU30mqZ0W+rGPwxSiCMM5mKvUljDFPwU4Bt+KHEHWXiG5qU/6QYQp1NdEARankmjSklZH2abKOegWEm5C4gg1Y53shJxsS3FkgUFXFAyNGAp/86tQUL9EYkwP+bYzcD4Lqng1UFxunUFmH7urjrkg+BFFW2NTCAyih+zj2bo8aesQsjc2d/uMdNAmkBZfq7dHXOmqRXeFrilJIkPdfXDbd70Dplrw/PtZ2qnSBGQrHBwl1yijyUMVI58eOgRzP0CayqOO+WsQR4/TeuS6ewVg/lfHF+HxcJamr0YTw9rY2ypE6hmAfx8gsObsHMvxUPhGtThAdPc7mvlLkuCYTII6ws3j6VuHhbFMh4wGwym3cn33NS7qE9aSf+Qhw3dixGiRxXSG1+qawIfixm3DycainZW5EvpnQ36n7FdPhDK/brz2S62Ay/Lh+a7w1iLygM+Da7ckU2Wy74OU6GT0S63SHF0PwE2PV2c08GgqHycOmUN/m31TUYoKZOkTAYBn3skTZtaw6P5ouwqrvgg6gTWQxq0WdwCVaM4h+abbNM/lE6nP1GJND/wVm1ddDPAtnJNsUcfyfBGrt/+omr0ou2PkvgplQrCCl/ESgiyiE+83PaLsH0Nz2BrOvxVK+By9WT/N4jYQhCA8MHn1I1vIYRUYR7ZK43zJvmD/sFHkcFc5AG9rmNwuWSqym1Wkb5NEmiw4G1IdvAfNkViyYXguqLWVD5S8vRgadpqfYIFbNYwxM=
+
+📱کانفیگ اسلیپ
+
+📱مخصوص نسخه جدید  2.5.3
+
+📱دانلود نسخه جدید
+
+📱تنظیمات پیشنهادی
+
+https://t.me/socks?server=127.0.0.1&port=10880&user=%40Zel2oVPN
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2739
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅DNSTT [S111]
+
+
+slipnet-enc://Aae0nR20CytmyoHCZuBnuxzf8FW5Iz2pEFZwo/SW2u9+2yqDNoIRGtd2Xbe/jGyEGK1GLdkbmC/6IZPNF9pe1v5Z6QAmOQCYAhwi/VHUGUjJ1vKvpiBD8RQLEA5eURrw4jP/YJwiLDmbs6+G0oEQJStoqu2i1g0C+k6WF2GeKIJGHdo3sH+KpUI8CEMdiCV3owosEj10KZXQ2SseWVXJzqaEuavE6ewijXFeSkHaLWMHIGmwaf50P8NylJu3RvPkM/Xw+Ei6FsE/sVCGuykYJz1hg/JERd+Y4db0EO8VJioLTPhHMUxKlFQvpdvO5girZ0a9NoAgkx2W5m4fLgW09nJNq/tBl5gqcekI5dyLES4lvtXKiXGJwIxY1cizWWSKVBlPiBL5YfQWaWrn/VerAXheJC7QCGyzZ2fypA3QPO4xwpIzlAnFOfSXqqYEOgCccBt26eDBOAUzDtVGu2ofUnj+A8ifDjCVv8414lnvxii9aYRKUu/u49yvrRb2nuAYqQf3JMjPUQdSMAkSZDTgkeDztGYttzAgkdhzVgk4YNgXtaNs0aMbuyD/xOYXBg1Z/7vGW+QNyYWU/h+cc+1G6SfSNHd4GhkBlMrSWrj966dgLseh1k6c2YwtA0PplCGJ8CvEvCCqhnqGap+jhfF0mgdaV7SnTr9TCoptuovRzyto7H40RlLDusjuFFYhzE/oNGAF1eF1fkhPb7E46lk7f1g/UM5w9/D6yt2/lC9/ajSnse7ja+WO+DnYRX7kHIiceRaygii1DdMjxvYjxDV4rnYYxvJDyfeiS2NnuI//+pA=
+
+
+📱کانفیگ اسلیپ
+
+📱مخصوص نسخه جدید  2.5.3
+
+📱دانلود نسخه جدید
+
+📱تنظیمات پیشنهادی
+
+https://t.me/socks?server=127.0.0.1&port=10880&user=%40Zel2oVPN
+
+☑➜@Zel2oVPN
+</div>
+
+## mirzapanel — post 1311
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+موشک بهتر بود این اپدیت بدرد نمیخوره😁
+</div>
+
+## mirzapanel — post 1310
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خواهیم دید چه میشود ( سونامی ).
+</div>
+
+## mirzapanel — post 1309
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خواهیم دید چه میشود ( سونامی ).
+</div>
+
+## mirzapanel — post 1308
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دقایقی پیش زمین‌لرزه‌ای تهران را لرزاند خدا داره با همه چی ما رو تست میکنه دیگه 😁
+</div>
+
+## mirzapanel — post 1307
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دقایقی پیش زمین‌لرزه‌ای تهران را لرزاند
+
+
+خدا داره با همه چی ما رو تست میکنه دیگه 😁
+</div>
+
+## erfanandroid — post 88593
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نترسید خبری نیست
+یه عطسه ریز بوده زلزله در حد استرس نبوده
+
+@erfanandroid
+</div>
+
+## Spotify_Porteghali — post 12356
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یه سری از عزیزان پیام داده بودند که خیلی از پست هایی که میزارید اکثرا رویِ اندروید قابل استفاده هستند و برنامه هاشون برای آیفون نیست .
+برایِ همین در صورتی که امکانش باشه و مشکلی پیش نیاد ، سعی می‌کنیم در شب هایِ آینده ، یه سری چالش تویِ کانال بزاریم و هر شب به چند نفر کانفیگِ شخصی بدیم .
+
+لینک هایِ برنامه هارو هم فردا آپدیت می‌کنم و خدمتتون میزارم 🙏🏻❤️
+</div>
+
+## NamazVPN — post 35469
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://11dc69cb-59c1-483e-ac8d-f9132158c04e@snapp.ir:8080?path=%2F&security=&encryption=none&host=sayanstoree.tel.goleij.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A2257.17ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 2257.17ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35468
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?encryption=none&type=ws&security=tls&path=%2FIF_VPN_Bot&host=camp.nahidapp.com&sni=camp.nahidapp.com&allowInsecure=0#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A4744.97ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 4744.97ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35467
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://310c5497-a397-4027-a125-6fdd19b6dbb0@13.249.2.122:443?path=%2Fws&security=tls&encryption=none&insecure=1&host=d2px6pq37f3xn3.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=13.249.2.122#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A1909.92ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 1909.92ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35466
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://b19ae83e-dbd0-4903-8360-742a4ddf3239@185.24.253.108:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9ررز#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A8790.16ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 8790.16ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35465
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://b19ae83e-dbd0-4903-8360-742a4ddf3239@185.24.253.108:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9ررز#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A8757.65ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 8757.65ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35464
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://1f67e7b4-30e7-4dfb-a34c-1e7e92cd77d8@62.60.185.15:443?type=tcp&encryption=none&security=none#%F0%9F%87%B9%F0%9F%87%B7T%C3%BCrkiye%2C%20Istanbul%20%7C%20%F0%9F%8C%90%20IP%3A%20213.142.149.81%20%7C%20%E2%8F%B3ping%3A4588.73ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇹🇷 Türkiye, Istanbul
+⏱️ 4588.73ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35463
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://1f67e7b4-30e7-4dfb-a34c-1e7e92cd77d8@62.60.185.15:443?type=tcp&encryption=none&security=none#%F0%9F%87%B9%F0%9F%87%B7T%C3%BCrkiye%2C%20Istanbul%20%7C%20%F0%9F%8C%90%20IP%3A%20213.142.149.81%20%7C%20%E2%8F%B3ping%3A1132.69ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇹🇷 Türkiye, Istanbul
+⏱️ 1132.69ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35462
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://1f67e7b4-30e7-4dfb-a34c-1e7e92cd77d8@62.60.185.15:443?type=tcp&encryption=none&security=none#%F0%9F%87%B9%F0%9F%87%B7T%C3%BCrkiye%2C%20Istanbul%20%7C%20%F0%9F%8C%90%20IP%3A%20213.142.149.81%20%7C%20%E2%8F%B3ping%3A880.74ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇹🇷 Türkiye, Istanbul
+⏱️ 880.74ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35461
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://f9b873a6-aa8e-4424-b0d4-1589e4d4bbcb@snapp.ir:8080?encryption=none&host=dldisk.nr2coren.ir&path=%2F&security=none&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A4814.41ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 4814.41ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35460
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://0f72c0c3-7bcd-4e26-b75e-3e5f4b3416ea@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A6278.1ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 6278.1ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35459
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://22e60128-48d5-47e0-9d6c-8eea01c9dc32@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A4446.27ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 4446.27ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35458
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://22e60128-48d5-47e0-9d6c-8eea01c9dc32@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A3616.23ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 3616.23ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35457
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://b0d62285-3afc-499b-890a-ed5044547b17@snapp.ir:80?encryption=none&host=iranfuture.musicritmic.ir&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%A8Seychelles%20%7C%20%F0%9F%8C%90%20IP%3A%2045.131.214.136%20%7C%20%E2%8F%B3ping%3A5236.17ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇸🇨 Seychelles
+⏱️ 5236.17ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35456
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://32643935-3061-4639-a131-663135643430@185.143.234.15:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=&encryption=none&host=dl.tgmovie.bond&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A4219.02ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 4219.02ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35455
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://39356264-3535-4137-a435-356265356235@185.143.234.16:80?path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047&security=&encryption=none&host=dl.tgmovie.bond&type=ws#%F0%9F%87%AD%F0%9F%87%BAHungary%20%7C%20%F0%9F%8C%90%20IP%3A%2087.229.100.130%20%7C%20%E2%8F%B3ping%3A2097.57ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇭🇺 Hungary
+⏱️ 2097.57ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35454
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://cf2becd1-17ee-4531-932e-93f397a5920f@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=1.jojo.avenflow.ir&path=/?ed%3D2080#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20IP%3A%202a01%3A4f8%3Ac010%3A5511%3A%3A1%20%7C%20%E2%8F%B3ping%3A7072.08ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇩🇪 Germany, Falkenstein
+⏱️ 7072.08ms
+
+📢 @NamazVPN
+</div>
+
+## sirhishamtradinghub — post 3676
+
+<div align="center">
+  <img src="telegram/content/sirhishamtradinghub_3676_1778623429.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+What do you expect NQ price tomorrow ? 🤔
+
+As price candle closed anyhow like this.
+
+But still bias is Bullish, so Any idea ?💡 👀
+
+Still bullish 👍
+
+Bearish 👎
+</div>
+
+## ggtech93 — post 740
+
+<div align="center">
+  <a href="https://t.me/ggtech93/740" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📎 Document
+</div>
+
+## ggtech93 — post 739
+
+<div align="center">
+  <img src="telegram/content/ggtech93_739_1778623431.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fluffy 3D icon pack
+Latest version (patched). ⬇️⬇️
+</div>
+
+## DigiGozar — post 9189
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فردا احتمال زیاد به مدت محدود پرداخت ریالی باز میشه
+🔥
+</div>
+
+## DigiGozar — post 9188
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فردا احتمال زیاد به مدت محدود پرداخت ریالی باز میشه
+🔥
+</div>
+
+## MatinSenPaii — post 3026
+
+<div align="center">
+  <img src="telegram/content/MatinSenPaii_3026_1778623432.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حرفی نمیمونه.من خجالت میکشم که هموطن اینام!
+</div>
+
+## MatinSenPaii — post 3022
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تجربه و علم نشون داده شخصی که تجربه‌ی توجه زیاد رسانه‌ای نداره، و مطلبی رو آموزش میده یا توییتی می‌زنه و اون مطلب وایرال می‌شه، مغزش عملا دوپامین رو با هویت اشتباه میگیره. اینجا مغز فکر میکنه که خب لابد «من خاصم»، نه اینکه «محتوایی که گذاشتم خوب بود. مردم…
+</div>
+
+## MatinSenPaii — post 3021
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تجربه و علم نشون داده شخصی که تجربه‌ی توجه زیاد رسانه‌ای نداره، و مطلبی رو آموزش میده یا توییتی می‌زنه و اون مطلب وایرال می‌شه، مغزش عملا دوپامین رو با هویت اشتباه میگیره. اینجا مغز فکر میکنه که خب لابد «من خاصم»، نه اینکه «محتوایی که گذاشتم خوب بود. مردم…
+</div>
+
+## archivetell — post 4811
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+aio‑downloader اسکریپت AIO Downloader یه ابزار متن‌باز و کاربردی برای دانلود فایل و محتوا از سرویس‌هایی مثل یوتیوب، گیت‌هاب، اینستاگرام، ایکس، تلگرام، گوگل‌پلی، تیک‌تاک، پینترست، ساندکلود و ... هست، که فرایند دانلود رو از طریق GitHub Actions انجام میده. این…
+</div>
+
+## archivetell — post 4810
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+aio‑downloader
+
+اسکریپت AIO Downloader یه ابزار متن‌باز و کاربردی برای دانلود فایل و محتوا از سرویس‌هایی مثل یوتیوب، گیت‌هاب، اینستاگرام، ایکس، تلگرام، گوگل‌پلی، تیک‌تاک، پینترست، ساندکلود و ... هست، که فرایند دانلود رو از طریق GitHub Actions انجام میده.
+این ابزار طوری طراحی شده که در شرایط محدودیت شدید اینترنت و وایت‌لیست فعلی بتونه بسیاری از فایل‌ها و لینک‌ها رو دریافت کنه، بدون اینکه نیاز باشه سیستم یا سرور شخصی برای دانلود داشته باشین.
+
+با توجه به اینکه این پروژه به GitHub Actions متکیه، بهتره برای استفاده ازش از اکانت اصلی گیت‌هاب استفاده نکنین و ترجیحاً یک اکانت جداگانه بسازین.
+لینک پروژه:
+
+https://github.com/ProAlit/aio-downloader
+</div>
+
+## archivetell — post 4802
+
+<div align="center">
+  <img src="telegram/content/archivetell_4802_1778623432.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نتلیفای بای بای @ArchiveTell
+</div>
+
+## archivetell — post 4800
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تا ۱۰ روز دیگه جنگ میشه..
+</div>
+
+## archivetell — post 4798
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نتلیفای بای بای
+
+
+
+
+
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4797
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سایت های موزیک بدون فیلتر
+
+http://toogoosh.com
+
+https://rozmusic.com/
+
+https://upmusics.com/category/single-tracks/
+
+https://musics-fa.com/download-songs/
+
+https://bir-music.com/
+
+https://biamusic.ir/
+
+https://mahanmusic.net/top-songs/
+
+https://radio.biato.in/
+
+http://Sptfy.ir
+
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4796
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گیف : نتلیفای برگرد
+</div>
+
+## archivetell — post 4794
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فیلم و سریال بدون سانسور
+
+Movieyaab.ir
+
+f2mux.top
+
+www.myf2mi.top
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4793
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سایت داخلی برای دانلود frimware ios
+
+https://ipsw.top/
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4792
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+چطوری تشخیص دهیم سرور شما اسپوف خور هست؟
+
+
+روی سرور مقصدت بزن
+tcpdump icmp
+
+بعد روی سرور ایرانت بزن
+
+iptables -t nat -A POSTROUTING -d TARGET-IP -j SNAT --to-source SPOOF-IP
+ping -c 10 TARGET-IP
+
+
+تارگت ایپی ایپی سرور مقصده،
+اسپوف آیپی ایپی ای که سفیده میخوای اسپوفش کنی
+
+اگه تو ترمینال سرور مقصدت پکت ها اومد و ایپی جعلی روشون بود ایرانت میتونه اسپوف بزنه اگه هیچی نیومد تو tcpdump اسپوف خور نیست.
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4791
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ربات جمنای
+
+@Gemini_PV_bot
+
+@NewGeminiAi_bot
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4790
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ربات های هوش مصنوعی همه مدل ها
+
+@chat_llm_100_bot
+
+@GPT4Telegrambot
+
+@GratomicAiBOT
+
+@GPT4_Unlimit_bot
+
+@GPT4AgentsBot
+
+@grok_gidbot
+
+@ChatGPT_grok4bot
+
+@ChatGPT_General_Bot
+
+@Javidiran_bot
+
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4789
+
+<div align="center">
+  <a href="https://t.me/archivetell/4789" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚀 دانلودر حرفه‌ای و پرسرعت یوتیوب مستقیم به گوگل درایو! (بدون مصرف حجم اینترنت) خسته شدید از سایت‌های پر از تبلیغ، قطعی‌های مکرر و محدودیت سرعت برای دانلود از یوتیوب؟ ما یک اسکریپت اختصاصی و هوشمند برای محیط Google Colab آماده کردیم که به شما اجازه میده ویدیوها،…
+</div>
+
+## Break_The_Barriers — post 1540
+
+<div align="center">
+  <img src="telegram/content/Break_The_Barriers_1540_1778623434.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خوب وصلید ها. 
+🥳
+</div>
+
+## Break_The_Barriers — post 1539
+
+<div align="center">
+  <a href="telegram/content/Break_The_Barriers_1539_1778623435.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+«ایرانی کله‌خر»
+
+کیفیت رو خیلی آوردم پایین تا حجم کم‌تری داشته باشه، امیدوارم بتونید تماشا کنید.
+
+از این پیج:
+
+https://www.instagram.com/hap_thebard?igsh=MXA3ZXg5MHZpdDRwNA==
+</div>
+
+## Break_The_Barriers — post 1538
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تازه من سرویس های رایگان دیگه رو هم تست میکنم از قبیل masterdns/stormdns و mhr و سایر
+(البته استفاده اصلیم سرور های شما روی اسلیپ هست)
+و بگم که از امروز صبح storm که داغون شده و کانفیگای پابلیک slip هم اکثرا فقط upload میدن و دانلود نمیدن (یا زیر 1 کیلوبایت) و حتی سرور های socks هم خیلیاشون همینطور شدن، ولی ssh های شما پرقدرت تر از قبل وصلن 💪 💪
+</div>
+
+## Break_The_Barriers — post 1537
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گیر کردیم رو نوزده. 
+🫠
+</div>
+
+## Break_The_Barriers — post 1536
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+برای من
+روی null socks وصل هست
+خیلی خوب هم جواب میده
+
+دست به گیرنده هاتون نزنید
+برای اونا که تلویزیون سیاه و سفید دارن
+
+تیم سمت راست ایران هست که با null خیلی خوب جواب گرفته
+</div>
+
+## Break_The_Barriers — post 1535
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سلام
+این فاکتورها رو جدای از این‌که منطقی هست یا نه، تست کنید:
+App:
+
+MTU: 1500
+MAX Channels: 64
+
+Config:
+
+Resolver Mode: Reliable
+Query Lenght: 253
+or
+DNS Query Size: Fastest
+
+این تنظیمات بر‌ای من کار کرد. نت ایرانسل
+</div>
+
+## Break_The_Barriers — post 1534
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Null
+Aaaa
+Cname
+Caa
+Ns
+
+همه وصله روی ssh و ساکس
+</div>
+
+## Break_The_Barriers — post 1533
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+:)))))
+</div>
+
+## Break_The_Barriers — post 1532
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حاجی ناموسا دست نزن بهش، مام دست ب گیرنده نمی زنیم
+با null میرم یوتوب
+</div>
+
+## Break_The_Barriers — post 1531
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آیا سرورها رو مجدد ستاپ بکنم و فقط اون رکوردهایی که جواب می‌دن رو بذارم؟
+
+دستی به سر و روی کانال بکشم. 
+🤔
+</div>
+
+## Break_The_Barriers — post 1530
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این فاکتورها رو جدای از این‌که منطقی هست یا نه، تست کنید:
+App:
+
+MTU: 1500
+MAX Channels: 64
+
+Config:
+
+Resolver Mode: Reliable
+Query Lenght: 253
+or
+DNS Query Size: Fastest
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 21:10
 ---
 
@@ -10437,8 +11423,6 @@ Break The Barriers pinned «تمامی متدهای DNS Tunneling این کان�
 
 The one and only @break_the_barriers
 </div>
-
-
 <!-- MSG END -->
 
 <!-- NAV START -->
