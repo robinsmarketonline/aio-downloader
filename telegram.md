@@ -7,6 +7,913 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 11:53
+---
+
+## vpn_xvpn_ch — post 398
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شبتون بخیر 🌹
+</div>
+
+## vpn_xvpn_ch — post 397
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👥 تعداد اعضای کانال : 1022
+📊 حجم ترافیک کلی : 105 گیگ
+📊 حجم ترافیک مصرف شده : 140 گیگ⛔
+</div>
+
+## vpn_xvpn_ch — post 396
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+@vpn_xvpn_ch.npvt
+</div>
+
+## vpn_xvpn_ch — post 395
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🧨 یه آفر جدید داریم🧨 🚫 اشتراک پایه 7 گیگ = 3،150،000 🔥 اشتراک پایه 7 گیگ = 1،900،000 ✅ فقط 10 عدد موجود
+</div>
+
+## vpn_xvpn_ch — post 394
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+@vpn_xvpn_ch.npvt
+</div>
+
+## vpn_xvpn_ch — post 393
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+@vpn_xvpn_ch.npvt
+</div>
+
+## vpn_xvpn_ch — post 392
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🧨 یه آفر جدید داریم🧨
+
+🚫 اشتراک پایه 7 گیگ = 3،150،000
+
+🔥 اشتراک پایه 7 گیگ = 1،900،000
+
+✅ فقط 10 عدد موجود
+</div>
+
+## xsfilterrnet — post 3415
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🍷نتلیفای
+‏با تغییر xPaddingBytes به 1-1 دوباره انگار کار میکنه مرسی از دوست عزیزی که مشکل رو پیدا و حل کرد.
+
+تغییر هم باید سمت سرور باشه هم سمت کلاینت تو کانفیگ
+
+با این روش مجدد میتونید متصل شید بهش
+⚡️
+
+@xsfilterrnet
+</div>
+
+## saministamm — post 62717
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پروکسی تست کنید :
+https://t.me/socks?server=188.121.103.101&port=1080
+@saministamm.
+</div>
+
+## Skyportall — post 10638
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://974361ea-6d56-46d6-b0e3-283b7c46e9ea@185.143.233.200:80?path=%2Fshorts&security=none&encryption=mlkem768x25519plus.native.0rtt.G7jF1YzVPaQRjTxtpT6mSTGsOyHT4YMz9s_6o-6C9BA&host=filimo.com.Mylinked.org&type=ws#%40Skyportall
+
+
+💙V2ray
+➕psiphon
+📱
+
+
+⚡️ @Skyportall
+</div>
+
+## hamedvpns — post 18817
+
+<div align="center">
+  <a href="https://t.me/hamedvpns/18817" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ مورد نیاز برای روش اتصال با کلش‌متا و flclash
+
+
+نصب برنامه کلش‌متا و Flclash 👉👉
+
+داخل کلش متا یا Flclash وارد کنید و متصل بشید.
+
+
+سپس وارد گوگل‌پلی یا یوتیوب بشید ببینید باز میشه براتون یا نه .
+
+ویدیو‌ها و فایل ها قابل پخش و دانلود نیستند اما برا اونها هم روشی دارم .
+
+
+❤️ اشتراک گذاری یادتون نره 🌈
+
+
+‌‌@hamedvpns ☑️
+
+لایک   |   Like 👍❤️
+اشتراک بزارین   |   Share ⭐️
+</div>
+
+## hamedvpns — post 18816
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لینک دانلود برنامه‌های Flclash و ClashMeta
+
+برای اندروید و ویندوز
+
+برای دانلود از گیتهاب دیگر نیازی به چیزی نخواهید داشت.
+
+جهت دانلود از یوتیوب و فروشگاه‌پلی هم راه خواهم گفت تا اول بتونید با این روش باز کنید به کلیپ یا فایل خود دسترسی داشته باشید بعد همون رو با ربات یا سایت یا برنامه‌ای دیگر دانلود کنید .
+
+
+Flclash :
+
+arm64-v8a
+https://uplod.ir/ejwt0iz2xdcj/FlClash-0.8.92-android-arm64-v8a._.htm
+بعد از دانلود کافیه تغییر نام بزنید و در آخر اسمش apk. اضافه کنید.
+
+armv7
+https://uplod.ir/ym40ytakipvw/FlClash-0.8.92-android-armeabi-v7a._.htm
+بعد از دانلود کافیه تغییر نام بزنید و در آخر اسمش apk. اضافه کنید.
+
+PC
+https://uplod.ir/71enhfysq3lm/FlClash-0.8.92-windows-amd64-setup.exe.htm
+فقط کافیه آخر اسم حرف .htm را پاک کنید 👆👆
+
+
+ClashMeta :
+
+arm64-v8a
+https://uplod.ir/fx3q44wjc77e/cmfa-2.11.27-meta-arm64-v8a-release._.htm
+بعد از دانلود کافیه تغییر نام بزنید و در آخر اسمش apk. اضافه کنید.
+
+armv7
+https://uplod.ir/ccdlsa9x0b93/cmfa-2.11.27-meta-armeabi-v7a-release._.htm
+بعد از دانلود کافیه تغییر نام بزنید و در آخر اسمش apk. اضافه کنید.
+
+
+Universal
+https://uplod.ir/g1tm9tnog71n/cmfa-2.11.27-meta-universal-release._.htm
+بعد از دانلود کافیه تغییر نام بزنید و در آخر اسمش apk. اضافه کنید.
+
+
+PC : Not
+
+
+
+❤️ اشتراک گذاری یادتون نره 🌈
+
+
+‌‌@hamedvpns ☑️
+
+لایک   |   Like 👍❤️
+اشتراک بزارین   |   Share ⭐️
+</div>
+
+## hamedvpns — post 18815
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کیا کلش متا و flclash نصب دارند همین الان الان زود بگن !!!
+</div>
+
+## hamedvpns — post 18814
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خب دوستان بریم کم کم آماده بشیم برای روش نظرسنجی که گفتم 😎
+</div>
+
+## hamedvpns — post 18813
+
+
+
+
+## hamedvpns — post 18812
+
+<div align="center">
+  <a href="telegram/content/hamedvpns_18812_1778660618.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموژش نسخه جدید Whitedns 📲✨
+🎬 amozesh whitedns.mp4 7.7MB
+
+✅ نسخه اپلیکیشن به 1.2.0 ارتقا پیدا کرده 🚀
+
+✅ حالت Full VPN کامل‌تر و پایدارتر شده 🔒
+
+✅ حالا DNS هم داخل خود WhiteDNS مدیریت می‌شود 🌐
+
+✅ دیگر برای باز شدن سایت‌ها و اپ‌ها نیازی به NekoBox، NVPN یا ترفندهای مشابه ندارید 🚫
+
+✅ مشکل وصل بودن VPN ولی باز نشدن بعضی سایت‌ها و اپ‌ها برطرف شده ✅
+
+✅ صفحه اصلی ساده‌تر شده و انتخاب سرور، Resolver و نوع تنظیمات راحت‌تر انجام می‌شود 🎯
+
+✅ اگر سرور یا Resolver درست تنظیم نشده باشد، اپ واضح‌تر نشان می‌دهد چه چیزی کم است ⚠️
+
+✅ می‌توانید تنظیمات پیشرفته را با نام دلخواه ذخیره کنید 💾
+
+✅ امکان ساخت چند پروفایل تنظیمات پیشرفته اضافه شده 📂
+
+✅ می‌توانید هر زمان بین پروفایل‌های ذخیره‌شده تنظیمات پیشرفته جابه‌جا شوید 🔄
+
+✅ بعد از اتصال، نام پروفایل سرور، Resolver و تنظیمات فعال نمایش داده می‌شود 📋
+
+✅ امکان خروجی گرفتن فایل client_config.toml از داخل اپ اضافه شده 📄
+
+@whitedns
+
+❤️ اشتراک گذاری یادتون نره 🌈
+
+
+‌‌@hamedvpns ☑️
+
+لایک   |   Like 👍❤️
+اشتراک بزارین   |   Share ⭐
+</div>
+
+## ConfigWireguard — post 31685
+
+<div align="center">
+  <a href="telegram/content/ConfigWireguard_31685_1778660622.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🗓️ 75 روز ⌚ 0 ساعت و 30 دقیقه از زمان خاموشی اینترنت جهانی در ایران میگذره 😞
+</div>
+
+## ircfspace — post 2324
+
+<div align="center">
+  <img src="telegram/content/ircfspace_2324_1778660623.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فعلا دسترسی آزاد به اینترنت در متن سخنرانی‌های رییس‌جمهور و هیات دولت برقرار شده! 🤡
+
+🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+@ircfspace
+</div>
+
+## ircfspace — post 2323
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تعداد کاربران اینترنت پرو کمتر از نیم‌میلیون نفر است!
+
+تا امروز یک اپراتور با ارسال بیش از ۴ میلیون پیامک، برای بیش از ۴۵۰ هزار سیمکارت، #اینترنت_پرو فعال کرده و اپراتور دیگر با ارسال بیش از ۵۰۰ هزار پیامک، حدود ۴۰ هزار کاربر پرو فعال دارد.
+
+© aghplt
+
+🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+@ircfspace
+</div>
+
+## ircfspace — post 2322
+
+<div align="center">
+  <img src="telegram/content/ircfspace_2322_1778660623.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+انجمن مهندسان نفت برای دریافت #اینترنت_پرو واجد شرایط شد.
+
+۷۵ روزه اینترنت رو به بهانه امنیت به روی میلیون‌ها ایرانی بستن و هرکی که کار و زندگیش به اینترنت وابسته بود به خاک سیاه نشوندن، تا #اینترنت_طبقاتی رو اجرا کنن. مدیونین اگر فکر کنین کیسه دوختن!
+
+🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+@ircfspace
+</div>
+
+## ircfspace — post 2321
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بدتر از قطعی اینترنت فکر اینه که سالها درس خوندی، دکتر و مهندس و محقق و پژوهشگر شدی، بعد واسه کار علمی دسترسی به اینترنت بین‌الملل نداری؛ اونوقت حمید رسایی با حول و حوش دو کلاس سواد برات تصمیم میگیره تو اینترنت نداشته باشی، تازه خودشم تو ایکس وله!!!
+
+© NiHa_Mehr
+
+🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+@ircfspace
+</div>
+
+## Zel2oVPN — post 2744
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅VayDNS [S116]
+
+
+slipnet-enc://AY82m9dWqUykkKO78Ea6oP+/j9pf33sSqiffl9In7PfUZLoOX9m/JaWIaTXbx0OepA4d7Zh6oGOt0XQ2NGzIdv+4SL2+f3688so8Hn0WYDTGioCJuAc4gsScLpnDcVdbLawlZE43eGxKR2e9ybY1KzW8HlU99OmblipjCo4UR+hejxyUtr3ukV5zM6p4p7jYexPUuXGu60/rPTCyd3v80w6/7Mw9xufwdlrXPIqm85R1WaDT4DFa9clEsBcT8D/1yi5Lq5qkRLzCjYl70iOyyDacIsYxnc3iFmPMOFRROfbhm7TmUMFqCKcI1x+u0k5WjaYd7RUE1tLsCDHmDzSkbbgoNWZTAY0+9zlJ3IHZf9pHaxzfHgPb90zjJ/2BXnp7tWHwvUI1vuBlJfRcek9DJR4l1mYbTmWSTT7RUQtA9cIYVsM8Nwpk0rjVYafCYNpSgel/oL4ZPfe+P2PlYaLNZCH325XECc7hvTwduKCJUFisWMGh9CXcrq3Cwu3jSG1X0DYjjkh2mBUhMRbMbxmsHCNiWP4gvE0Ad3FtE+uV3RN7CAC+OblIsc9GcY3wi5UaYwPGhvrSVFvYZY84f8PFh5fEYcRdhNCVs1CPSBSVJiFcjHL5bOnZpnoT5erFBZAszTbh01O93dR3FdvZY5LExaz+OUDGCt8LT80F5DmnH/2pkhXao3q5JZu76FnmwIZKvwyPdXmVtZ5KnNkF7RlrYV8bVpE5A8ksM4xesh479vDqKwEKtshkWzo/GgMQMw9XlSM27E1QiQNLB3w=
+
+📱کانفیگ اسلیپ
+
+📱مخصوص نسخه جدید  2.5.3
+
+📱دانلود نسخه جدید
+
+📱تنظیمات پیشنهادی
+
+https://t.me/socks?server=127.0.0.1&port=10880&user=%40Zel2oVPN
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2743
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ VayDNS [S115]
+
+
+slipnet-enc://AbcQiLpe8HiQ1PrLcsoAbBze7KFD6WYSzNx6KsRC/fN8ebik9t6PSSEln/i1meaTUoDqQX5CSgAMbyG8NKuxI16HKYnOrRfjOyPp2VQ/ZFHwHgKzFXBJiYB5ebiAHCjSeBNsUtzLPQmAXIBIyfcNEgxNd1rE+7uk22ou4HaJdMWgkOVIeACBGy7pyccQqbttzj/EST5lGgtFvvx9/Wf85TPRkoz/nT8ghFB0+OhE2FHocqaY9cnB9h4elj4e5KV0Gxd7bU6fniWfMDaZDdfWYFhzk/GJVef7G91fAHAmkPuuZ8yPYKVR7NJ+DXr0WUZJKJbBZY+Y2l9FwXd+5a0qi3uOSYulfIjv9nFvL5EffTkWmwoiCB7wLGsTOqzrslJNpS1xm39aP7hF2XgMb+OsrrqYZtYxBQONQIF4DWEHlPRR+ZbbsFLgDyFqZG9UaXm9c7QIq3qKcmRx7YS19hlglkeezI08FmJcBgSBfy1Bcf6gicOV2XkX+VKnTD/4NOhUjpRt2+uNA1zonZKYWmCJQJDnU1wFUwHCsyL/RfHKi3y1ZRcdzGqOp5QtqONXgd3uX32kkh+pploFx0wisqDUONvGjwf4HgdCypnMZrbiY+Nuj1VPK+x9qLwjq5RHoIZsGEZf6tTvgsTRhULM3TFDLE3IqN87mbCxUy9vYlaL+FxNuQGar/TD8RjI29363HVKzGRRjbJw6ZhGchwfnJcQfA==
+
+📱کانفیگ اسلیپ
+
+📱مخصوص نسخه جدید  2.5.3
+
+📱دانلود نسخه جدید
+
+📱تنظیمات پیشنهادی
+
+https://t.me/socks?server=127.0.0.1&port=10880&user=%40Zel2oVPN
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2742
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅VayDNS [S114]
+
+
+slipnet-enc://AfTo00TOqNzikMc1N0JtGWAWwklsm/m5Fsto07Rh+CupQK/zAxaPN1riADs+uJ4Qk0nE5oyR6/jREYLym5vcaHUKJQDTqK2OtAyB65PzzYOkAIAZVlt7RCcb82ev0vtS/cxdgf2Mqz0iLIDtwi9IyT6rScXbSRBaMQu5pyR/WGFffzLuu3yHYIhjrsPnAVMB+DLzVIs6TrQ3ir1n7DYwJn+ZMRsuUs40d55M5Vp5ZfjZ3a2XVftjq7Bq+76Fb0SvFShNv5MQFfDAUsfk2HbysVQe4N4ISgj9iNghKMPhtxLKz0eoBoDi7x8nI9CGoe8jaZ/U6x1d66o/v8jEJB7Np1yLGN+d4Y4H5Qdv2whoZCbj0sT5dMVfjaH66WpMQWK1US14NhK0rrQQl1PouZ2fV2Cwslpvc1p4K3oUQMoj0lyIQqanVW0o3sXXUqi5qQ3Na/REpLVmO6jzGDRDNUmpdFkv4iPMjFQ7orVauuPdtwvzkpYPnoslD6OC+vv42Z1PxiPjRapLtFDJHcPrMrm3NFLmce4zDMy+Pix4szp+eNd3YTiJ95/CXf93IFLMI8yMyIWFGdJdocYsJgyhDeD3wl3YMRLBgX+peIKbsWzPqakACJ+zbahfo1TYJK6/0vjnulVG3TE/WHLgNrfX8E5iCUQm4VhpV7BucMB8K9xJ9q+hrMfVdqOJ1CIlFZY5k+DobXM0r1WSm7nHIFoWQRCm0uBS3VEsNcXhOZTSPtDuwe7pYu6I48wMcxUDG+gi1BHG2l6Ce/9jV5V2yioI+K8p
+
+📱کانفیگ اسلیپ
+
+📱مخصوص نسخه جدید  2.5.3
+
+📱دانلود نسخه جدید
+
+📱تنظیمات پیشنهادی
+
+https://t.me/socks?server=127.0.0.1&port=10880&user=%40Zel2oVPN
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2741
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅VayDNS+SSH [S113]
+
+
+slipnet-enc://AbohxS+YaS7Y3FxAq9Br/5yk62aZJUz2jdudKyysowSe245zefV5qlORRUQbdgovoLJLfy6X3zFpgQiP7bfAGE/FcWkqz5lkM9RiR+WrZ4xBu3XKuTrHn7aTvnIFU9He4LZprX7+WaYmOcoPU/E03+bV1BbzCxknjkOi+pDMLCHbCq6phvKu7ZGt0X9SEAvZ9JMxL2pyY01BbgXtXXoGYVmP8t4LAkfgaTSeIUuXaLyPH4Ns7nBq7TK4UB+YQYuAA+iWXFo0jeTo2SooYgZR6ap4dr50QD0asWMjG8hO3dWg+h1RR9HUVz9xzcQd8fwA21qmDYrCwF7YN8+OuzkAe+L2x/zfa8Y+Plnh/mNJ3LcswDOW4+yzJk1WqkFxtevoi9zlen3utbe3NpWXg8AzNSm11imwztdrfImk8yf8vOYEyTx7uLUA0YZtAw0SHqag7N4mAPJ0xhF6sj4bpPyCfCUsvh6iu57YazCUTvem2+XroCY2v91XMe75o9NJuihVIs6vOnvMvEAcukmfCklW37iLe9uIxA3FeOT/gkh/7GKH0tbSUwVdG+E6MuGEQwWb7tJAbOXHycpu1JVVA/Py1njeCboOkNTqfquvsE/fbzJJvUEDw4njSMJ5v+hIf1Jjsl0GmOgrGW9yzxXpKbpX177OYWnyAvataBq0iV1xhZeCOKeNi/X2zRR2XX4bzgeogywm+tz8jYffgCQOzBPLLpHenqASv81Qmv4xE+kSniRiOLNSc1m5gD48ZbWbueQY4eE+0rZ3WDnh0pdQEjQrtseMySPzbL6/psp6PhBLzowJkTRm9lNMqQ8SAvjd4uno7j5LtS0ig+HE
+
+
+📱کانفیگ اسلیپ
+
+📱مخصوص نسخه جدید  2.5.3
+
+📱دانلود نسخه جدید
+
+📱تنظیمات پیشنهادی
+
+https://t.me/socks?server=127.0.0.1&port=10880&user=%40Zel2oVPN
+
+☑➜@Zel2oVPN
+</div>
+
+## whitedns — post 582
+
+<div align="center">
+  <img src="telegram/content/whitedns_582_1778660623.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستان عزیز،
+
+یک نکته مهم را لازم دیدیم با شما به اشتراک بگذاریم.
+
+بر اساس بررسی‌هایی که انجام دادیم، فیلترینگ دامنه‌های عمومی همیشه به‌صورت کامل و یکسان انجام نمی‌شود. در واقع این محدودیت‌ها معمولاً به‌شکل منطقه‌ای و بسته به اپراتور، مسیر شبکه و Resolverهایی که استفاده می‌شوند متفاوت است. اینترنت هم طبق معمول تصمیم گرفته مثل یک موجود عصبی رفتار کند.
+
+برای مثال، اگر به وضعیت سرورهای WhiteDNS در تصویر دقت کنید، میزان لود شبکه یکی از سرورهای ما از حدود 4Mbps به نزدیک 400Kbps کاهش پیدا کرده است. این یعنی در بعضی مسیرها یا اپراتورها، دسترسی به برخی دامنه‌ها محدودتر شده یا کیفیت ارتباط افت کرده است.
+
+به همین دلیل، ممکن است روی بعضی از سرورها تعداد Resolverهای کمتری دریافت کنید یا کیفیت Resolverها نسبت به قبل پایین‌تر باشد.
+
+ما در حال بررسی راهکاری هستیم تا بتوانیم دامنه‌های سرورها را به‌صورت روزانه به‌روزرسانی کنیم و کیفیت اتصال را پایدارتر نگه داریم.
+
+تا زمان آماده شدن این راهکار، می‌توانید از سرورهای کانال همکار ما، @Masir_Sefid، که در پست قبلی معرفی کردیم استفاده کنید.
+
+تمام سرورهای ما و سرورهای کانال همکار، به‌صورت مداوم مانیتور می‌شوند تا در صورت افت کیفیت یا مشکل اتصال، سریع‌تر بتوانیم وضعیت را بررسی و اصلاح کنیم.
+
+ممنون از همراهی و گزارش‌های دقیق شما 🤍
+
+@WhiteDNS
+</div>
+
+## whitedns — post 581
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✔️سرور مستر دی ان اس (MasterDNS)
+
+
+❤️تاریخ بروزرسانی : ۲۳ اردبیهشت
+
+Domin 1: v1.masir-sefid.shop
+
+Domin 2: v2.masir-sefid.shop
+
+Domin 3: v3.masir-sefid.shop
+
+Domin 4: v4.masir-sefid.shop
+
+Domin 5: v5.masir-sefid.shop
+Key : Telegram-Channel--->@Masir_Sefid
+
+
+👾 لینک دانلود کلاینت ها :
+MasterDNS GG | MasterDNS HN
+WhiteDNS 1.2.0
+
+اگه وصل شدین ری اکشن برید بدونم
+❤️
+
+
+✉️Channel | @Masir_Sefid | کانال
+✉️
+</div>
+
+## whitedns — post 580
+
+<div align="center">
+  <img src="telegram/content/whitedns_580_1778660624.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امکان دانلود کل ریزالور ها به ربات @dns_resolvers_bot اضافه شد
+
+@WhiteDNS
+</div>
+
+## Spotify_Porteghali — post 12358
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💬 لینکِ دانلودِ مستقیمِ داخلی ( بدونِ فیلتر ) وی پی ان ها و کلاینت هایِ اندروید که این چند روز کارآمد و متصل بودند 
+💬 
+⚪️Psiphon [ v 453 ] : https://punkpaste.ir/f/Psiphon-v-453-Spotif-1gbnma 
+⚪️Psiphon ( Mod ) [ v 462 ] : https://punkpaste.ir/f/Psiphon-Mod…
+</div>
+
+## Spotify_Porteghali — post 12357
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💬 لینکِ دانلودِ مستقیمِ داخلی ( بدونِ فیلتر ) وی پی ان ها و کلاینت هایِ اندروید که این چند روز کارآمد و متصل بودند 
+💬
+
+
+
+⚪️Psiphon [ v 453 ] : https://punkpaste.ir/f/Psiphon-v-453-Spotif-1gbnma
+
+
+⚪️Psiphon ( Mod ) [ v 462 ] : https://punkpaste.ir/f/Psiphon-Mod-v-462-Sp-wp26x3
+
+
+⚪️V2RayNG [ v 2.1.7 ] : https://punkpaste.ir/f/V2rayNG-v-2-1-7-Spot-s677ol
+
+
+⚪️V2RayN ( Windows ) [ v 7.20.4 ] : https://punkpaste.ir/f/V2rayN-Windows-64-v--igs81c
+
+
+⚪️NapsternetV [ v 123.1 ] : https://punkpaste.ir/f/NapsternetV-v-123-1--gfsice
+
+
+⚪️SlipNet [ v 2.5.3 ] : https://punkpaste.ir/f/SlipNet-v-2-5-3-Spot-0ou2rk
+
+
+⚪️SlipStream ( Windows ) : https://punkpaste.ir/f/SlipStream-Windows-6-ddn0qt
+
+
+⚪️V2Box [ v 5.0.3 ] : https://punkpaste.ir/f/V2Box-v-5-0-3-Spotif-d03m6x
+
+
+⚪️Happ [ v 3.18.1 ] : https://punkpaste.ir/f/Happ-v-3-18-1-Spotif-mqbzfr
+
+
+⚪️OpenVPN  [ v 3.3.2 ] : https://punkpaste.ir/f/OpenVPN-Connect-v-3--eue4ww
+
+
+⚪️HTTP Injector [ v 6.5.0 ] : https://punkpaste.ir/f/HTTP-Injector-v-6-5--zzhcby
+
+
+⚪️NetMod [ v 3.2.8 ] : https://punkpaste.ir/f/NetMod-v-3-2-8-Spoti-35hvqy
+
+
+⚪️ShirOKhorshid [ v 2026.3.17 ] : https://punkpaste.ir/f/ShirOKhorshid-v-2026-781llx
+
+
+⚪️AM Tunnel Pro [ v 28.0 ] : https://punkpaste.ir/f/AM-TUNNEL-Pro-v-28-0-n2xjmg
+
+
+⚪️AM Tunnel Lite : [ v 2.0 ] : https://punkpaste.ir/f/AM-TUNNEL-LITE-v-2-0-y325mm
+
+
+⚪️MasterDNS [ v 1.0.9 ] : https://punkpaste.ir/f/MasterDns-v-1-0-9-Sp-z58k11
+
+
+⚪️WireGuard [ v 1.0.20 ] : https://punkpaste.ir/f/WireGuard-v-1-0-20-S-80q8vj
+
+
+⚪️WhiteDNS [ v 1.1.0 ] : https://punkpaste.ir/f/WhiteDNS-v-1-1-0-Spo-8gruhs
+
+
+⚪️Every Proxy [ v 12.7 ] : https://punkpaste.ir/f/Every-Proxy-v-12-7-S-ypu92j
+
+
+⚪️NetShare [ v 2.5.50 ] : https://punkpaste.ir/f/NetShare-v-2-5-50-Sp-66mr6e
+
+
+
+🔴خیلی مهم : حتما لینک رو کپی کنید و در مرورگر Chrome جایگذاری کنید و دانلود کنید ؛ لینک ها با همه ی اینترنت ها بدونِ نیاز به وی پی ان کار می‌کنند .
+
++ اعتبارِ لینک هایِ دانلود : 24 ساعت [ لینک ها آپدیت می شود . ]
+
+🆔 @Spotify_Porteghali 🍊
+
+↰  بزرگترین خانواده اسپاتیفای در کشور  ↱
+</div>
+
+## JynMarket — post 2248
+
+<div align="center">
+  <a href="telegram/content/JynMarket_2248_1778660624.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+از این به بعد سعی میکنم کمتر npv هایی که به زور وصل میشنو بزارم 
+🖱️ بیشتر اسلیپ نت و برنامه هایی که واسه تلگرام سرعت معقولی دارن
+</div>
+
+## JynMarket — post 2247
+
+<div align="center">
+  <a href="telegram/content/JynMarket_2247_1778660624.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌟 سرور اسلیپ نت جدید slipnet-enc://Af4gSOifBaUMP+poVCePiVy/mAZUwDrP95W30wathvACF3QYES+P5EPP6nMjqX65hOSCxfhEfOBCw9Q/37QFSX+ysi+nr5zebGFCLivPCrFh9igpWUYrYbY1/QSycGHlMgCyWfMelcirZTx3tg92TPLZRFi82+OlHW2cuzjM3SUx1WXMDRDQHuwVDkaM0ffOUUIk1RjGsEInp0OPhEy8zh/VKHmv…
+</div>
+
+## JynMarket — post 2246
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌟 سرور اسلیپ نت جدید
+
+slipnet-enc://Af4gSOifBaUMP+poVCePiVy/mAZUwDrP95W30wathvACF3QYES+P5EPP6nMjqX65hOSCxfhEfOBCw9Q/37QFSX+ysi+nr5zebGFCLivPCrFh9igpWUYrYbY1/QSycGHlMgCyWfMelcirZTx3tg92TPLZRFi82+OlHW2cuzjM3SUx1WXMDRDQHuwVDkaM0ffOUUIk1RjGsEInp0OPhEy8zh/VKHmvNGGBZp0NVL1G0OCM7biF0anvZ6WU96Ath/49DQY8Jz4fyN+rMKewjHsKDyHsiYVVkFRcWrx4BhnamMaZ5FuQwLhbp1Jx0QeqxZiXvp64d0FfWV2+ug1MprlUZgFygcaVoXzdwEh5Lh4cAIvie5IuajILGKExYyQZ0G0hq5h6Apf9FyxDaYcmI1B0+0V9CzF6dGJMypeK5Yg6uRPau7lDVpswIZNAvd+cNjXtqoeXqqS4nHXWZyHARZE25MLLNaJkckKu22tbkMbTGkpFMlsrXlEW3CPpcZOJIlFLvGvTsfJhOHIk6jIuLrLz9XfCJwCAjNIetuZuRQcZmWDEnZhGKRViLwiq4yfrQogGdCDTiZewYeUHlnIHnC3760SRC1xA/kpwwSonrhLJc+p8wrG7bWQX1InaBMhO4RPcstrnCYolj15y1ow3s6gHd5yRm81cH7G898GYJBscQ0dr
+
+
+🔗 اموزش استفاده - دانلود برنامه موردنیاز
+</div>
+
+## JynMarket — post 2245
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌟 سرور اسلیپ نت جدید
+
+slipnet-enc://AX7DFPxhCg133kMNoOClrnbTAZhEfvDGzCPliU4EJtjxKNQExajlkToXlxa0j3WXl1tjrAiBDlBBFoWdMdZ/Tyxu+lGD009pRE5A0N0Koj8P/cCxCeVzxnHUkKl8utIowb2njuGCj/w4w2h+wr7pwYucJO746b1Hwr44+VRTqUgO/CGUgGHmK1V9bsydzTCmjsrtnC279IRhTa8MqU0ibh0Uqgt0LcT+V7LKng6BqDGP00Af6xt8Gal14SSzxgkMxO86X0Q3wTQo2nedqMYxgTkDU/Q7iyaRK0IPPTI0kE/IO0Jyc6tsD0Lt3ucYZ3yhFbwNSxlkVDccs3yQeQKum3KHEHc6wudGBCbo+Q/ZqHnovkn7yWlsENklLCdRYDdQqgqSI0GuUTOnLe3hnZRqklfYLS8ECLxP10AsVbP6amkQAuSxj6rvz6jveOQ1yDKB0cqNxdYhCRp0yT/J1Qejhxh5zkOUOko/13yRRtjyIpfQl/nhJAvolpfTFuGy49PXdCttjr8kyxMRqhrPpSyOOtWJm3lEXUk0JGHflgBTbXQA+KuF3wXEc0ihsiKjZlGvostmQWs5uwZZfX+p/nSv/dWWegmLt+REXsmF4FKAe0H1B1f45Y/v5KBKMwK38bTLylkruSfDWOuDHcKwR2OIinfQ7g2PpYDOPYcowJF5a8e2uSesWOLTmqrlJLo5d2lp2DL+zpVn7HnIKk+zJ6MYiNRxyTxTcOJrkNm21lfPplBxFCBhqczqfB5vUlQ98pbizs2Ksc2uP6nBfEX4FrkoZ6Q=
+
+
+🔗 اموزش استفاده - دانلود برنامه موردنیاز
+</div>
+
+## JynMarket — post 2244
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترکیبی سایفون متصل تست شده
+
+vless://5f4e1b9e-5e3c-4101-a802-0a44ff942909@185.143.233.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%40JynMarket
+
+@JynMarket
+</div>
+
+## TirexNet — post 3693
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموزش ترکیب Slipnet با NekoBox 🐊
+
+میتونم بگم بهترین متود ترکیبیه
+فوق العاده اتصالتون رو بهینه میکنه و از سایفون و بقیه چیزا بهتره.
+
+
+آموزش متنی:
+
+ابتدا از منوی همبرگری به قسمت Settings رفته و Apps Vpn Mode را انتخاب کنید و تیکش رو فعال کنید.
+
+حالت روی Proxy قرار بدین و برنامه هایی که میخواین از فیلتری دربیان رو انتخاب میکنید.
+
+و وصل میشید و دیگه نیازی به پروکسی نیست.
+
+
+کانفیگ مورد نیاز:
+socks5://127.0.0.1:10880/#%40TirexNet
+
+
+برنامه نکوباکس:
+
+نسخه v8a
+https://dl.toolschi.com/view.php?f=08e134a18824a43a.zip
+
+نسخه v7a
+https://dl.toolschi.com/view.php?f=f25ae8518482070b.zip
+
+
+
+نکته:
+
+در اسلیپ نت باید Listen Port شما 10880 باشه ( اگه هم نبود مهم نیست کافیه تو کانفیگ پورتش رو با پورت اسلیپ نت یکسان کنید)
+اگه نمیدونید Listen Port کجاس تو همون تنظیمات برنامه برید پیدا میکنید.
+
+من باهاش اینستا میرم
+از Vpn Mode خود اسلیپ نت بهتر کارمیکنه.
+</div>
+
+## DigiGozar — post 9190
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فردا احتمال زیاد به مدت محدود پرداخت ریالی باز میشه
+🔥
+</div>
+
+## MatinSenPaii — post 3027
+
+<div align="center">
+  <img src="telegram/content/MatinSenPaii_3027_1778660625.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امکان دانلود کل ریزالور ها به ربات @dns_resolvers_bot اضافه شد
+
+@WhiteDNS
+</div>
+
+## purnet — post 15252
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اختلال تو ترکیبی
+سایفون و دی ان اس ربطی ب نسخه جدید نداره
+بهتره لوکیشن مشخص کنین.
+این اختلال قبلا هم افتاده بود
+
+
+
+✅✅✅نسخه جدید purvpn 13
+
+https://punkpaste.ir/f/PurVpn-122946-4sv0mv
+
+ممنون از کاربر با عکس پروفایل رضا شاه که زحمت اپلود و کشیدن
+</div>
+
+## archivetell — post 4819
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستان ، تغییر نتلیفای کسایی که قطع شدن
+نمیدونم با این تغییر چقدر دووم داشته باشه من که فعلا وصلم.
+
+یه تغییری باید سمت سرور و کلاینت بدید
+اگه سرور ندارید صبر کنید صاحب سرور انجام بده خبر بده
+
+سمت سرور :
+اگه پنل ثنایی دارید ، قسمت inbound
+یه فیلد هست نوشته
+padding bytes :
+و خالیه شما بکنیدش 1-1
+اینجوری میشه :
+
+padding bytes : 1-1
+
+اگرم xray دستی نصب کردید و پنل ندارید باید فایل config.json ادیت کنید زیر path همینو اضاف کنید که احتمالا بلد باشه هرکی دستی نصب کرده.
+
+حالا سمت کلاینت :
+کانفیگتون رو ادیت کنید (علامت مداد)
+زیر path
+عنوانش نوشته Xhttp extra raw JSON...
+داخلش اینو بنویسید یا اضاف کنید
+
+{ "xPaddingBytes": "1-1" }
+
+اگر خالی نیست هم همچین فرمتی میشه(البته من از فرمت بالا استفاده کردم این پایینی رو یکی از بچه ها فرستاده تست نکردم) :
+
+{"headers":{"x-host":"netlify.parsashonam.sbs:444"},"xPaddingBytes":"1-1","scMaxEachPostBytes":"1000000"}
+</div>
+
+## archivetell — post 4818
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نتلیفای وصل
+
+kubernetes.io ، 50.7.5.83
+
+65.109.34.234 ، kustomize.sigs.k8s.io
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4817
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👾 لیست دانلود برنامه ها با نت ملی
+
+
+1️⃣ WhiteDNS 1.1.0 (نسخه ی رسمی)
+
+4️⃣ NekoBox v8a ● NekoBox v7a 1.4.2
+
+7️⃣ The Feed 0.17.5
+
+📱 Telegram(گوگل پلی) 12.7.2
+
+📱 Telegram(رسمی) 12.7.2
+
+📱 Telegram(Windows) 12.7.2
+
+📱Whatsapp 2‌.26‌.17.‌72
+
+💬Instagram v415.0.0.36.76
+
+👑 ShiroKhorshid 2026.03.17
+
+5️⃣ Mhrv Rs v1.9.14
+
+📶 Npv 123
+
+📶 V2box 5.3.4
+
+📶 V2ray Ng 2.18
+
+📶 V2ray Ng (Windows)
+
+3️⃣Am tunnle(pro) 37
+
+3️⃣Am tunnle(lite)
+
+🕊 Slipnet 2.5.3
+
+2️⃣ Masterdns 1.0.9
+
+📶 Open vpn 3.71
+
+📱 Happ 3.20.4
+
+💻 Happ(Windows)
+
+📶 Psiphon 462
+
+📶 Psiphon (Windows)
+
+8️⃣ Bd net 104
+
+6️⃣Mahsang 15
+
+📶 http injector 6.5.0
+
+📶 Wireguard 1.0.20260315
+</div>
+
+## archivetell — post 4816
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لینک داخلی V2rayn ویندوز
+
+دانلود
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4815
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+به زودی جنگ میشه..
+دارن همه راه ها رو میبندن تا دوباره فقط آیپی های وایت وصل بمونن و قیمت رو ببرن بالا
+</div>
+
+## archivetell — post 4814
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جدیدترین سریال ها
+
+https://www.nilfgaard.top
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4813
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یه سری گفتن نتلیفای وصل شده دوباره ولی برای من نشده. برای دوستانی که از نتلیفای لعنتی رکب خوردن:
+
+(شکن ظاهرا تو این قطعی نقشی نداشته ولی از کجا معلوم پشت پرده یه صحبت ریزی کرده باشن!)
+
+یه راه حل موقت (امیدوارم آدما‌ی نتلیفای اینجا نباشن) که کانفیگ رو دوباره زنده میکنه ولی Pros and Cons خودش رو داره از این قراره: PaddingBytes رو توی کانفیگ غیر فعال کنید و کانفیگتون به کار می‌افته طبق مراحل زیر. قبل از هرچیز: من اینا رو با شکن تست کردم و جواب داد ولی شما باید خودتون اینو تست کنید. اساسا ایده‌ی xPaddingBytes برای مبارزه با DPI بوده و شاید این روش مناسب نباشه.
+
+۱. برای سمت کلاینت v2Ray، این بخش رو به XHTTP Extra Raw Json کانفیگ اضافه کنید تا پدینگ بشه فقط یک بایت. (و بعد مطابق معمول کانفیگ رو به صورت لینک یا JSON بفرستید برای بقیه)
+
+{ "xPaddingBytes": "1-1" }
+
+همچنین ظاهرا ویژگی‌های ظاهری پدینگ هم قابل تغییر و رندوم کردن هست (پیش‌فرض فقط ۱۰۰ الی ۱۰۰۰ تا X). با این من راهی پیدا نکردم که پدینگ رو کامل خاموش کنه از سمت کلاینت.
+
+۲. مهم: قاعدتا باید سمت سرور هم همین تغییر رو بدید، چون سرور Xray حداقل تا نسخه‌ی 26.3.27 حتما چک می‌کنه که کلاینت این پدینگ رو با سایز درست (که پیش فرض اندازه‌ی ۱۰۰ تا ۱۰۰۰ بایت هست) داشته باشه. دو راه پیش روی من بود، یا این تنظیم رو توی سرور عوض کنم (و از اون ور هم سایز پدینگ بشه ۱ بایت)، یا کلا سرور رو پچ کنم (و البته ظاهرا یه درخواست از طرف توسعه‌دهنده‌ها هم هست برای Xray Xhttp که الزام داشتن پدینگ از سمت سرور برای کلاینت رو حذف کنه).
+
+من سرور رو پچ کردم چرا که می‌خواستم رفتار سرور عوض نشه (و نتلیفای حداقل هنوز رفتار سرور براش مهم نیست یعنی پدینگ‌های از سمت سرور رو کاری نداره)، شما می‌تونید تلاش کنید که xPaddingBytes رو توی تنظیمات سرور بذارید "1-1" مشابه کلاینت (من با پنل ثنایی و اینا کار نکردم، یحتمل از اونجا هم میشه این تنظیم رو داد).
+
+اگر می‌خواید مثل من پچ کنید، مشابه تغییر branch پایین (نه main) بیلد کنید برای لینوکس یا غیره و باینری رو جایگزین کنید (فورک از ورژن 26.3.27). بیلد کار پنج دیقس، از AI بپرسید.
+🔹 به هیچ وجه باینری از کسی نگیرید! خودتون بیلد کنید.
+https://github.com/Sprimesson/Xray-core/tree/feature/no-xpadding-checks
+
+اگر میخواید پچ نکنید و بجاش کانفیگ سرور رو با کلاینت یکی کنید (من تست نکردم) باید ذیل xhttpSettings توی config.json همین اضافه شه مثلا:
+
+"xhttpSettings": {
+"path": "/s1",
+"xPaddingBytes": "1-1"
+}
+
+
+۳. یه موضوع دیگه که من به نظرم مهمه: من کانفیگ‌هام دو تا نسخه داره Normal و Slow. توی Slow، تاخیر توی ارسال POST اضافه کردم و این باعث میشه پینگ کانفیگ بره بالا ولی روی سرعت آپلود تاثیر ملموسی نداره (برای دانلود هم به نظر میاد فرقی نداره). استفاده از Slow باعث میشه تعداد ریکوئست به نتلیفای لعنتی (که سرگردنه وایساده و قیمت گیگی/ریکوئستی‌ش از رقباش که اونم حرومزادن و دامین فرانتینگ رو بستن بالاتره) کمتر بشه و به عبارتی اقتصادی‌تر باشه. مثال برای XHTTP Extra Raw JSON:
+
+{
+"xPaddingBytes": "1-1",
+"scMaxEachPostBytes": "4000000",
+"scMinPostsIntervalMs": "500-1000",
+"scMaxBufferedPosts": 30,
+"scStreamUpServerSecs": -1,
+"xmux": {
+"maxConnections": 3,
+"hMaxRequestTimes": 0,
+"hMaxReusableSecs": 0,
+"hKeepAlivePeriod": -1
+}
+}
+
+این JSON ها وارد لینک کانفیگ میشن و مشکلی نیست.
+
+Source
+</div>
+
+## Break_The_Barriers — post 1544
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پسورد فعلی ساعت ١۴ منقضی می‌شه.
+</div>
+
+## Break_The_Barriers — post 1543
+
+<div align="center">
+  <img src="telegram/content/Break_The_Barriers_1543_1778660625.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پسورد جدید جهت اتصال به کانفیگ‌های کانال
+
+تاریخ: ٢٣ اردی‌بهشت‌ماه
+
+بر روی علامت مداد 🖋️ کانفیگ بزنید و در انتهای تنظیمات، در بخش Credentials، پسورد را وارد کنید.
+
+Password: R2oV7LqZxF1M9cWa
+
+@break_the_barriers
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 01:33
 ---
 
