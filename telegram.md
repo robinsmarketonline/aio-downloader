@@ -7,6 +7,1600 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 11:41
+---
+
+## vpn_xvpn_ch — post 401
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‼️ شرایط جدید اشتراک و تعرفه ها ‼️ 🟢 تعرفه اشتراک VIP 📋 ثبت سفارش از 1 تا 20 گیگ 💸 قیمت هر گیگ 450،000 🔵 تعرفه اشتراک PRO 📋 ثبت سفارش از 1 تا 20 گیگ 💸 قیمت هر گیگ 230،000 💳 پرداخت به صورت کارت به کارت / تتر ⭕ اشتراک ها تا آخرین لحظه تضمین عودت وجه دارند…
+</div>
+
+## xsfilterrnet — post 3417
+
+<div align="center">
+  <a href="https://t.me/xsfilterrnet/3417" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🍷آموزش Psiphon + MitM (فعلا روی اندروید، ویندوز هم مشابه است):
+
+۱. اول اینکه واقعا نیازی به MitM نبود اگه خود سایفون یسری امکاناتو داشت ولی به هر حال نداره و نیاز به MitM هست.
+
+۲. حتما از آخرین ورژن psiphon و v2rayNG استفاده کنید همچنین فایلهای جئو رو در v2rayNG اپدیت کنید.
+۳. قسمت MitM فقط برای سایفون استفاده میشه و بنابراین با این روش کل گوشی شما تونل میشه
+۴. نحوه اضافه کردن سرتیفیکیت به سیستم و v2rayNG مشابه MitM-DomainFronting هست و بنابراین اگر قبلا این کار را انجام دادید نیاز به تکرار آن ندارید. (راهنمای ایجاد و اضافه کردن سرتیفیکیت به سيستم و v2rayNG در readme پروژه MitM-DomainFronting وجود دارد)
+۵. کانفیگ psiphon-helper@patterniha_v1
+را وارد برنامه v2rayNG کنید و v2rayNG را در حالت proxy only اجرا کنید، دقت کنید در صورتی که میخواهید از کانفیگ دیگری بدون سایفون استفاده کنید باید دوباره از vpn mode استفاده کنید.
+۶. در تنظیمات سایفون و در قسمت proxy settings مقدار
+127.0.0.1  10808
+را وارد کنید.
+۷. در تنظیمات سایفون در قسمت vpn settings گزینه don't tunnel selected apps را انتخاب کنید و برنامه v2rayNG را مستثنی کنید.
+۸. سایفون را اجرا کنید و در صورت اتصال کل گوشی شما تونل میشود.
+۹. در کانفیگ psiphon-helper@patterniha_v1
+به جای ایپی ...92 میتوانید از هر ایپی دیگری که متعلق به akamai باشد استفاده کنید.
+۱۰. حمایت لطفا فراموش نشه همچنان پروژه های زیادی در راستای دسترسی آزاد مردم به اینترنت در نظر دارم، آدرس های ولت بنده در کانال شخصی بنده موجود هست
+
+@patterniha 
+💎
+@xsfilterrnet 
+👑
+</div>
+
+## saministamm — post 62789
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترکیبی متصل :
+vless://9ea9e54b-d4da-4773-855a-e5371e4da946@snapp.ir:80?path=%2F&security=&encryption=none&host=hubfile.zpax.ir&type=ws#saministamm
+</div>
+
+## saministamm — post 62788
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨وزیر آموزش‌وپرورش:
+امتحانات نهایی ۲ هفته بعد از عادی شدن شرایط و پایان جنگ برگزار خواهند شد. ضمن اینکه در استان‌ها تصمیم‌گیری دربارۀ نحوۀ برگزاری امتحانات برعهدۀ استانداران خواهد بود.
+@saministamm
+</div>
+
+## saministamm — post 62787
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 امروز May 14 روز جهانی عشق های مجازی و آنلاینه.
+</div>
+
+## saministamm — post 62786
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پروکسی متصل :
+
+tg://proxy?server=95.217.235.33&port=443&secret=dd104462821249bd7ac519130220c25d09
+</div>
+
+## saministamm — post 62785
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یه عده همون 57 فهمیدن
+یه عده با کشتار 66 فهمیدن
+یه عده بعد از 88 فهمیدن
+یه عده با کشتار 96 فهمیدن
+یه عده آبان 98
+یه عده هم 1401
+بقیه هم 1404
+اونیکه تا الان نفهمیده نونش تو نفهمیدنه.
+</div>
+
+## saministamm — post 62784
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+• پروکسی تلگرام
+
+tg://proxy?server=178.104.81.34&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+-همراه اول و ایرانسل پینگ میده٬ برای بهتر شدن کیفیتش با سرورای رایگان ترکیبش کنید.
+
+@saministamm
+</div>
+
+## Skyportall — post 10644
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+psiphon-helper@patterniha.json
+</div>
+
+## Skyportall — post 10643
+
+<div align="center">
+  <img src="telegram/content/Skyportall_10643_1778746308.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دمتون گرم وصل شد
+</div>
+
+## Skyportall — post 10642
+
+<div align="center">
+  <a href="telegram/content/Skyportall_10642_1778746309.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📌آموزش متود جدید ترکیب سایفون+ MitN به زبان ساده.
+✅
+
+
+🌟قبلش برید سایت زیر و یک سرتیفیکیت شخصی ایجاد کنید. (سایت با vpn باز میشه.)
+
+https://regery.com/en/security/ssl-tools/self-signed-certificate-generator
+
+
+🌟یک cert و key جدید بسازید و بعد داخل فایل‌منیجر گوشی، اسم فایل‌ها رو ادیت کنید تا دقیقا این شکلی بشن :
+"mycert.crt"
+"mycert.key"
+
+
+🌟داخل ویتوری روی سه خط بزنید و گرینه assets files رو بزنید و دو تا کلیدی که گرفتید اضافه کنید
+
+
+🌟همون بخش، روی آیکون ابرشکل بالا بزنید و صبر کنید تا geo آپدیت بشه. باید vpn روشن باشه.
+
+برید تنظیمات گوشی و سرچ کنید:
+CA certificate
+
+
+🌟بزنید روی install و فایل mycert.crt رو از پوشه دانلودها نصب کنید
+
+
+1. جدید ترین تسخه V2rayNG و Psiphon رو نصب داشته باشید
+
+2. این فایل رو به ویتوری اد کنید
+- ویتوری حالت proxy mode باشه.
+
+3.در تنظیمات سایفون قسمت proxy settings مقدار رو به این شکل تنظیم کنید
+127.0.0.1
+10808
+
+4. سایفون رو اجرا کنید
+
+( میتونید از هر ایپی که متعلق به akamai هست استفاده کنید)
+
+
+
+😘 اگر توضیحات بالا براتون کافی نبود. دایرکت بگید ویدیوش بفرستم
+🕺
+
+روش ساده اس. سرعتشم خوبه فعلا.
+✅
+
+
+⚡️ @Skyportall
+</div>
+
+## hamedvpns — post 18839
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آغایون داداشا خانوما این ویتورای رو نصب کنید لطفا
+
+https://t.me/hamedvpns/18793
+</div>
+
+## hamedvpns — post 18838
+
+<div align="center">
+  <a href="telegram/content/hamedvpns_18838_1778746309.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموزش تصویری کامل و ساده
+متود Psiphon—MITM
+سرعت: عالی
+حجم: نامحدود!
+پیش‌نیاز: هیچی!!!
+
+
+اگر نتوانید وارد سایتش بشید من کد تا دلتون بخواد میتونم در اختیارتون قرار بدم پس نگران نباشید .
+
+
+سایت مورد نیاز اول ویدیو برای دریافت سرتیفیکیت:
+https://regery.com/en/security/ssl-tools/self-signed-certificate-generator
+دانلود ZIP آموزش تصویری + پی دی اف + کانفیگ لازم با لینک داخلی :
+https://uploadgirl.ir/d/de707acd-2595-4357-9cbe-ae670a0ddc40
+
+ZIP Password : @TheVPNMethod
+
+تمامی مراحل در فایل pdf خیلی عالی توضیح داده شده 😎
+
+لینک دانلود داخلی سایفون!
+لینک دانلود داخلی v2rayNG!
+— More: @TheVPNMethod
+
+
+
+❤️ اشتراک گذاری یادتون نره 🌈
+..
+‌‌@hamedvpns ☑️
+
+لایک   |   Like 👍❤️
+اشتراک بزارین   |   Share ⭐️
+</div>
+
+## hamedvpns — post 18837
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستای سامانتل و شاتل و رایتل و اپتل خب بریم برای کانفیگ‌های شما اول از همه
+
+
+همه صد در صد ویتورای دارید میدونم .
+
+اما نظر منو بخواین سعی کنید EXclave نصب کنید ، چون میتونید باهاش بهتر متصل بشید .
+
+یکی از دوستان با همراه‌اول تست کرد در برنامه Happ و خیلی خوب براش کار کرد.
+
+3 تا ساب لینک براتون میزارم که راحت میتونید داخل برنامه خودتون بزنید و متصل بشید .
+
+لینک ها از گیتهاب هستند :
+
+https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/IR_NETLIFY_SUB_new.txt
+
+https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/IR_NETLIFY_SUB.txt
+
+https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/test_1.0.4.txt
+
+
+
+❤️ اشتراک گذاری یادتون نره 🌈
+
+
+‌‌@hamedvpns ☑️
+
+لایک   |   Like 👍❤️
+اشتراک بزارین   |   Share ⭐️
+</div>
+
+## hamedvpns — post 18832
+
+<div align="center">
+  <a href="https://t.me/hamedvpns/18832" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نسخه ۱.۳.۰ وایتDNS
+
+
+✅ حالا می‌توانید فایل Resolver وارد کنید و اپ خودش Resolverهای سالم را جدا کند
+✅ نتیجه اسکن به‌صورت خودکار داخل پروفایل‌های Resolver ذخیره می‌شود
+✅ امکان توقف اسکن و ادامه دادن آن از همان‌جایی که مانده اضافه شده
+✅ سرعت اسکن قابل تنظیم شده تا بین سرعت بیشتر و مصرف باتری کمتر انتخاب کنید
+✅ وضعیت اسکن با تعداد کل، سالم، ردشده و میزان پیشرفت واضح‌تر نمایش داده می‌شود
+✅ می‌توانید برای اسکن، پروفایل سرور جداگانه انتخاب کنید
+✅ اگر پروفایل اسکن سرور یا کلید نداشته باشد، اپ واضح‌تر هشدار می‌دهد
+✅ امکان خروجی گرفتن تنظیمات پیشرفته به فایل advanced_settings.toml اضافه شده
+✅ خروجی گرفتن و اشتراک‌گذاری فایل‌ها امن‌تر و تمیزتر شده
+
+لینک دانلود داخلی :
+https://dl.toolschi.com/view.php?f=e15bcec825298e4c.zip
+
+🔗 GitHub :
+https://github.com/iampedii/WhiteDNS/releases/tag/1.3.0
+
+از همراهی و حمایت شما ممنونیم ❤️
+
+
+‌‌@hamedvpns ☑️
+
+لایک   |   Like 👍❤️
+اشتراک بزارین   |   Share ⭐
+</div>
+
+## hamedvpns — post 18831
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨ᑎΞᗯ ᑌᑭᗪᗩTΞ
+🚀 نسخه جدید منتشر شد برای masterking32/MasterDnsVPN:
+
+✅ Release v2026.05.10.180256-27c7e11 (v2026.05.10.180256-27c7e11)
+
+Changes since v2026.05.04.123456-38b73de:
+
+Automated release created by workflow run 25635856673 for commit 27c7e11ce9eb51d7db36b34188502e524a3184db
+
+### Commits
+- Add badges to README for project visibility ([ae4a40d](https://github.com/masterking32/MasterDnsVPN/commit/ae4a40db27a514b12388afa23a88b67d82bdecaf))
+- Update README.MD ([dd1c223](https://github.com/masterking32/MasterDnsVPN/commit/dd1c223ca26be7ab043b2b3701a04482ca3088ab))
+- Added new balancers to logs. ([4c45fe6](https://github.com/...
+(متن کامل در گیت‌هاب)
+
+🔗 مشاهده در گیت‌هاب
+𓄂𓆃
+</div>
+
+## hamedvpns — post 18830
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨ᑎΞᗯ ᑌᑭᗪᗩTΞ
+🚀 نسخه جدید منتشر شد برای lilendian0x00/xray-knife:
+
+✅ Xray-knife v9.12.1 (v9.12.1)
+
+# What's New
+---------------
+Fix: timestamps are now written in a stable RFC-style format (`_time_format=sqlite`) and stored in UTC.
+
+🔗 مشاهده در گیت‌هاب
+𓄂𓆃
+</div>
+
+## hamedvpns — post 18829
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨ᑎΞᗯ ᑌᑭᗪᗩTΞ
+🚀 نسخه جدید منتشر شد برای Devtahas/CG_BPB:
+
+✅ v10.0 (v10.0)
+
+**Full Changelog**: https://github.com/Devtahas/CG_BPB/compare/v9.9...v10.0
+نسخه ی تستی برای عموم منشتر شد
+بر اساس تست هایی که انجام شده برای اینترنت مخابرات و وای فای اوکی بوده و وصل شده
+ممنون میشم باگ های نرم افزار رو بهمون گزارش بدین❤
+اگه به هر دلیلی نمیتونید از گیت های دانلود کنید از لینک زیر استفاده کنید:
+https://scorpian.ir/proxy/asset/Devtahas/CG_BPB/418708295
+
+🔗 مشاهده در گیت‌هاب
+𓄂𓆃
+</div>
+
+## ConfigWireguard — post 31689
+
+<div align="center">
+  <a href="https://t.me/ConfigWireguard/31689" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموزش Psiphon + MitM (فعلا روی اندروید، ویندوز هم مشابه است):
+
+۱. اول اینکه واقعا نیازی به MitM نبود اگه خود سایفون یسری امکاناتو داشت ولی به هر حال نداره و نیاز به MitM هست.
+
+۲. حتما از آخرین ورژن psiphon و v2rayNG استفاده کنید همچنین فایلهای جئو رو در v2rayNG اپدیت کنید.
+۳. قسمت MitM فقط برای سایفون استفاده میشه و بنابراین با این روش کل گوشی شما تونل میشه
+۴. نحوه اضافه کردن سرتیفیکیت به سیستم و v2rayNG مشابه MitM-DomainFronting هست و بنابراین اگر قبلا این کار را انجام دادید نیاز به تکرار آن ندارید. (راهنمای ایجاد و اضافه کردن سرتیفیکیت به سيستم و v2rayNG در readme پروژه MitM-DomainFronting وجود دارد)
+۵. کانفیگ psiphon-helper@patterniha_v1
+را وارد برنامه v2rayNG کنید و v2rayNG را در حالت proxy only اجرا کنید، دقت کنید در صورتی که میخواهید از کانفیگ دیگری بدون سایفون استفاده کنید باید دوباره از vpn mode استفاده کنید.
+۶. در تنظیمات سایفون و در قسمت proxy settings مقدار
+127.0.0.1  10808
+را وارد کنید.
+۷. در تنظیمات سایفون در قسمت vpn settings گزینه don't tunnel selected apps را انتخاب کنید و برنامه v2rayNG را مستثنی کنید.
+۸. سایفون را اجرا کنید و در صورت اتصال کل گوشی شما تونل میشود.
+۹. در کانفیگ psiphon-helper@patterniha_v1
+به جای ایپی ...92 میتوانید از هر ایپی دیگری که متعلق به akamai باشد استفاده کنید.
+۱۰. حمایت لطفا فراموش نشه همچنان پروژه های زیادی در راستای دسترسی آزاد مردم به اینترنت در نظر دارم، آدرس های ولت بنده در کانال شخصی بنده موجود هست
+@patterniha
+</div>
+
+## ConfigWireguard — post 31688
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+PSI_Tracker "DEY Warrior"
+
+یک اسکنر حرفه‌ای پروکسی برای محیط‌های با سانسور شدید
+همه تست‌ها از طریق خود پروکسی انجام میشه → حتی با مسدود بودن DNS، ICMP و سایت‌های خارجی کار می‌کنه
+
+⚡ قابلیت‌های محوری:
+
+🎭 شبیه‌سازی Psiphon – OSSH، Meek، Fronted TLS
+
+📊 امتیازدهی سه‌محوره:
+• General (مصارف روزمره) ← ۵۰ امتیاز
+• PSI (سازگاری با Psiphon) ← ۵۵ امتیاز
+• Generic Viability (مناسب V2Ray/VPN) ← ۵۰ امتیاز
+
+🏷️ دسته‌بندی: DEAD → MARGINAL → ALIVE → TUNNEL_OK → CDN_REACHABLE → PSIPHON_LIKELY → FULLY_READY
+
+🛡️ نظارت دو فازی: چک IPهای ثابت + نمونه‌برداری از پروکسی‌های خودت
+
+⏯️ کنترل: P = مکث | R = ادامه | M = ذخیره و خروج
+
+🔄 ادامه خودکار اسکن از جایی که قطع شده
+
+🛑 توقف خودکار بعد از پیدا کردن N تا پروکسی زنده (--max-alive)
+
+🔐 پشتیبانی از احراز هویت (تک یا فایل passlist.txt)
+
+📥 ورودی انعطاف‌پذیر: لیست پروکسی | CIDR | بازه خط فاصله | پورت‌های متعدد
+
+🕵️ تشخیص ناشناس بودن (ELITE/ANONYMOUS/TRANSPARENT)
+
+🧱 تشخیص دیوار پرداخت (Captive Portal)
+
+📡 تشخیص DNS-over-SOCKS
+
+🧪 تست HTTP پیشرفته: POST/PUT/DELETE، کوکی، Referrer، Gzip
+
+
+🛠️ نصب و اجرا:
+1️⃣ Python 3.7+
+2️⃣ pip install tqdm colorama requests PySocks
+3️⃣ اجرای launcher.bat
+4️⃣ انتخاب حالت: Q=سریع | D=عمیق | F=کامل | C=سفارشی
+
+📄 خروجی‌ها:
+
+• alive_proxies.txt – جزئیات کامل (۲۰+ ستون)
+• proxy_urls.txt – آدرس آماده با امتیاز و برچسب
+• tcp_open_proxies.txt – پورت باز بدون پروتکل شناسایی شده
+•
+scan_progress.json – نقطه بازگشت برای ادامه اسکن
+
+💡 نکات کلیدی:
+
+• پروکسی‌های کند → شانس دوم + برچسب SLOW_OK
+• پینگ > ۵۰۰۰ ms → اخطار HEAVY_LOAD (حذف نمی‌شه)
+• تمام تست‌ها از طریق خود پروکسی انجام میشه
+• سازگار با ویندوز، لینوکس، مک
+
+توسعه دهنده @SulgX :
+نسخه ویندوزی که آماده استفاده شده تقریبا و تا همین الان یه سری مشکلات رو داشتم چک میکردم
+برای استفاده داخل ترموکس هم اوکیه
+
+این برای دسترسی ترموکس به فایل های گوشی:
+termux-setup-storage
+این برای نصب پکیج ها:
+pkg update && pkg upgrade -y
+این برای نصب پایتون روی ترموکس:
+pkg install python -y
+این برای نصب پکیج های مخصوص اسکنر:
+pip install requests PySocks tqdm colorama
+این برای مسیریابی:( فایل اسکنر و فایل پراکسی لیست من تو این آدرسه شما هم برای خودتونو بزنید:)
+cd /storage/Download/test
+اینم دستور نهایی برای اسکن:(انواع مختلفی از اسکن رو هم داریم که داخل گیتهاب پروژه میشه یاد گرفت و پیش رفت)
+
+python psi_tracker.py --list my_ips.txt --threads 50 --timeout 60
+
+🎗️ تقدیم به ارواح نامیرای ایران – دی ۱۴۰۴
+📎 github.com/SulgX/PSI_Tracker
+📥 لینک دانلود داخلی
+💻 ProxyScanner.Windows.10.11.exe 16.4 MB
+</div>
+
+## ConfigWireguard — post 31687
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🟡 روزنامه خورشید
+📰 جنگ، فناوری، فرهنگ و سرگرمی
+📚 شماره ۵۱ / چهارشنبه ۲۳ اردیبهشت ۲۵۸۵
+📌 کپی فایل روزنامه بر همگان آزاد است.
+
+🔻 دانلود مستقیم:
+https://seup.shop/l/zynbi
+
+🔻 لینک جایگزین:
+https://punkpaste.ir/f/Khorshid-51-23022585-5n9uxb
+
+🔻 دانلود شماره قبلی:
+https://seup.shop/l/js9o7
+</div>
+
+## ircfspace — post 2333
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روز هفتاد و ششم از قطع اینترنت.
+معاون دفتر پزشکیان گفته "درصورت برگزاری همه‌پرسی، مردم امنیت را به اینترنت ترجیح می‌دهند".
+
+وقتی گفته میشه هدف از قطع سراسری اینترنت و خاموشی دیجیتال مساله امنیت نیست، دقیقا مطرح شدن همین اراجیفه که به جای نظر مردم به افکار عمومی تحمیل میکنن.
+زمان زیادی از کشتار دی‌ماه نگذشته. به جای این چیز خوریا، بهتره یه همه‌پرسی بذارن تا وضعیت مشروعیت جمهوری اسلامی دستشون بیاد!
+
+🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+@ircfspace
+</div>
+
+## Zel2oVPN — post 2761
+
+<div align="center">
+  <img src="telegram/content/Zel2oVPN_2761_1778746312.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خیلیا نگران حذف مجوزی هستن که تو اون متود بالا نصبش کردن وارد تنظیمات میشین بعدش سرچ میکنید رمزگذاری بعدش وارد این قسمت میشین روی اطلاعات اعتباری مطمئن کلیک میکنید همه مجوز هارو میاره براتون با مجوزای سیستم کاری نداشته باشین از اون بالا روی کاربر کلیک کنید بعدش مجوز نصب شده رو حذف کنید و تمام ♥️
+
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2760
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرور جدید WhiteDNS
+
+Domain: v.whitedns.space
+Encryption Key: bad99364093861634030e96f11fe3132
+
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2759
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستان این متود جدید هس خیلیا با ایرانسل و همراه اول بهش وصل شدن امیدوارم برای همه جواب بده ♥️
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2758
+
+<div align="center">
+  <a href="https://t.me/Zel2oVPN/2758" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+1. این فایل رو به ویتوری اد کنید‌
+2. ویتوری رو بزارید روی حالت پروکسی مود
+3. داخل سایفون برنامه ویتوری رو don't tunnel کنید.
+4. این پروکسی رو داخل سایفون تنظیم کنید
+127.0.0.1
+10808
+5. وصل بشید
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2757
+
+<div align="center">
+  <img src="telegram/content/Zel2oVPN_2757_1778746312.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+داخل ویتوری روی سه خط بزنید و گرینه assets files رو بزنید و دو تا کلیدی که گرفتید اضافه کنید
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2756
+
+<div align="center">
+  <img src="telegram/content/Zel2oVPN_2756_1778746313.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+متوود جدید ترکیبی پترنیها + سایفون
+متود ترکیبی Psiphon + MitM
+
+1. برنامه ویتوری رو نصب کنید
+
+https://dardi.ir/download.php?code=ZNpGiKxz
+
+2. برید به این سایت و یک نام دلخواه وارد کنید و بزنید روی ذره بین. دوتا کلید میده بزنید روی دانلود.
+https://regery.com/en/security/ssl-tools/self-signed-certificate-generator
+
+اسم هر دو فایل رو بزارید mycert.key و mycert.crt. اگه گفت همچین نامی هست اول یه نام دیگه بزارید بعد دوباره عوض کنید
+
+3. برید تنظیمات گوشی و سرچ کنید:
+CA certificate
+
+بزنید روی install و فایل mycert.crt رو از پوشه دانلودها نصب کنید
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2755
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✔️ DNSTT [S120]
+
+
+slipnet-enc://AZGKkYKMROz7i0uvid9HkhsAAQr84kHZok1xZCMKkm9SZ6LlVKoHAbh0XsoOdc4fzNuomhTnTqPZKN9dLM1R8RfXOlYswCJeyD+KheNSTg7AlhXeRnSNCsQ7C/fHUBCWRYOG5SapuOT5gpTf4rrfGdNcXaGQplSXt9jhF4zjFqCnfxORNELyYMa5nN6AiI2ru9D+6DO60kHjp8OQH8n/9OZKaMKEz/rm4az8BEU4hFlHXuB79iUGvwKVqmT2gSJXyMgQeOSKNdfu4ARhfGCCiXEIHrXQFUXoB/igAKF7+B3YCvcIcj8M3vpTpKCXCMeYZH99Dt429ndV3tDeb/GY87MxkWap6qNCiv4T+o4QWS6X/CIDeCeN+/hskBQ1TqpfKg4oE79AR665SQiLzQY2jeiElwXrLccq9DXpjEMgToC5CpxUCZIhT/OlLwLmOAOSTo/UM0OQ3G+U/J+YzZXgiXoEn4mDwmGFTwUJn7H+3dqiG0Lp5DfkMxSeD757dZ7QwLnIfOA/h+c/tEW8Y/e1DYGoirKdt6Vad6hVU4OBJy5JZspMdhmcUYrUDOoLU1RtQU4vaDTOFwpH3DjC6MlmBQYbLB3U8/mQKJFkkN6Em/l9+v6BZLPfjSz3y77nafB2YLDAsgGn3PumJcUaS/aXGhTaUfJb02DAWYwQFipTnriAO7b9W6R57BxPNYSTvUGsp6n5XiYW81jhUOf7caDR04jo/Ilgnxy5O2jy30isb2Ib6wQzdI4B58YjucRR9KfidnkeSIRcTcokxWCP2DuLRWQVMvlRheA+fAjlw9Y=
+
+
+📱کانفیگ اسلیپ
+
+📱مخصوص نسخه جدید  2.5.3
+
+📱دانلود نسخه جدید
+
+📱تنظیمات پیشنهادی
+
+https://t.me/socks?server=127.0.0.1&port=10880&user=%40Zel2oVPN
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2754
+
+<div align="center">
+  <a href="https://t.me/Zel2oVPN/2754" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اپدیت جدید whiteDNS
+
+نسخه 1.3.0
+
+لینک دانلود داخلی
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2753
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✔️VayDNS [S119]
+
+
+slipnet-enc://AXjc3nBVld1zwi1JyV1hCHfs2vpWbgOv3KVS0d8XAWyFJNVDJ6V6bI8STlKWq2v5LjZlthAyDV+kjOH+WX0oVnjLNfT1YagfopXGaaL2RY5i1K9IQoICB0snaxvpRDyWoHxzPSI+R0V0t8ehpWlyM7jR25t1y1ct6FOLwEpJntieD2NkHhJxz0npJEriW1adOjFoPPy2/n07eW2bqinvHc6l65t2IAjnDzRrctx/rq4RedT//ARVfka+FzP/IXiYSKwm1GoX1WAoZ3/7CQkNrlOqjgt/5yfLDzQRBHKWyr3SXsL25/aU9zbYFuE3WgJ0bKGeHmfAKWnZieEkqHsQW5t1LM+8tAwf9PmlXLetbeAEk811bCbLd3RQTFXlcLXx5pZjwY+sd2/+KAbHqAk9PngHes0YQf98MnHZreTEwP14twNNH8Yy3VQPotM7m/3GLXNKV7qu89eFMyIH0An/m8koGDvlo3U4sGcfFl0/WwZSCc5d1NUyuBrzuE5TtoLcAY63fn71hsK87o5SIDyiFGFfj6SpH20PCaxQOeJJWKW6RtIFBFZf+3hrcduTMuW5DbFoQ5UUBoK0bHUEdCCvpADQWoDPcZJyCXzijWA01Ulfzv0Uh/XDNQ/uFOq8TwzPSwh3D9oTq0I+ff7nN2xQqq0Be/zX1igtnQRGv1tjiRPWvK2DukSHn0JsBkEZ9FdiAsB0akoafx45nAKdgXKguZtH
+
+
+📱کانفیگ اسلیپ
+
+📱مخصوص نسخه جدید  2.5.3
+
+📱دانلود نسخه جدید
+
+📱تنظیمات پیشنهادی
+
+https://t.me/socks?server=127.0.0.1&port=10880&user=%40Zel2oVPN
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2752
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅VayDNS [S118]
+
+
+slipnet-enc://AaEjRygJm8CHZio3Orfik44rhU6pVvLGX6N0+6fgacgMPn1JquW8q/YpED0q+OCgBxynHIyt1/1F7IQ6lFbZA0ADzB8dLEuWLkzwgk8yUJL73ZuiVqo2kgwiS6m1SCw7bccFyeZZulZMZ7PbqF1+5ODOTh24kcYFlivr4KVLhSEOtbwyB8tJ16gIeWj2N7eO4UcKuDC4tK8mgy0YUVjtmzLXlUDJWhFLljdX8P2gTWlsiEGVzWFnjGJVUYyd6D48z3XCbe3B8WsgKO51EJ5BviWO/buLwoFBWYDMos5D31macJyto+f3d1i1XrbeRnqh+EHcenTSuouoEUJh0Bw3ihsqSMyC/7Tf7JvdoMByst10Z1Z0kspEqSeHhiD735xntHoKocr+E7k9rVTcuVeT8RwKxDuRxda9uisM7HN/9E+QwOUeFlX0zYkbxu3nSX5Hi3eNv9dtHF0x9J5VrlX1h2gzZ0L0ssCdc0k5637Q5NWWUvqzG7ZLBA63SDD3k29xf5jlcdCvpSwOJi2xFuQIl2naVO0tUYOzMoSQqcHksjXTtV6A8cP27pHM75pELCB0afb8kMUlK1YF6zNkpSMZBHVhqDDP568lR7NwAOzTXjmMYlszeTHm1XoUfq7ETJT47kpVz+qbGjagqoOKsNWltVO4ej6Y4HnYbMpFDlB7jx/kudOp39URxXZ3EhuGho2U9Z9jCIfjckmNlNcn6TjKOh/mtHD2a4BW0dU+rhxnZPX9MSL62fDqhdm1dPqszSUSaQ==
+
+
+📱کانفیگ اسلیپ
+
+📱مخصوص نسخه جدید  2.5.3
+
+📱دانلود نسخه جدید
+
+📱تنظیمات پیشنهادی
+
+https://t.me/socks?server=127.0.0.1&port=10880&user=%40Zel2oVPN
+
+☑➜@Zel2oVPN
+</div>
+
+## whitedns — post 606
+
+<div align="center">
+  <img src="telegram/content/whitedns_606_1778746314.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرور جدید WhiteDNS
+
+Domain: v.whitedns.space
+Encryption Key: bad99364093861634030e96f11fe3132
+
+
+از همه کانال‌ها و دوستانی که این لیست رو بازنشر می‌کنند خواهش می‌کنیم حداقل سهم و همکاری‌شون این باشه که کانال ما رو به عنوان منبع ذکر کنند. این داده‌ها با زمان، هزینه و اسکن گسترده جمع‌آوری شده، نه با جادو و دعای نیمه‌شب.
+
+
+این بزرگترین سرور ما هستش. ۱۲ هسته سی‌پی‌يو و ۲۴ گیگ رم.
+
+
+✈️هر مشکلی هست، از سمت اختلال شبکه، تنظیمات و ریزالور ها هستش.
+
+@WhiteDNS
+</div>
+
+## whitedns — post 602
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📢 اطلاعیه مهم برای کاربران WhiteDNS
+
+دوستان عزیز،
+
+برای بهبود کیفیت اتصال و افزایش پایداری سرویس، تمام سرورهای فعلی WhiteDNS به‌زودی پاک‌سازی و جایگزین خواهند شد.
+
+✅ سرورهای جدید به‌زودی از طریق همین کانال در اختیار شما قرار می‌گیرند.
+
+تا زمان انتشار سرورهای جدید، لطفاً فقط به سرورهایی متصل شوید کهآدرس آن‌ها whitedns.shop نیست.
+
+یعنی فعلاً از اتصال به سرورهای دارای دامنه زیر خودداری کنید:
+
+whitedns.shop
+
+ممنون که همراه ما هستید 🤍
+@WhiteDNS
+</div>
+
+## whitedns — post 601
+
+<div align="center">
+  <img src="telegram/content/whitedns_601_1778746314.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نسخه ۱.۰.۲ 🔄 WhiteDns Windows
+
+به زودی.................
+🔥
+🔥
+🔥
+🔥
+
+نسخه ۱.۰.۲ بر پایداری، قابلیت استفاده و تشخیص‌های بسیار قوی‌تر رزولور تمرکز دارد. 🛠
+
+این بروزرسانی مشکل آکاردئون را در بخش تنظیمات پیشرفته اصلاح می‌کند تا بخش‌ها با قابلیت اطمینان بیشتری باز و بسته شوند و چیدمان تنظیمات رفتار سازگارتری داشته باشد. همچنین اسکنر رزولور را با یک حالت اسکن پیشرفته جدید بهبود می‌بخشد که رزولورها را به روشی واقع‌گرایانه‌تر و آگاه به تونل، با استفاده از دامنه فعال تونل آزمایش می‌کند، از جمله بررسی‌های DNS بدون کش، قابلیت EDNS0، یکپارچگی NXDOMAIN، مدیریت زیردامنه‌های تو در تو و جستجوهای پروب به شکل تونل. 🌐
+
+تجربه نتایج اسکن نیز بهبود یافت. اکنون خروجی با اطمینان بیشتری کار می‌کند، مرتب‌سازی به درستی عمل می‌کند و نتایج صادر شده اکنون بهتر با آنچه در رابط کاربری نمایش داده می‌شود مطابقت دارند. جزئیات اضافی اسکن مانند امتیاز، دامنه پروب و قابلیت مشاهده بار EDNS اضافه شد تا رزولورهای قوی‌تر را با دقت بیشتری شناسایی کنید. 📊✨
+
+@whitedns
+</div>
+
+## whitedns — post 593
+
+<div align="center">
+  <a href="https://t.me/whitedns/593" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سلام به همه دوستان
+
+نسخه جدید WhiteDNS آماده شد. ممنون از همه کسانی که نسخه‌های قبلی رو نصب کردند، تست گرفتند، لاگ فرستادند و با فیدبک‌هاشون کمک کردند مشکلات رو پیدا و برطرف کنیم 🙏
+
+تمرکز اصلی این نسخه روی اسکن Resolverها، مدیریت ساده‌تر پروفایل‌ها و پایدارتر شدن اتصال در خود WhiteDNS بوده است. هدف این بود که کاربران راحت‌تر Resolverهای سالم را پیدا کنند، نتیجه اسکن را ذخیره و دوباره استفاده کنند، و اتصال Proxy یا Full VPN در پس‌زمینه و بعد از قطع‌و‌وصل شدن مطمئن‌تر بماند. در کنار این موارد، امنیت خروجی‌ها، بکاپ و اشتراک‌گذاری فایل‌ها هم بهتر شده است.
+
+
+✅ نسخه اپلیکیشن به 1.3.0 ارتقا پیدا کرده
+✅ بخش جدید Scan برای بررسی و پیدا کردن Resolverهای سالم اضافه شده
+✅ حالا می‌توانید فایل Resolver وارد کنید و اپ خودش Resolverهای سالم را جدا کند
+✅ نتیجه اسکن به‌صورت خودکار داخل پروفایل‌های Resolver ذخیره می‌شود
+✅ می‌توانید نتیجه اسکن را با نام دلخواه به عنوان Resolver Profile جدید ذخیره کنید
+✅ Resolverهایی که قبلاً سالم شناخته شده‌اند دوباره بی‌دلیل اسکن نمی‌شوند
+✅ امکان توقف اسکن و ادامه دادن آن از همان‌جایی که مانده اضافه شده
+✅ سرعت اسکن قابل تنظیم شده تا بین سرعت بیشتر و مصرف باتری کمتر انتخاب کنید
+✅ وضعیت اسکن با تعداد کل، سالم، ردشده و میزان پیشرفت واضح‌تر نمایش داده می‌شود
+✅ می‌توانید برای اسکن، پروفایل سرور جداگانه انتخاب کنید
+✅ اگر پروفایل اسکن سرور یا کلید نداشته باشد، اپ واضح‌تر هشدار می‌دهد
+✅ حالت روشن، تاریک و خودکار برای ظاهر اپ اضافه شده
+✅ مدیریت پروفایل‌های اتصال، Resolver و تنظیمات پیشرفته مرتب‌تر و راحت‌تر شده
+✅ امکان وارد کردن تنظیمات پیشرفته از فایل یا متن TOML اضافه شده
+✅ امکان خروجی گرفتن تنظیمات پیشرفته به فایل advanced_settings.toml اضافه شده
+✅ خروجی گرفتن و اشتراک‌گذاری فایل‌ها امن‌تر و تمیزتر شده
+
+https://dl.toolschi.com/view.php?f=e15bcec825298e4c.zip
+
+🔗 GitHub:
+https://github.com/iampedii/WhiteDNS/releases/tag/1.3.0
+
+از همراهی و حمایت شما ممنونیم ❤️
+</div>
+
+## mirzapanel — post 1315
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایرانسل خوب روش کلاه برداری بلده
+
+میاد لینک پرداخت اینترنت پرو رو پیامک میکنه و ازتون ۲۲۰۰ میگیره
+
+بعد میگه برو احراز هویت کن اطلاعات شرکتت بزن
+
+اون موقع دیگه به من چه که شرکت نداری یا احرازت نمیکنه و ۲۲۰۰ هم میخوره می‌ره
+
+کلا ایرانسل اول پول میگیره بعد احراز هویت می‌کنه
+
+چقدره دزدن که خودشون پیام میدن که اینترنت پرو شما تایید شد که پول رو فوری بدی
+</div>
+
+## erfanandroid — post 88595
+
+<div align="center">
+  <a href="https://t.me/erfanandroid/88595" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🟢🟢صرافی ال بنک بهترین صرافی حال حاضر هستش که با وضعیت اینترنت ایران سازگاره و همه ارزارو داره تقریبا
+
+دانلود مستقیم از گوگل پلی👇
+
+https://play.google.com/store/apps/details?id=com.superchain.lbankgoogle
+
+هرکسی با کد رفرال من ثبت نام کرد و ترید میکنه UID اکانتشو بفرسته بش تخفیف خوبی میدم واسه vpn
+و درضمن 30% کارمزد کمتر میدین تو معاملات با این کد رفرال
+
+کد رفرال: 5L582
+
+@erfanandroid
+</div>
+
+## Spotify_Porteghali — post 12373
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+- کانفیگِ جدید برایِ SlipNet -
+تست شده با 
+🛜 همراه اول ( حتما با بقیه ی اینترنت ها چک کنید )
+
+slipnet-enc://AU1KZP8t3JAtWp1D9o63rqdHC+iYWfGnovbDvgGiZmg8QqDOb4EdbPuceuk5JTjxEJjvqKfcvCfQxx3RZIwIOKfI/+oJapG1ijVlVmSWponrqGd7a2eRVIGQX30QWj53EN+yiRNMTdtWGFhu/as04426Sms+11kq8GPcTjMF9q+PClioYU5LLW4XaBv/pWhFS+XqcdamSFtDLbMki/jp2rUxqb1IAjxEIE0AndMuucBRpusa9/FPVbHS+W9OTFMzEW8YsYhmLCYG7AQHx0kGELTg65kwx+TsrKNmcAk2IDEWYEWTpnhTKOSPFyuFVHaCmEuxHbaFaXNkipUKrXQbOEtgDir6uIEuCgcsW5Rl5hGigC3BL2LjUCCibdcSmvLDnjWIcjChI4HsfWmCBPtojyZsbgiHm/dr8kLi0zWWnvj2AX3a1Vt4bURHpzOn3h/rrZS1JKxmdwvmfuuhMndIpXpwzHpSfGbIcjPXLzIWHCuIGtjjpspQgw61Gg4/EYXsHWJHRZwuB9phtG0lKY8cOCYHfHR3uRRBpglfklFWGOeSkGGMUAXrEiFUF5aXUODV1GmIY8dpUQuCb34Fcw0hcxv2D+dN9p63sg2xpowoxpkOoeIfefFR+aoX/js+yVJZFGd2UhgykHJqtgbtmlLeRz/z8jn/J6cQZBNcZqCRaol/s6BFZcknGrmMmgZbLWGd5esxMt9eczH/vlQeyIdJDqyR
+
+
+💬 لینکِ دانلودِ مستقیمِ بدونِ فیلترِ اپلیکیشنِ SlipNet 
+💬
+
+
+💬 تنظیماتِ پیشنهادی برایِ SlipNet 
+💬
+
+
+⚪️حتما از تنظیمات VPN MTU رو رویِ 512 بگذارید و تنظیمات رو ذخیره کنید .
+
+
+⚪️زمانی که کانفیگ رو ادد کردید قبل از اتصال رویِ علامتِ مداد کنارِ کانفیگ بزنید و DNS Query Size رو هم یکبار رویِ 50 بزارید و تست کنید و هم یکبار 60 بزارید و متصل بشید .
+
+
+⚪️حتما از تنظیمات گزینه‌ ی Proxy-only Mode رو‌ فعال کنید . بعد از اینکه کانفیگ متصل شد ، به یکی از پروکسی هایِ زیر در تلگرام متصل شَوید .
+
+🔗 : https://t.me/socks?server=127.0.0.1&port=10880
+
+🔗 : https://t.me/socks?server=0.0.0.0&port=10880
+
+🆔 @Spotify_Porteghali 🍊
+
+↰  بزرگترین خانواده اسپاتیفای در کشور  ↱
+</div>
+
+## Spotify_Porteghali — post 12372
+
+<div align="center">
+  <img src="telegram/content/Spotify_Porteghali_12372_1778746316.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پروکسی مخصوص نت ملی 
+🛜 مخابرات و 
+🛜 همراه اول : https://t.me/socks?server=194.9.56.121&port=10838 🆔 @Spotify_Porteghali 🍊 ↰  بزرگترین خانواده اسپاتیفای در کشور  ↱
+</div>
+
+## Spotify_Porteghali — post 12371
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پروکسی مخصوص نت ملی
+
+🛜 مخابرات و 
+🛜 همراه اول :
+
+https://t.me/socks?server=194.9.56.121&port=10838
+
+🆔 @Spotify_Porteghali 🍊
+
+↰  بزرگترین خانواده اسپاتیفای در کشور  ↱
+</div>
+
+## Spotify_Porteghali — post 12370
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پروکسی مخصوص نت ملی 
+🛜 مخابرات و 
+🛜 همراه اول : https://t.me/socks?server=185.239.106.84&port=1082&user=MAMAD&pass=667222222268888777 🆔 @Spotify_Porteghali 🍊 ↰  بزرگترین خانواده اسپاتیفای در کشور  ↱
+</div>
+
+## Spotify_Porteghali — post 12369
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پروکسی مخصوص نت ملی
+
+🛜 مخابرات و 
+🛜 همراه اول :
+
+https://t.me/socks?server=185.239.106.84&port=1082&user=MAMAD&pass=667222222268888777
+
+🆔 @Spotify_Porteghali 🍊
+
+↰  بزرگترین خانواده اسپاتیفای در کشور  ↱
+</div>
+
+## King_network7 — post 30751
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔰 آموزش اتصال به نت بین المل با متود سایفون
+
+◾️ ربات ایجاد گواهی (Certificate):
+@CrtGen7Bot
+
+⬇️ لینک‌ دانلود داخلی V2ray
+⬇️ لینک‌ دانلود داخلی سایفون
+⬇️ لینک‌ دانلود داخلی کانفیگ
+⬇️ لینک‌ دانلود داخلی آموزش
+
+❓ توی گوشی هم روش تقریبا به همین صورت هست، سرتیفیکیت دریافتی رو در تنظیمات CA certificate نصب کنید و داخل بخش Assets برنامه v2ray اضافه کنید. حالت رو روی proxy mode بزارید و کانفیگ رو اضافه کنید و متصل بشید. داخل سایفون هم ابتدا برنامه v2ray رو از حالت تانل خارج کنید و بعد پروکسی رو ست کنید.
+
+➰➰➰➰➰
+#️⃣ #vpn #windows
+🆔 @King_Network7
+</div>
+
+## King_network7 — post 30750
+
+
+
+
+## JynMarket — post 2270
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌟 سرور اسلیپ نت جدید
+
+slipnet-enc://AfnD1nJahX2kGwe75YpRwSGOxziQXdoFBxFzwNMZJcMyHLsFijZ8W5PE44mATn5Ks1q89gTT3l/f3k/8tvixXQawQCt6Qg0gwOuQGcOHHm4IS79v3t7nso9kPpqyqs24c29PoFZTVGtTYDtUYB25UranPtX9H2RB8VZq+Ct107i7uwvN7be2lyLEWk3RFQlxZlt4GuamvkPh8pH1ZP0y7MmoSOPQVDhK8z6qvqzXSM9ztzbmbvtjlciz8RwQ1mhV51lvKjk6Om0nfKuH398LfcH6GO7edfE0bv6tpGuVk9rBcUrPAHJGI/oVPv3KkwpTWZ6MwyeFGBkt/XcY/N3yr0uCTsnLU6OT+UyTigOjKqXj9WhrGEG/5lE+i+hRvHftwOjrWXkC62guQZ8VmupQdeJe1Ct2+ETuL+tIFRhO43VSYd6reb5feNfqBo4D48V94ejC2v5Arf+itOlgT/2AM8eTGsSejB/JAJubS1XetAAtXYq2UewodknG1tXjf7e3T77pp+fXsh+d9WNbc2keuBq4Hbu64NIH0gvzptKuxLHR6Fyn+hSzz5AcA9MKuWBmv6bS/uqhxkTMkYBDp9a5DK8PFNq7w+jlt69kyMx7ZDgWXFvAtObPxLl1tQhV2+q0WyduIiigQ6fVFxQaBUo2qQynq6otNtFLxiKUgiaMyJ8GiVzFpp4Du4uENe93nrc6KCqC9mm+NXg=
+
+
+🔗 اموزش استفاده - دانلود برنامه موردنیاز
+</div>
+
+## NamazVPN — post 35508
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://4e68a800-e49b-4180-9f3e-64324d0214d8@45.81.16.109:13526?type=tcp&security=none&encryption=none#%F0%9F%87%B1%F0%9F%87%BALuxembourg%20%7C%20%F0%9F%8C%90%20IP%3A%2031.184.246.82%20%7C%20%E2%8F%B3ping%3A797.88ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇱🇺 Luxembourg
+⏱️ 797.88ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35507
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرور ربات داره تموم میشه
+احتمالا دو سه روزی فعالیت کم یا متوقف میشه
+</div>
+
+## NamazVPN — post 35506
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://adb7b238-97d4-4843-9cd8-3e9bdcbdad72@185.143.233.5:2083?encryption=none&fp=firefox&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&type=ws#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20IP%3A%202a01%3A4f8%3Ac014%3A8d11%3A%3A1%20%7C%20%E2%8F%B3ping%3A1525.41ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇩🇪 Germany, Falkenstein
+⏱️ 1525.41ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35505
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://69c363e4-2d88-4336-af5d-f48d689a338d@185.143.233.5:2083?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#%F0%9F%87%B3%F0%9F%87%B1The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20IP%3A%2045.252.181.54%20%7C%20%E2%8F%B3ping%3A694.68ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇳🇱 The Netherlands, Amsterdam
+⏱️ 694.68ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35504
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://1653b0a8-839e-4ce1-91b5-df4ec0fbfd88@185.143.235.253:80?path=%2F&security=none&encryption=none&host=ss.oppobot.ir&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A2918.23ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 2918.23ms
+
+📢 @NamazVPN
+</div>
+
+## TirexNet — post 3715
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرور اول ( اسلیپ نت ) 🎃 همه اپراتور ها ( Vaydns+Ssh+Socks ) NULL سرور دوم ( اسلیپ نت ) 🐍 ترجیحا همراه اول (Vaydns+Ssh ) NULL | CNAME | SRV | CAA | NS | NULL ترجیحا همراه اول ( Vaydns+Socks ) NULL | NULL آموزش کامل | تنظیمات جدید | تنظیمات جدید Channel:…
+</div>
+
+## papFransiz — post 471
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دیشب با یه نفری آشنا شدم... که پشت سیستم فیلترینگه همونای که خیلی فحش میخورن...
+
+جالبیش اینجاست این شخص از فعال کامیونیتی VPN... هست و خودش کلی راه می‌سازه و میده بیرون بعد خودش می‌بنده تشون....
+</div>
+
+## asrnovin_ir — post 10329
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانال یوتیوبم رو دارم کامل حذف میکنم
+دلیلش به خاطر یه سری مشکلاتی هست که از سمت خود یوتیوب پیش اومده .
+و خب شاید کانال جدیدم رو با محتوای بهتر و حرفه ای تر در آینده بسازم و زمانی اینکار شدنیه که همه مردم عزیز ایران به اینترنت بین الملل دسترسی کامل پیدا کنند.
+همچنان در تلگرام فعالیتمون رو ادامه میدیم ❤️
+</div>
+
+## asrnovin_ir — post 10328
+
+<div align="center">
+  <a href="telegram/content/asrnovin_ir_10328_1778746316.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اگه یه سایت میخوای که بدون سانسور فیلم و سریال ببینی و با اینترنت ملی هم راحت بالا بیاد وقتشه بری سراغ پارادوکس موویز 
+😎
+🔥
+
+
+✅ آرشیوی با بیش از 40 هزار فیلم و سریال
+
+✅ بدون سانسور و حذفیات 🚫
+❌
+
+✅ اپلیکیشن اندروید + Android TV 
+🤖
+
+✅ دانلود و پخش آنلاین حتی در آیفون
+🍏
+
+✅ قابل دسترس حتی در اینترنت ملی
+
+✅ پشتیبانی 24 ساعته 💬
+📞
+﻿
+همین الان وارد شو 
+😉
+👇
+</div>
+
+## sirhishamtradinghub — post 3682
+
+<div align="center">
+  <img src="telegram/content/sirhishamtradinghub_3682_1778746317.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Gem 💎
+</div>
+
+## sirhishamtradinghub — post 3681
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Good morning everyone
+</div>
+
+## Pvpn_Ez — post 119
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+* سرویس عادی حجمی - گیگی 200 هزارتومن
+بدون محدودیت زمانی - 5 روز ضمانت بازگشت وجه
+حداقل خرید 3 گیگابایت
+</div>
+
+## TheVPNMethod — post 661
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وپن فروشا فعلا ساکتن 😁
+</div>
+
+## TheVPNMethod — post 658
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموزش تصویری کامل و ساده متود Psiphon—MITM سرعت: عالی حجم: نامحدود! پیش‌نیاز: هیچی!!! نکته مهم نهایی!!! برنامه v2rayNG باید تونل نشه! گزینه Don't tunnel selected apps بزنید و برنامه v2rayNG رو انتخاب کنید! سایت مورد نیاز اول ویدیو برای دریافت سرتیفیکیت: h…
+</div>
+
+## TheVPNMethod — post 657
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموزش تصویری کامل و ساده متود Psiphon—MITM سرعت: عالی حجم: نامحدود! پیش‌نیاز: هیچی!!! نکته مهم نهایی!!! برنامه v2rayNG باید تونل نشه! گزینه Don't tunnel selected apps بزنید و برنامه v2rayNG رو انتخاب کنید! سایت مورد نیاز اول ویدیو برای دریافت سرتیفیکیت: h…
+</div>
+
+## TheVPNMethod — post 652
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شیر کنید همه وصل شن !!! 🔥🔥🔥
+</div>
+
+## TheVPNMethod — post 649
+
+<div align="center">
+  <a href="telegram/content/TheVPNMethod_649_1778746318.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموزش تصویری کامل و ساده
+متود Psiphon—MITM
+سرعت: عالی
+حجم: نامحدود!
+پیش‌نیاز: هیچی!!!
+
+نکته مهم نهایی!!! برنامه v2rayNG باید تونل نشه! گزینه Don't tunnel selected apps بزنید و برنامه v2rayNG رو انتخاب کنید!
+
+سایت مورد نیاز اول ویدیو برای دریافت سرتیفیکیت:
+https://regery.com/en/security/ssl-tools/self-signed-certificate-generator
+دانلود ZIP آموزش تصویری + پی دی اف + کانفیگ لازم با لینک داخلی:
+https://uploadgirl.ir/d/de707acd-2595-4357-9cbe-ae670a0ddc40
+
+ZIP Password: @TheVPNMethod
+لینک دانلود داخلی سایفون!
+لینک دانلود داخلی v2rayNG!
+— More: @TheVPNMethod
+</div>
+
+## TheVPNMethod — post 647
+
+<div align="center">
+  <a href="https://t.me/TheVPNMethod/647" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموزش کامل و ساده
+متود Psiphon—MITM
+بصورت PDF
+سرعت: عالی
+حجم: نامحدود!
+پیش‌نیاز: هیچی!!!
+</div>
+
+## TheVPNMethod — post 643
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پترنیها چه کردی پترنیها، متود جدید رو دارم آموزشش رو میگیرم. میاد بالا بزودی بمب خالص !!! 🔥
+</div>
+
+## TheVPNMethod — post 642
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بابا بنازم.
+</div>
+
+## TheVPNMethod — post 641
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموزش ساده پروژه جدید برای دانلود از تلگرام و یوتیوب و گوگل پلی و... بیاد بالا ؟!
+</div>
+
+## DigiGozar — post 9201
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نمایش مقدار باقی مانده ربات مشکل داره!
+به زودی حل خواهیم کرد لطفا عجله نکنید
+</div>
+
+## MatinSenPaii — post 3031
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قطع و وصلی داره ها، اما هر 5 دقیقه، 10 ثانیه قطعه مثلا
+برای گیم شاید عالی نباشه، اما وبگردی، اینستاگرام، تلگرام، توییتر و هوش مصنوعی‌ها همه اوکین
+</div>
+
+## MatinSenPaii — post 3030
+
+<div align="center">
+  <img src="telegram/content/MatinSenPaii_3030_1778746320.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این هم روی گوشی(تمام باگ‌ها و مشکلاتی که توی گروه‌ها گفته شده بود رو در آوردم و دسته‌بندی کردم و خودم امتحان کردم)
+این پست هم با همین متد داره فرستاده میشه
+🕶️
+</div>
+
+## MatinSenPaii — post 3029
+
+<div align="center">
+  <img src="telegram/content/MatinSenPaii_3029_1778746320.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+برای یه روش کاملا رایگان، بدون نیاز به سرور، بدون نیاز به اکانت گوگل، بدون نیاز به شماره حساب خارجی و هیچی، سرعتش عالیه. آموزشش رو می‌ذارم واستون. خیلی ساده‌ست
+با تشکر از @patterniha
+</div>
+
+## archivetell — post 4853
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموزش ویندوز هم مثل اندرویده..
+
+لینک داخلی آخرین نسخه سایفون ویندوز
+
+لینک داخلی آخرین نسخه V2rayn ویندوز
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4852
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+v2rayNG 2.1.7 لینک داخلی دانلود با این نسخه وصل شید.. اینم لینک داخلی سایفون واسه اونایی که نصب ندارن @ArchiveTell
+</div>
+
+## archivetell — post 4851
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+متوود جدید ترکیبی پترنیها + سایفون متود ترکیبی Psiphon + MitM 1. برنامه ویتوری رو نصب کنید https://urldl.ir/download/499338 2. برید به این سایت و یک نام دلخواه وارد کنید و بزنید روی ذره بین. دوتا کلید میده بزنید روی دانلود. https://regery.com/en/security/ssl…
+</div>
+
+## archivetell — post 4850
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+v2rayNG 2.1.7 لینک داخلی
+
+دانلود
+
+با این نسخه وصل شید..
+
+اینم لینک داخلی سایفون واسه اونایی که نصب ندارن
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4849
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ArchiveTel pinned a photo
+</div>
+
+## archivetell — post 4846
+
+<div align="center">
+  <a href="https://t.me/archivetell/4846" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+1. این فایل رو به ویتوری اد کنید‌
+2. ویتوری رو بزارید روی حالت پروکسی مود
+3. داخل سایفون برنامه ویتوری رو don't tunnel کنید.
+4. این پروکسی رو داخل سایفون تنظیم کنید
+127.0.0.1
+10808
+5. وصل بشید
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4845
+
+<div align="center">
+  <img src="telegram/content/archivetell_4845_1778746321.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+داخل ویتوری روی سه خط بزنید و گرینه assets files رو بزنید و دو تا کلیدی که گرفتید اضافه کنید
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4844
+
+<div align="center">
+  <img src="telegram/content/archivetell_4844_1778746321.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+متوود جدید ترکیبی پترنیها + سایفون
+متود ترکیبی Psiphon + MitM
+
+1. برنامه ویتوری رو نصب کنید
+https://urldl.ir/download/499338
+
+2. برید به این سایت و یک نام دلخواه وارد کنید و بزنید روی ذره بین. دوتا کلید میده بزنید روی دانلود.
+https://regery.com/en/security/ssl-tools/self-signed-certificate-generator
+
+اسم هر دو فایل رو بزارید mycert.key و mycert.crt. اگه گفت همچین نامی هست اول یه نام دیگه بزارید بعد دوباره عوض کنید
+
+3. برید تنظیمات گوشی و سرچ کنید:
+CA certificate
+
+بزنید روی install و فایل mycert.crt رو از پوشه دانلودها نصب کنید
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4842
+
+<div align="center">
+  <img src="telegram/content/archivetell_4842_1778746321.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚀 20 سرور با قدرت متصل
+
+📌 فایل برنامه
+📌 لینک سایت
+
+☕️ اموزش ساخت دامنه نتلیفای
+
+
+🔵 @IR_NETLIFY
+</div>
+
+## hamvex — post 2555
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+𝑭𝑰𝑹𝑺𝑻 𝑯𝑨𝑴 pinned a video
+</div>
+
+## hamvex — post 2554
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ری‌اکشن یادتون نره
+به اشتراک بزارید همه وصل شن
+</div>
+
+## hamvex — post 2553
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌐 آموزش کامل دور زدن فیلترینگ با متود MITM + PSIPHON (فول تانل)(اندروید)
+
+
+🎬
+https://youtu.be/C0Xr8bmhAow?si=mRxXRmQIh0jm1Xs0
+
+
+🐱
+https://github.com/patterniha
+
+
+⬇️
+🔄
+https://uplod.ir/eyn04g87pgzo/MITM_PSIPHON.mp4.htm ( لینک دانلود داخلی)
+Pass : @hamvex
+
+
+
+🔻Creator : @patterniha
+</div>
+
+## hamvex — post 2552
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👍 آموزش کامل متود MITM + Psiphon روی اندروید با این متود کل گوشی تانل می‌شود نه فقط مرورگر 
+✅ 
+📝 پیش‌نیازها: 
+📱 آخرین ورژن Psiphon https://uplod.ir/z1wfbcp3dvla/Psiphon-v-460.zip.htm Pass : @hamvex 
+🔐آخرین ورژن v2rayNG https://uplod.ir/grf5sue1h69d/v2rayNG…
+</div>
+
+## hamvex — post 2551
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+𝑭𝑰𝑹𝑺𝑻 𝑯𝑨𝑴 pinned «
+👍 آموزش کامل متود MITM + Psiphon روی اندروید با این متود کل گوشی تانل می‌شود نه فقط مرورگر 
+✅ 
+📝 پیش‌نیازها: 
+📱 آخرین ورژن Psiphon https://uplod.ir/z1wfbcp3dvla/Psiphon-v-460.zip.htm Pass : @hamvex 
+🔐آخرین ورژن v2rayNG https://uplod.ir/grf5sue1h69d/v2rayNG…»
+</div>
+
+## hamvex — post 2550
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👍 آموزش کامل متود MITM + Psiphon روی اندروید با این متود کل گوشی تانل می‌شود نه فقط مرورگر 
+✅ 
+📝 پیش‌نیازها: 
+📱 آخرین ورژن Psiphon https://uplod.ir/z1wfbcp3dvla/Psiphon-v-460.zip.htm Pass : @hamvex 
+🔐آخرین ورژن v2rayNG https://uplod.ir/grf5sue1h69d/v2rayNG…
+</div>
+
+## hamvex — post 2548
+
+<div align="center">
+  <a href="https://t.me/hamvex/2548" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📎 Document
+</div>
+
+## hamvex — post 2546
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👍 آموزش کامل متود MITM + Psiphon روی اندروید
+
+با این متود کل گوشی تانل می‌شود نه فقط مرورگر 
+✅
+
+
+
+📝 پیش‌نیازها:
+
+
+📱 آخرین ورژن Psiphon
+https://uplod.ir/z1wfbcp3dvla/Psiphon-v-460.zip.htm
+Pass : @hamvex
+
+🔐آخرین ورژن v2rayNG
+https://uplod.ir/grf5sue1h69d/v2rayNG-2.1.7-universal.zip.htm
+Pass : @hamvex
+
+
+🖥 مراحل:
+
+
+🔢 تهیه و نصب سرتیفیکیت
+اگر قبلاً سرتیفیکیت دارید یا اینکه در ویندوز mycert.crt و mycert.key ساختید، فقط منتقل کنید و به مرحله 1.2 برید.
+
+● اگر سرتیفیکیت ندارید
+↗️
+
+
+📎مرحله 1.1 : ایجاد سرتیفیکیت
+
+🔺برید به سایت زیر
+https://regery.com/en/security/ssl-tools/self-signed-certificate-generator
+
+🔺یک نام دلخواه در قسمت سرچ وارد کنید و سرچ کنید
+
+🔺دو فایل دریافت می‌کنید که باید هر دو رو دانلود کنید
+
+🔺فایل‌های دانلود شده را پیدا کرده و مجددا نام‌گذاری کنید(به فرمت کاری نداشته باشید اسم جفتشون باید mycert باشه به شکل زیر):
+certificate.crt → mycert.crt
+private.key → mycert.key
+
+
+📎مرحله 1.2: نصب سرتیفیکیت در اندروید
+• تنظیمات (Settings)  ↓
+• امنیت و حریم خصوصی (Security & privacy)  ↓
+• رمزگذاری و اعتبارنامه‌ها (Encryption & Credentials)  ↓
+• نصب گواهی (Install a certificate)  ↓
+• گواهی مرجع (CA Certificate)  ↓
+• به هر حال نصب کن Install anyway  ↓
+• انتخاب فایل mycert.crt
+
+🔹اگر این مسیر پیدا نشد: در Search تنظیمات گوشی CA Certificate رو جستجو کنید
+
+
+
+🔢 تنظیم v2rayNG
+
+
+📎مرحله 2.1 : اضافه کردن فایل‌های سرتیفیکیت
+
+🔺نرم افزار v2rayNG رو باز کنید
+
+🔺در صفحه اصلی، سه خط (☰) رو ضربه بزنید
+
+🔺گزینه "Asset Files" رو انتخاب کنید
+
+🔺علامت "+" رو بزنید و "Add Files" رو انتخاب کنید
+
+🔺هر دو فایل mycert.crt و mycert.key رو اضافه کنید.
+
+
+📎مرحله 2.2 : وارد کردن کانفیگ
+
+🔺در صفحه اصلی v2rayNG، "+" رو بزنید
+
+🔺گزینه "Import from locally" رو انتخاب کنید
+
+🔺کانفیگ Psiphon-Helper رو وارد کنید (پست بعدی)
+
+
+📎مرحله 2.3 : تنظیمات ترکیبی
+
+🔺وارد Settings نرم‌افزار بشید
+
+🔺بخش Mode رو روی "Proxy Only" تنظیم کنید
+بخش Local Proxy Port روی 10808 باشه
+
+
+📎مرحله 2.4 : فعال‌سازی
+
+🔺نرم‌افزار v2rayNG رو "Connect" کنید.
+
+
+
+🔢 تنظیم Psiphon
+
+
+📎مرحله 3.1 : تنظیم Proxy
+
+🔺نرم‌افزار Psiphon را باز کنید
+
+🔺به Options بخش Proxy Settings برید
+
+🔺گزینه‌ Connect proxy upstream through رو فعال کنید
+
+🔺گزینه Use following settings رو فعال کنید
+مقادیر را وارد کنید:
+
+آدرس (Address): 127.0.0.1
+پورت (Port): 10808
+
+
+
+📎مرحله 3.2 : استثنا کردن v2rayNG
+
+🔺برید به Options بخش VPN Settings
+
+🔺گزینه "Don't tunnel selected apps" رو انتخاب کنید
+
+🔺نرم‌افزار v2rayNG رو به لیست استثنا اضافه کنید
+
+
+
+🔢 اتصال نهایی
+ترتیب اتصال (بسیار مهم)
+↗️
+
+
+🔺ابتدا v2rayNG :
+نرم‌افزار v2rayNG رو در حالت "Proxy Only" روشن کنید
+
+🔺سپس Psiphon:
+نرم‌افزار Psiphon را باز کنید
+دکمه "Start" رو بزنید
+
+
+🔻 سازنده: @patterniha
+
+🔺آدرس ولت تو بیوش هست ازش حمایت کنید.
+</div>
+
+## hamvex — post 2545
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⌛راه اندازی MITM Domain Fronting روی اندورید 
+🖥 ویدئوی آموزشی : http://kalbod-team.ir/f/41df6390cbf84bd6 Pass : @hamvex 
+🔢 دانلود v2rayNG http://kalbod-team.ir/f/fe2bc07e3df848f2 Pass : @hamvex 
+🔢تهیه سرتیفیکیت شخصی به یه سرتیفیکیت شخصی نیاز دارید. دو روش…
+</div>
+
+## Break_The_Barriers — post 1557
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بالای ١ ترابایت ترافیک، فقط طی ١۴ ساعت از زمان ریست سرورها ثبت شده.
+</div>
+
+## Break_The_Barriers — post 1556
+
+<div align="center">
+  <img src="telegram/content/Break_The_Barriers_1556_1778746322.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صبح به‌خیر ایرانی. 
+✌️
+
+این اعداد برای متد DNS، یعنی اتصال خیلی‌ها.
+</div>
+
+## Break_The_Barriers — post 1555
+
+<div align="center">
+  <img src="telegram/content/Break_The_Barriers_1555_1778746323.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دست از سر سرور یک بردارید. 😂🤦🏻‍♂️
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 01:27
 ---
 
