@@ -7,6 +7,4519 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 19:53
+---
+
+## vpn_xvpn_ch — post 402
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+برای تست متود جدید (اشتراک لایت) به 30 نفر از اعضای کانال به قید قرعه اشتراک رایگان اختصاصی بدیم؟!🤔
+</div>
+
+## khosrow_v2ray — post 761
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ShirOKhorshid-2026.05.14.apk
+</div>
+
+## khosrow_v2ray — post 760
+
+<div align="center">
+  <a href="https://t.me/khosrow_v2ray/760" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🛡مهم: اگر این نسخه رو نصب کنید دیگه دردسر ستاپ کردن MITM و... ندارید!
+این نسخه حدودا یک ساعت پیش توسط برنامه‌نویس شیر و خورشید آپدیت شد و به راحتی می‌تونید طبق این آموزش بهش وصل بشید:
+1- وارد اپلیکیشن شیر و خورشید(آخرین نسخه که امروز منتشر شده) می‌شید
+2- وارد بخش Options میشید از نوار بالا
+3- روی More Options کلیک میکنید
+4- گزینه‌ی Connection Protocol رو قرار میدید روی CDN Fronting
+5- میرید و عادی کانکت میشید و به راحتی وصل میشه!
+</div>
+
+## xsfilterrnet — post 3421
+
+<div align="center">
+  <a href="telegram/content/xsfilterrnet_3421_1778775787.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نحوه اتصال با اپلیکشن شیروخورشید
+⚡️
+
+حتما نسخه اخر رو نصب داشته باشید
+حالت پروکسی خاموش باشه
+
+قسمت connection protocol  رو بذارید
+cdn Fronting
+
+قسمت cdn edge ips
+92.123.102.43
+
+قسمت CDN sni hostname
+pypi.org
+
+
+📥 لینک دانلود داخلی اپلیکشن شیرخورشید
+
+https://github.com/nscl5/dl/raw/main/dl/ShirOKhorshid-2026.05.14.apk
+
+https://uplod.ir/ag653dlw6hsu/ShirOKhorshid-2026.05.14._.htm
+
+https://files.bokhary.fun/dump/%23%23%20Apps%20%23%23/ShirOKhorshid-2026.05.14.apk
+
+📥 لینک داخلی ویدیو 🎥
+@ConfigWireguard
+• @xsfilterrnet
+</div>
+
+## xsfilterrnet — post 3420
+
+<div align="center">
+  <a href="telegram/content/xsfilterrnet_3420_1778775788.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🍷آموزش Psiphon + MitM (فعلا روی اندروید، ویندوز هم مشابه است)
+
+ابتدا آخرین ورژن برنامه v2rayNG رو  دانلود و نصب کنید.
+لینک‌داخلی:
+▫️v2rayNG — v2.1.7 (armv8 / armv7)
+
+حال نیاز به یک سرتیفیکیت شخصی دارید برای اینکار میتوانید همان فایلهای mycert.crt, mycert.key را که در ویندوز ایجاد کردید را به گوشی خود منتقل کنید و از همان‌ها استفاده کنید یا اینکه به طور مثال میتوانید به طور مستقیم از سایت
+https://regery.com/en/security/ssl-tools/self-signed-certificate-generator
+آموزش نصب سرتیفیکت
+
+کانفیگ
+Psiphon-helper@patterniha.json
+را ذخیره کرده و سپس از طریق گزینه‌‌ی import from locally وارد برنامهv2rayNG کنید و اجرا کنید همچنین دقت کنید که Enable Hev TUN FEATURE در تنظیمات v2rayNG فعال باشد و همچنین پورت پیشفرض 10808 را تغییر نداده باشید.
+
+📥 لینک داخلی ویدیو
+🎬 MitMd+Psiphon.mp4 5.1MB
+• @patterniha
+• @xsfilterrnet
+• @ConfigWireguard
+</div>
+
+## xsfilterrnet — post 3419
+
+<div align="center">
+  <a href="telegram/content/xsfilterrnet_3419_1778775790.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️MitM Domin Fronting
+⚡️
+این پروژه یک روش برای دور زدن محدودیت‌های اینترنتی است که با ترکیب دو تکنیکMITM (Man-in-the-Middle) و Domain Fronting کار می‌کند.
+
+این ابزار با جعل هویت سرور، داده‌های رمزگذاری‌نشده را از مرورگر دریافت کرده و سپس با استفاده از SNI جعلی به سرور اصلی می‌فرستد. در حال حاضر فقط برای برخی سرویس‌های خاص مثل گوگل (به جز یوتیوب و جمینای)، Reddit، GitHub و سرویس‌های پشت Vercel و Fastly کار می‌کند. اجرا روی ویندوز، لینوکس، مک و اندروید (بدون روت) ممکن است، اما نیاز به نصب گواهی امنیتی شخصی (سرتیفیکیت) دارد و امنیت آن کاملاً به حفظ کلید خصوصی شما وابسته است.
+
+نکته کلیدی: این روش کانفیگ کلی اینترنت را زنده نمی‌کند، فقط دسترسی مستقیم به چند سرویس خاص را فراهم می‌سازد.(برای دانلود فایل از گیتهاب)
+
+https://github.com/patterniha/MITM-DomainFronting
+لینک کانفیگ
+https://github.com/patterniha/MITM-DomainFronting/blob/b130393a6ba53a0853d59e56dc1e3c893e0f3725/Xray-config/MITM-DomainFronting.json
+
+📥 لینک داخلی اموزش نصب سرتیفیکت
+🎬 MitM.mp4 7.9MB
+• @patterniha
+• @xsfilterrnet
+• @ConfigWireguard
+</div>
+
+## xsfilterrnet — post 3418
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+psiphon-helper@patterniha.json
+</div>
+
+## saministamm — post 62812
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+۵ تا اختصاصی 40 گیگ NPV آماده کردم واستون میزارم رفیقاتونم وصل کنید عشقا🤍. https://t.me/zeus_Vpne https://t.me/zeus_Vpne
+</div>
+
+## saministamm — post 62811
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اره وصله منم امتحان کردم
+</div>
+
+## saministamm — post 62810
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+من وصل شدم سرعتش خوبه اینستا رو هم بالا میاره عالیه
+</div>
+
+## saministamm — post 62809
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+من تست کردم اوکی شد برام
+</div>
+
+## saministamm — post 62808
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حاجییی وصل شدم مرسی
+</div>
+
+## saministamm — post 62807
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ShirOKhorshid-2026.05.14.apk
+</div>
+
+## saministamm — post 62806
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+۵ تا اختصاصی 40 گیگ NPV آماده کردم واستون میزارم رفیقاتونم وصل کنید عشقا🤍. https://t.me/zeus_Vpne https://t.me/zeus_Vpne
+</div>
+
+## saministamm — post 62804
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+۵ تا اختصاصی 40 گیگ NPV آماده کردم واستون میزارم رفیقاتونم وصل کنید عشقا🤍.
+https://t.me/zeus_Vpne
+https://t.me/zeus_Vpne
+</div>
+
+## saministamm — post 62803
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨روزنامه اعتماد آنلاین:
+
+اینترنت بین الملل خرداد ماه وصل میشه.
+</div>
+
+## saministamm — post 62802
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دمت گرممممم سمی😍😍
+وصل شدممم
+</div>
+
+## saministamm — post 62801
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+داداش دمت گرم وصل شد
+</div>
+
+## saministamm — post 62800
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ShirOKhorshid-2026.05.14.apk
+</div>
+
+## saministamm — post 62799
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ShirOKhorshid-2026.05.14.apk
+</div>
+
+## saministamm — post 62798
+
+<div align="center">
+  <a href="https://t.me/saministamm/62798" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فایل دانلود برنامه ی شیر و خورشید برای اندروید :
+
+- فضای این برنامه کاملا شبیه سایفون هستش ولی با قابلیت CDN که باعث شده بدون کانفیگ ترکیبی درحال حاضر اتصال پایدار تری نسبت به سایفون و دیگر روش های رایگان ارائه بده
+
+کانال ما : @saministamm
+" آموزش اتصال پست بعدی "
+</div>
+
+## saministamm — post 62797
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Tarkibi V2+ Psiphon
+vless://9ea9e54b-d4da-4773-855a-e5371e4da946@snapp.ir:80?path=%2F&security=none&encryption=none&host=hubfile.zpax.ir&type=ws#@saministamm
+</div>
+
+## saministamm — post 62796
+
+
+
+
+## saministamm — post 62793
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پروکسی های متصل :
+https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+
+https://t.me/proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+</div>
+
+## saministamm — post 62792
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚀 𝗣𝘀𝗶𝗽𝗵𝗼𝗻 𝗣𝗿𝗼𝘅𝘆
+
+Host:
+87.107.54.147
+
+Port:
+8888
+
+@saministamm
+</div>
+
+## saministamm — post 62791
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://9ea9e54b-d4da-4773-855a-e5371e4da946@snapp.ir:80?path=%2F&security=none&encryption=none&host=hubfile.zpax.ir&type=ws#@saministamm
+V2rayng + Psiphon
+</div>
+
+## saministamm — post 62790
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Psiphon or shir o khorshid⚡️
+
+Host: 81.91.147.147
+Port:10443
+
+@saministamm
+</div>
+
+## Skyportall — post 10678
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرعتش رو یوتیوب بچها فرستادن
+</div>
+
+## Skyportall — post 10677
+
+<div align="center">
+  <a href="telegram/content/Skyportall_10677_1778775792.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## Skyportall — post 10676
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+داش بنظرت این لیست ایپی تا کی دووم میاره
+</div>
+
+## Skyportall — post 10675
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+داش بنظرت این لیست ایپی تا کی دووم میاره
+</div>
+
+## Skyportall — post 10674
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+به کمک آیپی های فایل آخر که گذاشتید وصل شدم. تنظیماتم همون که نوشتید خطمم ایرانسل
+</div>
+
+## Skyportall — post 10673
+
+<div align="center">
+  <img src="telegram/content/Skyportall_10673_1778775793.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+به کمک آیپی های فایل آخر که گذاشتید وصل شدم.
+تنظیماتم همون که نوشتید
+خطمم ایرانسل
+</div>
+
+## Skyportall — post 10672
+
+<div align="center">
+  <a href="telegram/content/Skyportall_10672_1778775794.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سلام وقت بخیر این روش شیرو خورشید ویدیو اموزشی داره !؟
+</div>
+
+## Skyportall — post 10671
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سلام وقت بخیر
+این روش شیرو خورشید ویدیو اموزشی داره !؟
+</div>
+
+## Skyportall — post 10670
+
+<div align="center">
+  <a href="https://t.me/Skyportall/10670" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴این فایل حاوی 5142 آیپی وایت Akamai هست.
+
+فقط Select All کنید و همشو کپی کنید، وارد تنظیمات شیروخورشید بشید، آیپی‌ها رو در کادر CDN edge IPs وارد کنید.
+
+حتما Connection Protocol روی CDN Fronting باشه.
+
+
+
+⚡️ @Skyportall
+</div>
+
+## Skyportall — post 10669
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+همچنان وصله
+✅
+</div>
+
+## Skyportall — post 10665
+
+<div align="center">
+  <a href="telegram/content/Skyportall_10665_1778775794.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بچه ها همگی وصلن خداروشکر. تنبلی نکنید روش رایگانه محدودیتم نداره میتونید به کارتون برسید
+😊
+
+همه شاتارو نفرستادم دیگه خیلی زیاد بودن. ممنون از دایرکتاتون
+❤️
+
+دونیت به پترنیها عزیز و حمایت ازشون یادتون نره اگه شرایطشو دارید
+</div>
+
+## Skyportall — post 10664
+
+<div align="center">
+  <img src="telegram/content/Skyportall_10664_1778775795.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایرانسل
+</div>
+
+## Skyportall — post 10663
+
+<div align="center">
+  <img src="telegram/content/Skyportall_10663_1778775795.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عالیه داداش سرعت عالی همه چی باز میکنه ❤️
+من همراه هستم
+</div>
+
+## Skyportall — post 10662
+
+<div align="center">
+  <img src="telegram/content/Skyportall_10662_1778775796.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رو همراه
+</div>
+
+## Skyportall — post 10661
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وای مرسی واقعا
+سرعتشم خیلی خوبه یوتیوب و اسپایتفای میاره
+حداقل دیگه میتونم به کارام برسم💔
+</div>
+
+## Skyportall — post 10660
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+من با شیر و خورشید همین الان وصلم اینستا رو هم راحت با سرعت خوب میاره
+</div>
+
+## Skyportall — post 10659
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خط همراه اول هستن
+</div>
+
+## Skyportall — post 10658
+
+<div align="center">
+  <img src="telegram/content/Skyportall_10658_1778775796.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📷 Photo
+</div>
+
+## Skyportall — post 10657
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+psiphon-helper@patterniha.json
+</div>
+
+## Skyportall — post 10656
+
+<div align="center">
+  <img src="telegram/content/Skyportall_10656_1778775796.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دم سازندش گرم متصله
+
+توی قسمت cdn edge ips یه ایپی وارد کنید
+</div>
+
+## hamedvpns — post 18848
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+انگار صاحب تلگرام منم هر چی میزارم تو ثانیه دوم در 100 کانال پخش شده چه خبره اینجا همه صاحب کانال هستن انگار
+
+آغا من اعضای معمولی میخوام ن صاحب کانال
+</div>
+
+## hamedvpns — post 18847
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اینا اوکی بود برام
+
+قسمت sni host رو پاک کنید فقط این آیپی ها رو بزنید کافیه .
+
+
+2.19.204.194
+2.19.204.210
+2.19.205.9
+2.19.204.202
+2.19.205.82
+2.19.205.58
+
+
+بی‌صدا تست کنید .
+</div>
+
+## hamedvpns — post 18846
+
+<div align="center">
+  <a href="telegram/content/hamedvpns_18846_1778775797.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نحوه اتصال با اپلیکشن شیروخورشید
+
+حتما نسخه اخر رو نصب داشته باشید
+حالت پروکسی خاموش باشه
+
+قسمت connection protocol  رو بذارید
+cdn Fronting
+
+قسمت cdn edge ips
+92.123.102.43
+
+قسمت CDN sni hostname
+pypi.org
+
+📥 لینک دانلود داخلی اپلیکشن شیرخورشید
+
+https://github.com/nscl5/dl/raw/main/dl/ShirOKhorshid-2026.05.14.apk
+
+https://uplod.ir/ag653dlw6hsu/ShirOKhorshid-2026.05.14._.htm
+
+https://uploadkon.ir/uploads/47a614_26Shir-2026-05-14-2.rar
+
+https://files.bokhary.fun/dump/%23%23%20Apps%20%23%23/ShirOKhorshid-2026.05.14.apk
+@ConfigWireguard
+
+❤️ اشتراک گذاری یادتون نره 🌈
+
+‌‌@hamedvpns ☑️
+
+لایک   |   Like 👍❤️
+اشتراک بزارین   |   Share ⭐️
+</div>
+
+## hamedvpns — post 18844
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آپدیت جدید شیر و خورشید :
+
+
+https://uplod.ir/ag653dlw6hsu/ShirOKhorshid-2026.05.14._.htm
+
+
+https://github.com/nscl5/dl/raw/main/dl/ShirOKhorshid-2026.05.14.apk
+
+
+https://files.bokhary.fun/dump/%23%23%20Apps%20%23%23/ShirOKhorshid-2026.05.14.apk
+
+https://punkpaste.ir/f/ShirOKhorshid-2026-0-kfbv0z
+
+همش یکسانه هر کدوم راحت هستید بزنید.
+
+
+
+
+‌‌@hamedvpns ☑️
+
+لایک   |   Like 👍❤️
+اشتراک بزارین   |   Share ⭐
+</div>
+
+## hamedvpns — post 18843
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لینک دانلود داخلی شیر و خورشید:
+
+https://punkpaste.ir/f/ShirOKhorshid-2026-0-91bfdn
+
+لینک دانلود داخلی سایفون :
+
+https://punkpaste.ir/f/Psiphon-y3n8em
+
+
+‌‌@hamedvpns ☑️
+
+لایک   |   Like 👍❤️
+اشتراک بزارین   |   Share ⭐
+</div>
+
+## hamedvpns — post 18842
+
+<div align="center">
+  <a href="https://t.me/hamedvpns/18842" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ جدید v2rayNG برای
+متود Psiphon—MITM
+
+
+آموزش متود و موارد مورد نیاز 👉
+
+
+
+❤️ اشتراک گذاری یادتون نره 🌈
+
+..
+‌‌@hamedvpns ☑️
+
+لایک   |   Like 👍❤️
+اشتراک بزارین   |   Share ⭐
+</div>
+
+## hamedvpns — post 18841
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در حرکتی که فقط از چپا میتونید ببینید اتوبوس تیم فوتبال جمهوری اسلامی رو با شعار مرگ بر آمریکا بدرقه کردن تا بره آمریکا 😄
+
+@PiknikAnalyst
+</div>
+
+## hamedvpns — post 18840
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ ترکیبی ویتورای با سایفون ✅
+
+
+آموزش اتصال ترکیبی 👉👉
+
+حتما ترکیبی متصل بشید .
+
+
+vless://93ad8297-fad9-46e7-a0ca-6b91fcf36c10@s4.tehranionliine.ir:80?type=ws&path=%2F&security=none#💎Aman_vpn
+
+تست شده و متصل هست 💯
+
+ارسالی امیرحسین ❤️
+@Aman_vpn
+
+
+..
+‌‌@hamedvpns ☑️
+
+لایک   |   Like 👍❤️
+اشتراک بزارین   |   Share ⭐️
+</div>
+
+## ConfigWireguard — post 31696
+
+<div align="center">
+  <a href="https://t.me/ConfigWireguard/31696" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Akamai IP Scanner
+
+۱. لیست رنج‌های هدف (با پشتیبانی از تمام فرمت‌ها مثل 16/ یا 24/) را در فایل ips.txt قرار دهید. (پیشفرض قرار داده شده)
+
+۲. روی فایل scan.ps1 راست‌کلیک کرده و گزینه Run with PowerShell را برای شروع اسکن انتخاب کنید.
+
+۳. بهترین آی‌پی‌ها به‌صورت لحظه‌ای در clean_ips.txt ذخیره می‌شوند (هر زمان مایل بودید می‌توانید اسکن را متوقف کنید).
+آیپی های سالم رو میتونید داخل بخش
+CDN EDGE IPS
+برنامه شیر و خورشید وارد کنید سرعتش بهتر میشه
+</div>
+
+## ConfigWireguard — post 31695
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روی سرور ایتالیا خوب وصل میشه
+Cdn edge IPs:
+
+92.122.123.128
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.19.204.210
+</div>
+
+## ConfigWireguard — post 31694
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نحوه اتصال با اپلیکشن شیروخورشید حتما نسخه اخر رو نصب داشته باشید حالت پروکسی خاموش باشه قسمت connection protocol  رو بذارید cdn Fronting قسمت cdn edge ips 92.123.102.43 قسمت CDN sni hostname یکی از اینا pypi.org a248.e.akamai.net 📥 لینک دانلود داخلی…
+</div>
+
+## ConfigWireguard — post 31693
+
+<div align="center">
+  <a href="telegram/content/ConfigWireguard_31693_1778775799.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نحوه اتصال با اپلیکشن شیروخورشید
+
+حتما نسخه اخر رو نصب داشته باشید
+حالت پروکسی خاموش باشه
+
+قسمت connection protocol  رو بذارید
+cdn Fronting
+
+قسمت cdn edge ips
+92.123.102.43
+
+قسمت CDN sni hostname یکی از اینا
+pypi.org
+a248.e.akamai.net
+
+📥 لینک دانلود داخلی اپلیکشن شیرخورشید
+
+https://github.com/nscl5/dl/raw/main/dl/ShirOKhorshid-2026.05.14.apk
+
+https://uplod.ir/ag653dlw6hsu/ShirOKhorshid-2026.05.14._.htm
+
+https://files.bokhary.fun/dump/%23%23%20Apps%20%23%23/ShirOKhorshid-2026.05.14.apk
+
+📥 لینک داخلی ویدیو 🎥
+@ConfigWireguard
+</div>
+
+## ConfigWireguard — post 31692
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+MitM Domin Fronting این پروژه یک روش برای دور زدن محدودیت‌های اینترنتی است که با ترکیب دو تکنیکMITM (Man-in-the-Middle) و Domain Fronting کار می‌کند این ابزار با جعل هویت سرور، داده‌های رمزگذاری‌نشده را از مرورگر دریافت کرده و سپس با استفاده از SNI جعلی به…
+</div>
+
+## ConfigWireguard — post 31691
+
+<div align="center">
+  <a href="telegram/content/ConfigWireguard_31691_1778775800.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموزش Psiphon + MitM (فعلا روی اندروید، ویندوز هم مشابه است)
+
+ابتدا آخرین ورژن برنامه v2rayNG رو  دانلود و نصب کنید.
+لینک‌داخلی:
+▫️v2rayNG — v2.1.7 (armv8 / armv7)
+
+حال نیاز به یک سرتیفیکیت شخصی دارید برای اینکار میتوانید همان فایلهای mycert.crt, mycert.key را که در ویندوز ایجاد کردید را به گوشی خود منتقل کنید و از همان‌ها استفاده کنید یا اینکه به طور مثال میتوانید به طور مستقیم از سایت
+https://regery.com/en/security/ssl-tools/self-signed-certificate-generator
+آموزش نصب سرتیفیکت
+
+کانفیگ
+Psiphon-helper@patterniha.json
+را ذخیره کرده و سپس از طریق گزینه‌‌ی import from locally وارد برنامهv2rayNG کنید و اجرا کنید همچنین دقت کنید که Enable Hev TUN FEATURE در تنظیمات v2rayNG فعال باشد و همچنین پورت پیشفرض 10808 را تغییر نداده باشید.
+📥 لینک داخلی ویدیو
+🎬 MitMd+Psiphon.mp4 5.1MB
+📱 Psiphon v462 Mod.apk 25.1MB
+📱 PsiphonAndroid.apk 21.9MB
+💻 psiphon3.exe 9.9MB
+• @patterniha
+• @ConfigWireguard
+</div>
+
+## ConfigWireguard — post 31690
+
+<div align="center">
+  <a href="telegram/content/ConfigWireguard_31690_1778775802.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+MitM Domin Fronting
+این پروژه یک روش برای دور زدن محدودیت‌های اینترنتی است که با ترکیب دو تکنیکMITM (Man-in-the-Middle) و Domain Fronting کار می‌کند
+
+این ابزار با جعل هویت سرور، داده‌های رمزگذاری‌نشده را از مرورگر دریافت کرده و سپس با استفاده از SNI جعلی به سرور اصلی می‌فرستد. در حال حاضر فقط برای برخی سرویس‌های خاص مثل گوگل (به جز یوتیوب و جمینای)، Reddit، GitHub و سرویس‌های پشت Vercel و Fastly کار می‌کند. اجرا روی ویندوز، لینوکس، مک و اندروید (بدون روت) ممکن است، اما نیاز به نصب گواهی امنیتی شخصی (سرتیفیکیت) دارد و امنیت آن کاملاً به حفظ کلید خصوصی شما وابسته است.
+
+نکته کلیدی: این روش کانفیگ کلی اینترنت را زنده نمی‌کند، فقط دسترسی مستقیم به چند سرویس خاص را فراهم می‌سازد.(برای دانلود فایل از گیتهاب)
+
+https://github.com/patterniha/MITM-DomainFronting
+لینک کانفیگ
+https://github.com/patterniha/MITM-DomainFronting/blob/b130393a6ba53a0853d59e56dc1e3c893e0f3725/Xray-config/MITM-DomainFronting.json
+📥 لینک داخلی اموزش نصب سرتیفیکت
+🎬 MitM.mp4 7.9MB
+• @patterniha
+• @ConfigWireguard
+</div>
+
+## ircfspace — post 2335
+
+<div align="center">
+  <img src="telegram/content/ircfspace_2335_1778775804.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روش MITM در آپدیت جدید از اپ اندروید #شیروخورشید گنجونده شده و می‌تونین بدون دردسر ازش استفاده کنین.
+برای استفاده بعد از نصب یا بروزرسانی، باید وارد Options، سپس More Options و بخش Connection Protocol شده و CDN Fronting رو انتخاب کنین.
+همینطور در قسمت CDN edge IPs اگر IPهای وایت‌لیست شده Akamai رو بذارید، سرعت اتصال بهتر میشه.
+
+👉 github.com/shirokhorshid/shirokhorshid-android/releases/latest
+💡 t.me/PersianGithubMirror/4954
+© PawnToPromotion, mahdavi
+
+🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+@ircfspace
+</div>
+
+## ircfspace — post 2334
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نحوه اتصال رایگان و نامحدود به اینترنت آزاد با متد ترکیبی MITM + Psiphon
+
+👉 github.com/patterniha/MITM-DomainFronting
+© patterniha, MatinSenPaii
+
+🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+@ircfspace
+</div>
+
+## Zel2oVPN — post 2774
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+iP جدید
+
+
+2.23.227.196
+2.17.147.11
+2.18.64.9
+2.18.64.4
+2.18.64.5
+2.22.114.98
+95.100.153.184
+95.101.27.196
+2.17.96.131
+95.101.137.74
+95.101.78.25
+2.23.245.35
+2.16.168.107
+2.17.100.250
+2.16.245.188
+2.17.100.130
+95.100.110.28
+2.22.89.43
+2.18.63.33
+95.100.153.186
+2.22.151.140
+95.100.177.68
+95.101.61.215
+95.101.27.71
+2.23.227.218
+2.23.227.209
+2.23.227.221
+2.17.100.218
+2.17.97.198
+95.101.27.101
+2.17.240.5
+2.16.106.222
+95.101.234.87
+2.21.33.113
+23.194.20.27
+95.101.38.176
+95.101.35.113
+2.17.100.225
+2.16.168.214
+2.17.113.121
+2.23.227.212
+2.23.227.219
+23.212.110.218
+95.101.35.96
+2.17.96.158
+2.16.168.208
+2.16.245.174
+2.16.245.173
+23.192.237.219
+2.17.152.213
+2.17.100.200
+2.22.112.208
+2.23.172.114
+2.23.227.199
+2.23.227.215
+2.21.134.89
+2.17.100.136
+2.23.90.148
+95.101.111.168
+23.219.79.75
+2.16.168.122
+2.16.168.123
+95.100.177.112
+23.192.24.7
+23.12.157.106
+2.16.245.133
+23.52.22.3
+2.17.147.218
+23.216.134.80
+23.55.163.135
+23.46.188.71
+2.17.100.169
+95.101.234.88
+2.22.151.152
+2.17.241.119
+95.101.122.131
+95.101.111.161
+2.21.245.14
+2.18.172.59
+95.101.234.90
+23.11.41.157
+95.101.38.158
+2.16.164.34
+2.16.164.89
+
+
+✅ حواستون باشه قسمت CDN sni خالی باشه
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2773
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+iP جدید
+✅همه رو کپی کنید بزنید خودش به ای پی متصل وصل میشه فقط حواستون باشه که CDN sni خالی باشه
+
+
+2.19.204.225
+2.19.204.232
+2.19.204.234
+2.19.204.240
+2.19.204.249
+2.19.204.250
+2.19.204.251
+2.19.205.8
+2.19.205.9
+2.19.205.11
+2.19.205.27
+2.19.205.33
+2.19.205.34
+2.19.205.40
+2.19.205.41
+2.19.205.42
+2.19.205.49
+2.19.205.50
+2.19.205.58
+2.19.205.59
+2.19.205.64
+2.19.205.65
+2.19.205.82
+2.19.205.83
+2.19.205.88
+2.19.205.97
+2.19.205.98
+2.19.205.105
+
+
+☑➜@Zel2oVPN ﻿
+</div>
+
+## Zel2oVPN — post 2772
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+2.19.204.251
+
+2.19.204.225
+
+این ای پی رو ایرانسل متصله وصلم باهاش ♥️
+
+فقط ای پی رو بزنید و sni رو پاک کنید
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2771
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+92.123.102.43
+ایپی
+
+a248.e.akamai.net
+نام میزبان
+
+اونایی  ک وصل شدن و دوباره وصل نمیشن اینو تست کنن
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2770
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+iP شیر و خورشید
+
+92.122.123.128
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.19.204.210
+
+Sni hostname
+
+pypi.org
+
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2769
+
+<div align="center">
+  <img src="telegram/content/Zel2oVPN_2769_1778775804.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فیلترینگ با متود CDN-Fronting (فول تانل)(اندروید) اتصال بدون نیاز به v2rayNG و نصب سرتیفیکیت مخصوص برنامه شیر و خورشید چند آیپی قابل استفاده : 151.101.64.223 151.101.0.223 151.101.128.223 151.101.192.223 ☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2768
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ShirOKhorshid-[@Zel2oVPN].apk
+</div>
+
+## Zel2oVPN — post 2767
+
+<div align="center">
+  <a href="https://t.me/Zel2oVPN/2767" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اپدیت جدید شیر و خورشید
+
+نسخه: 2026.05.14
+
+لینک دانلود داخلی
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2766
+
+<div align="center">
+  <img src="telegram/content/Zel2oVPN_2766_1778775805.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این آموزش فقط برای اونایی هس که نگران به خطر افتادن اطلاعاتشون هسن و میخوان مجوز نصب شده رو پاک کنن ♥️
+اینم برای اونایی که زبان گوشیشون انگلیسی هس وارد تنظیمات میشین تو قسمت جستجو ca رو سرچ میکنید بعدش گزینه ای که علامت زدم روش ضربه میزنید
+بعدش وارد قسمت Trusted credentials میشید
+بعدش تمام مجوز های خود گوشی براتون بالا میاد با مجوز های system کاری نداشته باشید روی گزینه user ضربه بزنید بعدش مجوز نصب کرده رو پاک کنید و تمام♥️
+
+آموزش حذف مجوز به زبان فارسی
+
+خیلیا با این آموزش وصل شدن یه عده هم نگران بودن چجوری حذفش کنن منم لازم دونسم آموزشش رو بذارم با تشکر
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2765
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پروکسی سایفون ϟ 𝐏𝐬𝐢𝐩𝐡𝐨𝐧 𝐏𝐫𝐨𝐱𝐲
+
+Ip : 81.91.147.147
+Port : 10443
+
+Ip : 87.107.54.147
+Port : 8888
+
+اولی بهتر و سریع تر وصل می‌شه.  دومی خیلی ناپایدار هستش 🙏
+
+‼️ در بخش options -> proxy settings وارد بشه
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2764
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✔️VayDNS [S121]
+
+
+slipnet-enc://Aa0nOVZ1Llc91ZftFiZY3aY7hS58yMTsVHWZYlmTMAmDp+aBTNQDpnJRwsXzI2LanLGyvdgd7HwbdH8cwC4iZCFN6V9Z1IPNRtqyRMD4yBk4Xb7eQlzzJT108pJw8Hk2KTKfG91dWn0zCoXpbDaCqvb44TlKbqR+bszsUzmsVjYopzjiqAzLQEC+tm3q0tLpRvuNmYhLJK1BFD+pMg1h6c1jsivwQkZuPPPyOWncf91nryRozRF8c+lyaDp6NENyjYLekya6fI8eoDXjBLw6YAi21YOlHmI32gW+38t9PT4eJ2wfoLzOVoN5iPOhB7uXzNEtupDBBvpB6bexZ1QVWEFEwNmgVThsGB+3nY2nqo1hA55mVDYgmS4CYYvh9oHkGtPnDbahyCJ5S7LujUSBfOYXsahlUx/mcFKiZeN150aEVVnFDk3MHYHslP3pNVAGJrgfVpNLh4bTmdSckCWDvRpinrJqqr+8uRorD76dz203K0jLgimZbcP2b1W1KsVW2i2EHcqCcMgFCR4CWStlTtSxnCFR1FUybMANq9nmUcT1TB5l+eJbFIkFhX/+bvXQNBYoV78jtFrs7gatPFWX9sMyF+Jxbv1sXocbR9IlhTaDDsN5wVFS4ms9LKgoTobd5jDuHMEoGx7D/MNqERjp0aSq7kOBL495Qi3xyjUeztQ/ZXNeCbWO2m/03Xb7qInY
+
+
+📱کانفیگ اسلیپ
+
+📱مخصوص نسخه جدید  2.5.3
+
+📱دانلود نسخه جدید
+
+📱تنظیمات پیشنهادی
+
+https://t.me/socks?server=127.0.0.1&port=10880&user=%40Zel2oVPN
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2763
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرور StormDNS✅
+مناسب برای WhiteDNS◽️
+
+stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQE1hc2lyX1NlZmlk8J-ViigxKSIsInNlcnZlciI6eyJkb21haW4iOiJ2MS5tYXNpci1zZWZpZC0xLnNob3AiLCJlbmNyeXB0aW9uX2tleSI6IlRlbGVncmFtLUNoYW5uZWwtLS0-QE1hc2lyX1NlZmlkIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0
+stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQE1hc2lyX1NlZmlk8J-ViigyKSIsInNlcnZlciI6eyJkb21haW4iOiJ2Mi5tYXNpci1zZWZpZC0xLnNob3AiLCJlbmNyeXB0aW9uX2tleSI6IlRlbGVncmFtLUNoYW5uZWwtLS0-QE1hc2lyX1NlZmlkIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0
+stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQE1hc2lyX1NlZmlk8J-ViigzKSIsInNlcnZlciI6eyJkb21haW4iOiJ2My5tYXNpci1zZWZpZC0xLnNob3AiLCJlbmNyeXB0aW9uX2tleSI6IlRlbGVncmFtLUNoYW5uZWwtLS0-QE1hc2lyX1NlZmlkIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0
+stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQE1hc2lyX1NlZmlk8J-Viig0KSIsInNlcnZlciI6eyJkb21haW4iOiJ2NC5tYXNpci1zZWZpZC0xLnNob3AiLCJlbmNyeXB0aW9uX2tleSI6IlRlbGVncmFtLUNoYW5uZWwtLS0-QE1hc2lyX1NlZmlkIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0
+stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQE1hc2lyX1NlZmlk8J-Viig1KSIsInNlcnZlciI6eyJkb21haW4iOiJ2NS5tYXNpci1zZWZpZC0xLnNob3AiLCJlbmNyeXB0aW9uX2tleSI6IlRlbGVncmFtLUNoYW5uZWwtLS0-QE1hc2lyX1NlZmlkIiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0
+
+
+☑➜@Zel2oVPN
+</div>
+
+## Zel2oVPN — post 2762
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ریزالور جدید✅
+
+103.215.223.64
+109.125.169.20
+109.230.89.139
+109.230.91.227
+109.230.91.228
+109.230.91.229
+109.238.187.193
+134.255.206.206
+151.234.161.241
+164.138.17.122
+176.65.241.236
+178.252.133.115
+178.252.143.133
+178.252.170.218
+178.252.178.205
+185.106.147.227
+185.125.248.57
+185.125.248.58
+185.126.5.40
+185.126.5.41
+185.128.138.2
+185.129.170.75
+185.140.240.94
+185.140.242.134
+185.145.8.254
+185.155.14.130
+185.164.74.247
+185.181.180.235
+185.206.229.32
+185.206.229.36
+185.208.183.29
+185.224.179.186
+185.229.31.77
+185.53.142.174
+185.66.224.24
+185.66.228.26
+185.66.229.138
+185.88.153.12
+185.88.178.196
+185.94.96.161
+188.121.157.181
+188.136.162.211
+188.136.208.244
+188.212.22.141
+188.75.95.22
+2.179.166.58
+2.179.179.185
+2.180.31.171
+2.187.35.19
+2.188.162.71
+2.188.162.72
+2.188.162.76
+2.188.162.77
+2.188.162.78
+2.188.166.74
+2.188.166.75
+2.188.166.78
+2.188.214.203
+2.188.218.178
+2.189.1.10
+2.189.1.12
+2.189.1.13
+2.189.1.14
+2.189.1.15
+2.189.1.19
+2.189.1.1
+2.189.1.2
+212.16.86.112
+212.33.206.102
+212.33.206.152
+213.176.123.5
+213.176.29.136
+213.207.195.146
+213.207.198.254
+217.144.107.162
+217.219.34.49
+217.219.34.66
+31.214.169.254
+31.7.70.68
+31.7.78.205
+37.148.100.151
+37.148.13.183
+37.148.23.20
+37.148.35.89
+37.156.146.147
+37.191.76.110
+37.191.93.221
+37.191.93.222
+37.255.221.16
+37.255.240.167
+37.32.10.135
+37.32.127.133
+37.75.244.51
+37.75.244.52
+45.159.112.79
+45.81.17.27
+45.81.19.11
+45.92.94.189
+45.92.94.208
+46.100.134.21
+46.100.55.232
+46.100.55.67
+46.100.58.243
+46.100.9.184
+46.148.32.174
+46.209.157.19
+46.209.157.22
+46.209.240.130
+46.209.241.81
+46.209.48.3
+46.209.48.4
+46.209.48.5
+46.209.92.54
+46.245.78.84
+46.245.98.133
+46.34.165.60
+46.34.165.63
+5.159.51.2
+5.159.51.30
+5.159.55.55
+5.160.115.130
+5.160.118.186
+5.160.13.82
+5.160.13.85
+5.160.13.86
+5.160.242.48
+5.160.32.158
+5.160.38.78
+5.160.43.195
+5.160.78.238
+5.160.79.219
+5.160.79.56
+5.160.90.86
+5.190.209.10
+5.202.177.196
+5.202.177.197
+5.202.182.222
+5.202.248.119
+5.202.248.74
+5.202.53.21
+5.238.192.85
+5.239.245.240
+5.239.245.245
+5.239.245.249
+5.239.245.250
+62.60.196.11
+62.60.197.83
+77.104.115.161
+77.104.115.162
+77.104.126.43
+77.237.82.2
+77.237.85.193
+77.238.123.179
+78.38.174.30
+78.39.112.50
+78.39.50.234
+78.39.98.28
+79.175.151.56
+79.175.172.98
+80.191.163.251
+80.191.221.14
+80.191.221.19
+80.191.221.22
+80.191.221.28
+80.191.221.30
+80.191.221.32
+80.191.221.61
+80.191.223.247
+80.191.241.194
+80.191.255.18
+80.191.40.147
+80.210.29.71
+80.210.40.54
+80.210.41.48
+80.75.9.252
+81.12.109.19
+81.12.60.10
+81.12.65.135
+81.12.71.10
+81.12.72.234
+81.12.98.2
+81.12.99.101
+81.12.99.102
+81.12.99.104
+81.16.116.138
+81.16.126.112
+81.28.38.179
+81.28.57.2
+81.28.60.98
+81.90.145.121
+81.91.156.186
+82.99.249.230
+84.241.60.28
+85.133.160.236
+85.133.160.240
+85.133.162.44
+85.133.184.69
+85.185.105.104
+85.185.75.75
+85.198.31.113
+87.107.139.254
+87.107.16.222
+87.107.18.1
+87.107.18.22
+87.107.44.2
+87.107.45.9
+87.107.65.78
+87.248.138.33
+87.248.151.59
+89.46.218.24
+89.46.219.179
+89.46.219.180
+91.212.252.48
+91.243.160.166
+91.243.175.140
+91.92.124.88
+91.92.185.232
+91.92.186.50
+92.242.216.150
+92.246.147.81
+93.114.104.185
+93.118.108.195
+93.118.122.247
+93.118.148.30
+93.118.160.189
+93.118.166.195
+94.182.198.30
+94.182.214.34
+94.182.54.5
+94.182.56.254
+94.183.52.95
+94.183.95.208
+95.80.184.15
+
+
+☑➜@Zel2oVPN
+</div>
+
+## whitedns — post 616
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نسخه ۱.۰.۲ 🔄 WhiteDns Windows
+
+آموزش خیلی مقدماتی و ساده برای استفاده از این نسخه
+@whitedns
+</div>
+
+## whitedns — post 615
+
+<div align="center">
+  <a href="https://t.me/whitedns/615" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Whitedns windows v1.0.2
+</div>
+
+## whitedns — post 614
+
+<div align="center">
+  <img src="telegram/content/whitedns_614_1778775806.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نسخه ۱.۰.۲ 🔄 WhiteDns Windows
+
+
+🔥
+🔥
+🔥
+🔥
+
+نسخه ۱.۰.۲ بر پایداری، قابلیت استفاده و تشخیص‌های بسیار قوی‌تر رزولور تمرکز دارد. 🛠
+
+این بروزرسانی مشکل آکاردئون را در بخش تنظیمات پیشرفته اصلاح می‌کند تا بخش‌ها با قابلیت اطمینان بیشتری باز و بسته شوند و چیدمان تنظیمات رفتار سازگارتری داشته باشد. همچنین اسکنر رزولور را با یک حالت اسکن پیشرفته جدید بهبود می‌بخشد که رزولورها را به روشی واقع‌گرایانه‌تر و آگاه به تونل، با استفاده از دامنه فعال تونل آزمایش می‌کند، از جمله بررسی‌های DNS بدون کش، قابلیت EDNS0، یکپارچگی NXDOMAIN، مدیریت زیردامنه‌های تو در تو و جستجوهای پروب به شکل تونل. 🌐
+
+تجربه نتایج اسکن نیز بهبود یافت. اکنون خروجی با اطمینان بیشتری کار می‌کند، مرتب‌سازی به درستی عمل می‌کند و نتایج صادر شده اکنون بهتر با آنچه در رابط کاربری نمایش داده می‌شود مطابقت دارند. جزئیات اضافی اسکن مانند امتیاز، دامنه پروب و قابلیت مشاهده بار EDNS اضافه شد تا رزولورهای قوی‌تر را با دقت بیشتری شناسایی کنید. 📊✨
+
+@whitedns
+</div>
+
+## whitedns — post 612
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+(موقت)
+
+تنظیمات کلاینت Whitedns اندروید
+
+همراه و رایتل و اپتل و مخابرات
+
+یکی از اعضای عزیزی کانال "ارام " زحمت این کار کشیدید که از ایشون تشکر میکنیم
+
+@whitedns
+</div>
+
+## whitedns — post 611
+
+<div align="center">
+  <a href="https://t.me/whitedns/611" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🛡مهم: اگر این نسخه رو نصب کنید دیگه دردسر ستاپ کردن MITM و... ندارید!
+این نسخه حدودا یک ساعت پیش توسط برنامه‌نویس شیر و خورشید آپدیت شد و به راحتی می‌تونید طبق این آموزش بهش وصل بشید:
+1- وارد اپلیکیشن شیر و خورشید(آخرین نسخه که امروز منتشر شده) می‌شید
+2- وارد بخش Options میشید از نوار بالا
+3- روی More Options کلیک میکنید
+4- گزینه‌ی Connection Protocol رو قرار میدید روی CDN Fronting
+5- میرید و عادی کانکت میشید و به راحتی وصل میشه!
+</div>
+
+## whitedns — post 610
+
+<div align="center">
+  <a href="https://t.me/whitedns/610" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+☠️ آموزش اتصال رایگان و نامحدود به اینترنت با متد ترکیبی MITM + Psiphon 
+⚡️لینک‌های داخلی جهت دانلود: https://guardts.ir/f/db4006f1197c و https://uploadgirl.ir/d/1f4fb76a-c869-494a-b439-b11cb8d35947 (شامل فایلهای V2rayNG، کلاینت شیر و خورشید، ویدئو آموزشی،…
+</div>
+
+## whitedns — post 608
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+☠️ آموزش اتصال رایگان و نامحدود به اینترنت با متد ترکیبی MITM + Psiphon
+
+
+⚡️لینک‌های داخلی جهت دانلود: https://guardts.ir/f/db4006f1197c و https://uploadgirl.ir/d/1f4fb76a-c869-494a-b439-b11cb8d35947 (شامل فایلهای V2rayNG، کلاینت شیر و خورشید، ویدئو آموزشی، V2rayN و فایل Certificate Generator و خود فایل Json پترنیها)
+
+لینک پروژه اصلی: https://github.com/patterniha/MITM-DomainFronting
+
+
+⭐️توی این ویدئو بهتون یاد میدم که چطوری با استفاده از متد ترکیبی سایفون(کلاینت شیر و خورشید) + کانفیگ دامین فرانتینگ پترنیها، به اینترنت بین‌الملل وصل بشید!
+
+
+⚠️ پیش‌نیازها و نکات مهم:
+
+1️⃣ این ویدئو هیچ پیش نیازی نداره
+
+
+✉️ تماشا در تلگرام
+
+
+📹 تماشا در یوتوب
+
+
+💰 دونیت
+</div>
+
+## mirzapanel — post 1318
+
+
+
+
+## mirzapanel — post 1317
+
+<div align="center">
+  <img src="telegram/content/mirzapanel_1317_1778775807.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+زیبا هست این فقط کلاهبرداریش هست بد صحبت کردنای پشتیبان شون به کنار داغون ترین اپراتور موجود تو ایرانه
+</div>
+
+## mirzapanel — post 1316
+
+<div align="center">
+  <img src="telegram/content/mirzapanel_1316_1778775808.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+باگ بعدی:
+
+
+یه باگ 18 ساله از nginx پابلیک شد.
+</div>
+
+## erfanandroid — post 88597
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سررررور با ساب بدون ضریب کسی خواست بگه
+قیمتا کاهشی شده امروز ولی هنوز خیلی مونده برای همه قابل دسترس باشه بتونن حجم بالا بخرن
+
+@aloerfan
+</div>
+
+## erfanandroid — post 88596
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نمیدونم داستان روبیکا چیه
+یهو میوی تو نشست های فعال میبینی یه safari تو اکانتته
+حتی دلیت هم نمیشه
+حتی نمیتونی رمز دوعاملی فعال کنی براش
+تنها راهش دلیت اکانت کردن این برنامه مزخرفه
+
+@erfanandroid
+</div>
+
+## Spotify_Porteghali — post 12380
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لینکِ دانلود داخلی سالم هست ، چند ثانیه صبر کنید که بالا بیاد .
+
+این آیپی ها با ایرانسل 
+🛜 تست شده و سرعتِ خیلی بالایی داره ، می‌‌تونید با اینترنت هایِ دیگه ام چک کنید .
+
+متاسفانه این برنامه برایِ کاربرانِ IOS قابلِ استفاده نیست .
+
+تا متصل هستید حتما استفاده کنید و دانلود هایِ ضروری رو انجام بدید و برنامه هایی که میخواید آپدیت کنید رو آپدیت‌شون رو انجام بدید .
+</div>
+
+## Spotify_Porteghali — post 12379
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یه لیست آیپیِ جدیدِ تست شده برایِ " شیرو خورشید " ، با سرعتِ بالا :
+
+
+2.23.227.196
+2.17.147.11
+2.18.64.9
+2.18.64.4
+2.18.64.5
+2.22.114.98
+95.100.153.184
+95.101.27.196
+2.17.96.131
+95.101.137.74
+95.101.78.25
+2.23.245.35
+2.16.168.107
+2.17.100.250
+2.16.245.188
+2.17.100.130
+95.100.110.28
+2.22.89.43
+2.18.63.33
+95.100.153.186
+2.22.151.140
+95.100.177.68
+95.101.61.215
+95.101.27.71
+2.23.227.218
+2.23.227.209
+2.23.227.221
+2.17.100.218
+2.17.97.198
+95.101.27.101
+2.17.240.5
+2.16.106.222
+95.101.234.87
+2.21.33.113
+23.194.20.27
+95.101.38.176
+95.101.35.113
+2.17.100.225
+2.16.168.214
+2.17.113.121
+2.23.227.212
+2.23.227.219
+23.212.110.218
+95.101.35.96
+2.17.96.158
+2.16.168.208
+2.16.245.174
+2.16.245.173
+23.192.237.219
+2.17.152.213
+2.17.100.200
+2.22.112.208
+2.23.172.114
+2.23.227.199
+2.23.227.215
+2.21.134.89
+2.17.100.136
+2.23.90.148
+95.101.111.168
+23.219.79.75
+2.16.168.122
+2.16.168.123
+95.100.177.112
+23.192.24.7
+23.12.157.106
+2.16.245.133
+23.52.22.3
+2.17.147.218
+23.216.134.80
+23.55.163.135
+23.46.188.71
+2.17.100.169
+95.101.234.88
+2.22.151.152
+2.17.241.119
+95.101.122.131
+95.101.111.161
+2.21.245.14
+2.18.172.59
+95.101.234.90
+23.11.41.157
+95.101.38.158
+2.16.164.34
+2.16.164.89
+
+🆔 @Spotify_Porteghali 🍊
+
+↰  بزرگترین خانواده اسپاتیفای در کشور  ↱
+</div>
+
+## Spotify_Porteghali — post 12378
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💬 روشِ جدیدِ اتصال با کلاینتِ " شیرو خورشید " 
+💬 برایِ اتصال به جدیدترین نسخه ی شیرو خورشید [ 2026.5.14 ] نیاز دارید . 🔗 : https://punkpaste.ir/f/ShirOKhorshid-v-2026-ntrhkz + اعتبارِ لینکِ دانلود : 24 ساعت - واردِ برنامه بشید و از قسمتِ Options ، گزینه…
+</div>
+
+## Spotify_Porteghali — post 12377
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💬 روشِ جدیدِ اتصال با کلاینتِ " شیرو خورشید " 
+💬 برایِ اتصال به جدیدترین نسخه ی شیرو خورشید [ 2026.5.14 ] نیاز دارید . 🔗 : https://punkpaste.ir/f/ShirOKhorshid-v-2026-ntrhkz + اعتبارِ لینکِ دانلود : 24 ساعت - واردِ برنامه بشید و از قسمتِ Options ، گزینه…
+</div>
+
+## Spotify_Porteghali — post 12376
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💬 روشِ جدیدِ اتصال با کلاینتِ " شیرو خورشید " 
+💬
+
+برایِ اتصال به جدیدترین نسخه ی شیرو خورشید [ 2026.5.14 ] نیاز دارید .
+
+🔗 : https://punkpaste.ir/f/ShirOKhorshid-v-2026-ntrhkz
+
++ اعتبارِ لینکِ دانلود : 24 ساعت
+
+
+- واردِ برنامه بشید و از قسمتِ Options ، گزینه ی More Options رو انتخاب کنید . در این صفحه Beast Mode رو روشن کنید و رویِ Connection Protocol بزنید و CDN Fronting رو انتخاب کنید . سپس رویِ CDN Edge IP's بزنید و آیپی هایِ پایین رو کپی کنید و در کادرِ باز شده جایگذاری کنید و ذخیره کنید . بعد به صفحه ی اصلی برگردید و اتصال رو بزنید .
+
+
+92.122.123.128
+65.109.34.234
+94.130.70.160
+63.141.252.203
+94.130.50.12
+50.7.5.83
+142.54.178.211
+94.130.33.41
+144.76.1.88
+138.201.54.122
+95.216.69.37
+2.19.204.19
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.19.204.210
+2.19.204.211
+2.19.204.217
+2.19.204.218
+2.19.204.225
+2.19.204.232
+2.19.204.234
+2.19.204.240
+2.19.204.249
+2.19.204.250
+2.19.204.251
+2.19.205.8
+2.19.205.9
+2.19.205.11
+2.19.205.27
+2.19.205.33
+2.19.205.34
+2.19.205.40
+2.19.205.41
+2.19.205.42
+2.19.205.49
+2.19.205.50
+2.19.205.58
+2.19.205.59
+2.19.205.64
+2.19.205.65
+2.19.205.82
+2.19.205.83
+2.19.205.88
+2.19.205.97
+2.19.205.98
+2.19.205.105
+184.31.169.195
+184.31.169.252
+184.31.170.97
+184.31.170.185
+
+
+آیپی هایِ جدید هم به زودی گذاشته میشه .
+
+🆔 @Spotify_Porteghali 🍊
+
+↰  بزرگترین خانواده اسپاتیفای در کشور  ↱
+</div>
+
+## Spotify_Porteghali — post 12375
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💬 لینکِ دانلودِ مستقیمِ داخلی ( بدونِ فیلتر ) وی پی ان ها و کلاینت هایِ اندروید که این چند روز کارآمد و متصل بودند 
+💬 
+⚪️Psiphon [ v 453 ] : https://uploadgirl.ir/d/b49bdf83-a631-4ad5-a7f6-6cc6947ecb14 
+⚪️Psiphon ( Mod ) [ v 462 ] : https://uploadgirl.ir/d/9cee5a46…
+</div>
+
+## Spotify_Porteghali — post 12374
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💬 لینکِ دانلودِ مستقیمِ داخلی ( بدونِ فیلتر ) وی پی ان ها و کلاینت هایِ اندروید که این چند روز کارآمد و متصل بودند 
+💬
+
+
+
+⚪️Psiphon [ v 453 ] : https://uploadgirl.ir/d/b49bdf83-a631-4ad5-a7f6-6cc6947ecb14
+
+
+⚪️Psiphon ( Mod ) [ v 462 ] : https://uploadgirl.ir/d/9cee5a46-bb0b-4fa8-b40a-58f9ad8b60a2
+
+
+⚪️V2RayNG [ v 2.1.7 ] : https://uploadgirl.ir/d/9887ff28-9ab1-410f-a3b9-c803d084faa8
+
+
+⚪️V2RayN ( Windows ) [ v 7.20.4 ] : https://uploadgirl.ir/d/f94e1ae3-f8ea-442a-b72b-28b0e4de2cb0
+
+
+⚪️NapsternetV [ v 123.1 ] : https://uploadgirl.ir/d/09770c00-ae98-4a68-afea-da718c99e39d
+
+
+⚪️SlipNet [ v 2.5.3 ] : https://uploadgirl.ir/d/636b72e8-ccca-44f3-a053-88448c6d6bee
+
+
+⚪️SlipStream ( Windows ) : https://uploadgirl.ir/d/16be2da5-89af-4c85-8758-fb3e57c207fc
+
+
+⚪️V2Box [ v 5.0.3 ] : https://uploadgirl.ir/d/f5c6153a-b441-48f8-9702-28f50b2dca4e
+
+
+⚪️Happ [ v 3.18.1 ] : https://uploadgirl.ir/d/fa761b35-6154-42f3-858c-d8d8069a31ca
+
+
+⚪️OpenVPN  [ v 3.3.2 ] : https://uploadgirl.ir/d/619abfad-b745-4f85-8b74-b304c2e9bd68
+
+
+⚪️HTTP Injector [ v 6.5.0 ] : https://uploadgirl.ir/d/a0fe534e-6ae5-4124-b8d6-54f4ded6db89
+
+
+⚪️NetMod [ v 3.2.8 ] : https://uploadgirl.ir/d/0097de40-eb46-4ee2-bf11-320e093b7122
+
+
+⚪️ShirOKhorshid [ v 2026.3.17 ] : https://uploadgirl.ir/d/1d8ca1a1-4e53-4fc1-851d-cfae3961d8bf
+
+
+⚪️AM Tunnel Pro [ v 28.0 ] : https://uploadgirl.ir/d/646d4cb5-91d0-41b3-9c0f-420cf4b3cd16
+
+
+⚪️AM Tunnel Lite : [ v 2.0 ] : https://uploadgirl.ir/d/3863d503-0b03-4d6c-8758-aa5c4d28050c
+
+
+⚪️MasterDNS [ v 1.0.9 ] : https://uploadgirl.ir/d/df11a76b-ef32-4c60-9dd2-eee5516003eb
+
+
+⚪️WireGuard [ v 1.0.20 ] : https://uploadgirl.ir/d/48355544-ae63-4a18-b0df-f9833f76a179
+
+
+⚪️WhiteDNS [ v 1.1.0 ] : https://uploadgirl.ir/d/b11d9438-a00e-45de-b6e3-d6a42e2f5313
+
+
+⚪️Every Proxy [ v 12.7 ] : https://uploadgirl.ir/d/e945a795-1092-45f9-8f40-1a5957f2319c
+
+
+⚪️NetShare [ v 2.5.50 ] : https://uploadgirl.ir/d/9d491261-1a4b-4708-bee9-2ad90eb9f150
+
+
+
+🔴خیلی مهم : حتما لینک رو کپی کنید و در مرورگر Chrome جایگذاری کنید و دانلود کنید ؛ لینک ها با همه ی اینترنت ها بدونِ نیاز به وی پی ان کار می‌کنند .
+
++ اعتبارِ لینک هایِ دانلود : 24 ساعت [ لینک ها آپدیت می شود . ]
+
+🆔 @Spotify_Porteghali 🍊
+
+↰  بزرگترین خانواده اسپاتیفای در کشور  ↱
+</div>
+
+## King_network7 — post 30753
+
+<div align="center">
+  <a href="https://t.me/King_network7/30753" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ 4796 آیپی اسکن شده Akamai برای استفاده در "شیر و خورشید"
+
+تمام آیپی ها رو کپی کنید و در قسمت CDN edge IPs قرار بدید
+
+⚙️ OPTIONS > More Options
+
+👈🏻 توضیحات + لینک دانلود برنامه
+
+➰➰➰➰➰
+#️⃣ #vpn #android
+🆔 @King_Network7
+</div>
+
+## King_network7 — post 30752
+
+<div align="center">
+  <a href="https://t.me/King_network7/30752" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ برای استفاده از متود سایفون در گوشی بدون نیاز به v2ray و نصب سرتیفیکت، نسخه کاستوم شده سایفون (شیر و خورشید) رو نصب کنید
+
+⚙️ تنظیمات برنامه:
+در بخش More Option تیک Beast Mode رو بزنید و Connection Protocol رو روی CDN Fronting قرار بدید
+
+⬇️ لینک دانلود داخلی برنامه
+⬇️ لینک گیت هاب پروژه
+
+⭕️روش این برنامه مثل اینکه قطع شده (اگه وصل هستین قطع نکنید)
+
+➰➰➰➰➰
+#️⃣ #vpn #android
+🆔 @King_Network7
+</div>
+
+## JynMarket — post 2275
+
+<div align="center">
+  <a href="https://t.me/JynMarket/2275" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📣 اگه برای بعضیا اتصال انجام نشد، یه راه‌حل خیلی ساده هست 
+👇 وارد بخش «Cdn edge IPs» بشید و تمام IP های زیر رو وارد کنید، بعد دوباره کانکت بزنید 
+🚀 2.23.227.196 2.17.147.11 2.18.64.9 2.18.64.4 2.18.64.5 2.22.114.98 95.100.153.184 95.101.27.196 2.17.96.131…
+</div>
+
+## JynMarket — post 2274
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ShirOKhorshid-2026.05.14.apk
+</div>
+
+## JynMarket — post 2273
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ShirOKhorshid-2026.05.14.apk
+</div>
+
+## JynMarket — post 2272
+
+<div align="center">
+  <a href="https://t.me/JynMarket/2272" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✔️ متود جدید
+مراحل اتصال:
+وارد آخرین نسخه‌ی اپ شیر و خورشید بشید
+از نوار بالا برید داخل بخش Options
+روی More Options بزنید
+گزینه‌ی Connection Protocol رو روی CDN Fronting قرار بدید
+برگردید و مثل همیشه کانکت کنید 
+✨
+بدون تنظیمات پیچیده، بدون دردسر، راحت وصل میشه 
+🔥
+لینک دانلود داخلی:
+https://punkpaste.ir/f/ShirOKhorshid-2026-0-ghmata
+</div>
+
+## JynMarket — post 2271
+
+<div align="center">
+  <a href="https://t.me/JynMarket/2271" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔗 تک کانفیگ متصل
+🔑 Password: @JynMarket
+</div>
+
+## NamazVPN — post 35529
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://803aba73-e0ce-469d-a308-141ccee0b369@185.143.234.235:2086?encryption=none&security=none&type=ws&host=sync.arasbaran-co.ir&path=%2F#%F0%9F%87%A6%F0%9F%87%BAAustralia%20%7C%20%F0%9F%8C%90%20IP%3A%20176.65.140.202%20%7C%20%E2%8F%B3ping%3A498.2ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇦🇺 Australia
+⏱️ 498.2ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35528
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://803aba73-e0ce-469d-a308-141ccee0b369@185.143.234.235:2086?encryption=none&security=none&type=ws&host=sync.arasbaran-co.ir&path=%2F#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20IP%3A%20135.136.19.237%20%7C%20%E2%8F%B3ping%3A572.79ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇩🇪 Germany, Frankfurt am Main
+⏱️ 572.79ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35527
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://92659e76-1966-4f63-b0c6-d128713e6027@188.121.110.15:8080?type=tcp&encryption=none&security=none#%F0%9F%87%B7%F0%9F%87%B4Romania%2C%20Bucharest%20%7C%20%F0%9F%8C%90%20IP%3A%2080.96.112.192%20%7C%20%E2%8F%B3ping%3A946.51ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇷🇴 Romania, Bucharest
+⏱️ 946.51ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35526
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+واسه پروکسی تلگرام هم کاراشو کردم
+فقط باید تست شه
+بعد جا به جایی سرور ربات کانال تست اونم شروع میکنم
+</div>
+
+## NamazVPN — post 35525
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تبلیغ این کانال رو تو روبیکا دیدم 😁
+</div>
+
+## NamazVPN — post 35524
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://78c0fb12-1f19-43c4-bc9e-b65335d40b7a@62.3.42.160:41110?type=tcp&encryption=none&security=none#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20IP%3A%202a01%3A4f8%3A1c1b%3A1855%3A%3A1%20%7C%20%E2%8F%B3ping%3A1314.96ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇩🇪 Germany, Nuremberg
+⏱️ 1314.96ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35523
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://78c0fb12-1f19-43c4-bc9e-b65335d40b7a@62.3.42.160:41110?type=tcp&encryption=none&security=none#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20IP%3A%2091.107.249.246%20%7C%20%E2%8F%B3ping%3A499.49ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇩🇪 Germany, Nuremberg
+⏱️ 499.49ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35522
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://78c0fb12-1f19-43c4-bc9e-b65335d40b7a@62.3.42.160:41110?type=tcp&encryption=none&security=none#%F0%9F%87%B9%F0%9F%87%B7T%C3%BCrkiye%2C%20Istanbul%20%7C%20%F0%9F%8C%90%20IP%3A%202a12%3Abec4%3A1d40%3A89ad%3A%3A1%20%7C%20%E2%8F%B3ping%3A484.47ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇹🇷 Türkiye, Istanbul
+⏱️ 484.47ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35521
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://09c237d0-5578-4311-b3e2-44cdb6b9e1c1@snapp.ir:8880?type=ws&encryption=none&path=%2FFredxhunter&host=pico.fxneon.ir&security=none#%F0%9F%87%A9%F0%9F%87%AAGermany%20%7C%20%F0%9F%8C%90%20IP%3A%20185.204.169.10%20%7C%20%E2%8F%B3ping%3A5163.09ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇩🇪 Germany
+⏱️ 5163.09ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35520
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://09c237d0-5578-4311-b3e2-44cdb6b9e1c1@snapp.ir:8880?type=ws&encryption=none&path=%2FFredxhunter&host=pico.fxneon.ir&security=none#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20IP%3A%2094.143.231.243%20%7C%20%E2%8F%B3ping%3A4297.3ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇩🇪 Germany, Frankfurt am Main
+⏱️ 4297.3ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35519
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://4f0dc846-e6f2-4145-a508-c1c6a2a70b32@wazir.kingotiran.site:41355?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AAGermany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20IP%3A%2045.157.234.179%20%7C%20%E2%8F%B3ping%3A2979.08ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇩🇪 Germany, Frankfurt am Main
+⏱️ 2979.08ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35518
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VMESS ───────────
+
+🔗 vmess://eyJhZGQiOiIxODUuMTQzLjIzNC4yMzUiLCJhaWQiOiIwIiwiaG9zdCI6IkZSQTAwMy5taWRhc25ldC53b3JrIiwiaWQiOiI4YzAzNThjMC01ZjRjLTQ4OWYtOTY5Mi02NGY1ODk5NTdiNTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJVbmtub3duIHwg8J+MkCBJUDogTi9BIHwg4o+zcGluZzoxMTM0LjEzbXMgfCDwn5OiIEBOYW1helZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+📍
+⏱️ 1134.13ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35517
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://fb4fe777-d70c-412a-9914-f5a6e3d4a7e9@45.81.16.109:13526?security=none&encryption=none&headerType=none&type=tcp#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A4169.25ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 4169.25ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35516
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://b0d6a0a7-d0fa-4a57-b635-44fe96824414@45.81.16.109:13526?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B1%F0%9F%87%BALuxembourg%20%7C%20%F0%9F%8C%90%20IP%3A%2031.184.246.82%20%7C%20%E2%8F%B3ping%3A2689.14ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇱🇺 Luxembourg
+⏱️ 2689.14ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35515
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://d19d5da7-49f8-477b-9ffb-7e9d2360f5ea@45.81.16.109:13526?type=tcp&security=none&encryption=none#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A3949.39ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 3949.39ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35514
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://17dc0915-ad44-4c67-a5b2-a8af54783fed@185.50.38.194:51853?type=tcp&security=none&encryption=none#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A2571.73ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 2571.73ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35513
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://3cebf594-1084-45b8-91fe-15ab4f525841@185.143.233.233:443?path=%2Fvoip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=pishparda.ir#%F0%9F%87%A6%F0%9F%87%B9Austria%2C%20Langenzersdorf%20%7C%20%F0%9F%8C%90%20IP%3A%20205.147.201.214%20%7C%20%E2%8F%B3ping%3A3031.23ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇦🇹 Austria, Langenzersdorf
+⏱️ 3031.23ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35512
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://06fbbe8a-dc5e-46ef-b9f7-657ea1c63aaa@45.81.16.109:13526?type=tcp&security=none&encryption=none#%F0%9F%87%B1%F0%9F%87%BALuxembourg%20%7C%20%F0%9F%8C%90%20IP%3A%2031.184.246.82%20%7C%20%E2%8F%B3ping%3A1594.96ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍 🇱🇺 Luxembourg
+⏱️ 1594.96ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35511
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://369bb0e9-f721-49a1-9e92-94bec2c95453@dl2.maxsteation.ir:80?encryption=none&host=dl2.maxsteation.ir&path=%2Fjs&security=none&type=ws#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A3587.47ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 3587.47ms
+
+📢 @NamazVPN
+</div>
+
+## NamazVPN — post 35510
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+─────────── VLESS ───────────
+
+🔗 vless://4d61f677-07b5-4d63-ad23-b9e53de535c9@185.155.9.151:42135?type=tcp&security=none&encryption=none#Unknown%20%7C%20%F0%9F%8C%90%20IP%3A%20N%2FA%20%7C%20%E2%8F%B3ping%3A1385.25ms%20%7C%20%F0%9F%93%A2%20%40NamazVPN
+
+📍
+⏱️ 1385.25ms
+
+📢 @NamazVPN
+</div>
+
+## TirexNet — post 3770
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+متصل 23.221.28.5 23.44.201.206 23.220.163.205 23.209.46.33 23.10.34.11 23.39.185.35 23.32.152.106 23.218.232.181 23.206.188.212 2.21.2.89 23.208.222.120 23.48.203.248 23.44.201.136 23.44.201.151 23.44.201.149 2.21.2.58 23.3.90.48 23.44.201.41…
+</div>
+
+## TirexNet — post 3769
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نحوه اتصال رایگان و نامحدود به اینترنت آزاد با متد ترکیبی MITM + Psiphon
+
+👉 github.com/patterniha/MITM-DomainFronting
+© patterniha, MatinSenPaii
+
+🔗 ᴡᴇʙꜱɪᴛᴇ • ᴠᴘɴʜᴜʙ • ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+@ircfspace
+</div>
+
+## TirexNet — post 3768
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+#ارسالی‌مردم
+</div>
+
+## TirexNet — post 3767
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+2.19.204.225 2.19.204.232 2.19.204.234 2.19.204.240 2.19.204.249 2.19.204.250 2.19.204.251 2.19.205.8 2.19.205.9 2.19.205.11 2.19.205.27 2.19.205.33 2.19.205.34 2.19.205.40 2.19.205.41 2.19.205.42 2.19.205.49 2.19.205.50 2.19.205.58 2.19.205.59 2.19.205.64…
+</div>
+
+## TirexNet — post 3766
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+2.19.204.225
+2.19.204.232
+2.19.204.234
+2.19.204.240
+2.19.204.249
+2.19.204.250
+2.19.204.251
+2.19.205.8
+2.19.205.9
+2.19.205.11
+2.19.205.27
+2.19.205.33
+2.19.205.34
+2.19.205.40
+2.19.205.41
+2.19.205.42
+2.19.205.49
+2.19.205.50
+2.19.205.58
+2.19.205.59
+2.19.205.64
+2.19.205.65
+2.19.205.82
+2.19.205.83
+2.19.205.88
+2.19.205.97
+2.19.205.98
+2.19.205.105
+2.22.151.4
+23.67.253.11
+23.67.253.24
+23.67.253.55
+23.67.253.77
+23.67.253.101
+23.67.253.120
+23.53.35.146
+23.53.35.158
+23.53.35.171
+23.53.35.182
+23.53.35.194
+23.53.35.207
+184.26.163.12
+184.26.163.24
+184.26.163.38
+184.26.163.51
+184.26.163.66
+184.26.163.79
+2.16.186.20
+2.16.186.31
+2.16.186.44
+2.16.186.58
+2.16.186.69
+2.16.186.81
+23.195.81.72
+23.195.81.84
+23.195.81.96
+23.195.81.108
+104.124.148.191
+104.124.148.203
+23.32.5.18
+23.32.5.44
+23.32.5.71
+23.32.5.96
+23.32.5.118
+23.32.5.141
+23.32.5.167
+23.32.5.193
+23.32.5.214
+23.32.5.236
+96.16.97.82
+96.16.97.104
+96.16.97.126
+96.16.97.148
+96.16.97.169
+96.16.97.191
+184.50.87.22
+184.50.87.44
+184.50.87.66
+184.50.87.88
+92.122.123.128
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.19.204.210
+138.201.54.122
+2.22.151.4
+2.22.151.9
+2.22.151.12
+2.22.151.13
+2.22.151.15
+2.22.151.17
+2.22.151.20
+2.22.151.22
+2.22.151.23
+2.22.151.32
+2.22.151.36
+2.22.151.37
+2.22.151.39
+2.22.151.47
+2.22.151.51
+2.22.151.53
+2.22.151.54
+2.22.151.58
+2.22.151.60
+2.22.151.62
+2.22.151.135
+2.22.151.138
+2.22.151.139
+2.22.151.141
+2.22.151.142
+2.22.151.143
+2.22.151.144
+2.22.151.146
+2.22.151.149
+2.22.151.150
+2.22.151.151
+2.22.151.152
+2.22.151.153
+2.22.151.154
+2.22.151.155
+2.22.151.156
+2.22.151.157
+2.22.151.158
+2.22.151.159
+2.22.151.161
+2.22.151.162
+2.22.151.163
+2.22.151.164
+2.22.151.168
+2.22.151.169
+2.22.151.170
+2.22.151.171
+2.22.151.173
+2.22.151.175
+2.22.151.179
+2.22.151.181
+2.22.151.182
+2.22.151.183
+2.22.151.184
+2.22.151.185
+2.22.151.186
+2.22.151.188
+2.22.151.189
+2.22.151.190
+2.22.151.191
+2.22.151.193
+2.22.151.194
+2.22.151.195
+2.22.151.4
+2.22.151.9
+2.22.151.12
+2.22.151.13
+2.22.151.15
+2.22.151.17
+2.22.151.20
+2.22.151.22
+2.22.151.23
+2.22.151.32
+2.22.151.36
+2.22.151.37
+2.22.151.39
+2.22.151.47
+2.22.151.51
+2.22.151.53
+2.22.151.54
+2.22.151.58
+2.22.151.60
+2.22.151.62
+2.22.151.135
+2.22.151.138
+2.22.151.139
+2.22.151.141
+2.22.151.142
+2.22.151.143
+2.22.151.144
+2.22.151.146
+2.22.151.149
+2.22.151.150
+2.22.151.151
+2.22.151.152
+2.22.151.153
+2.22.151.154
+2.22.151.155
+2.22.151.156
+2.22.151.157
+2.22.151.158
+2.22.151.159
+2.22.151.161
+2.22.151.162
+2.22.151.163
+2.22.151.164
+2.22.151.168
+2.22.151.169
+2.22.151.170
+2.22.151.171
+2.22.151.173
+2.22.151.175
+2.22.151.179
+2.22.151.181
+2.22.151.182
+2.22.151.183
+2.22.151.184
+2.22.151.185
+2.22.151.186
+2.22.151.188
+2.22.151.189
+2.22.151.190
+2.22.151.191
+2.22.151.193
+2.22.151.194
+2.22.151.195
+2.22.151.4
+23.67.253.11
+23.67.253.24
+23.67.253.55
+23.67.253.77
+23.67.253.101
+23.67.253.120
+23.53.35.146
+23.53.35.158
+23.53.35.171
+23.53.35.182
+23.53.35.194
+23.53.35.207
+184.26.163.12
+184.26.163.24
+184.26.163.38
+184.26.163.51
+184.26.163.66
+184.26.163.79
+2.16.186.20
+2.16.186.31
+2.16.186.44
+2.16.186.58
+2.16.186.69
+2.16.186.81
+23.195.81.72
+23.195.81.84
+23.195.81.96
+23.195.81.108
+104.124.148.191
+104.124.148.203
+23.32.5.18
+23.32.5.44
+23.32.5.71
+23.32.5.96
+23.32.5.118
+23.32.5.141
+23.32.5.167
+23.32.5.193
+23.32.5.214
+23.32.5.236
+96.16.97.82
+96.16.97.104
+96.16.97.126
+96.16.97.148
+96.16.97.169
+96.16.97.191
+184.50.87.22
+184.50.87.44
+184.50.87.66
+184.50.87.88
+92.122.123.128
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.19.204.210
+138.201.54.122
+2.22.151.4
+2.22.151.9
+2.22.151.12
+2.22.151.13
+2.22.151.15
+2.22.151.17
+2.22.151.20
+2.22.151.22
+2.22.151.23
+2.22.151.32
+2.22.151.36
+2.22.151.37
+2.22.151.39
+2.22.151.47
+2.22.151.51
+2.22.151.53
+2.22.151.54
+2.22.151.58
+2.22.151.60
+2.22.151.62
+2.22.151.135
+2.22.151.138
+
+
+
+Channel: T.me/TirexNet
+</div>
+
+## TirexNet — post 3765
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+الان با این وصلم
+</div>
+
+## TirexNet — post 3764
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+2.19.204.19 2.19.204.87 2.19.204.137 2.19.204.144 2.19.204.145 2.19.204.170 2.19.204.184 2.19.204.185 2.19.204.202 2.19.204.210 2.19.204.211 2.19.204.217 2.19.204.218 2.19.204.225 2.19.204.232 2.19.204.234 2.19.204.240 2.19.204.249 2.19.204.250 2.19.204.251…
+</div>
+
+## TirexNet — post 3763
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+2.19.204.19
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.19.204.210
+2.19.204.211
+2.19.204.217
+2.19.204.218
+2.19.204.225
+2.19.204.232
+2.19.204.234
+2.19.204.240
+2.19.204.249
+2.19.204.250
+2.19.204.251
+2.19.205.8
+2.19.205.9
+2.19.205.11
+2.19.205.27
+2.19.205.33
+2.19.205.34
+2.19.205.40
+2.19.205.41
+2.19.205.42
+2.19.205.49
+2.19.205.50
+2.19.205.58
+2.19.205.59
+2.19.205.64
+2.19.205.65
+2.19.205.82
+2.19.205.83
+2.19.205.88
+2.19.205.97
+2.19.205.98
+2.19.205.105
+184.31.169.195
+184.31.169.252
+184.31.170.97
+184.31.170.185
+2.19.204.225
+2.19.204.232
+2.19.204.234
+2.19.204.240
+2.19.204.249
+2.19.204.250
+2.19.204.251
+2.19.205.8
+2.19.205.9
+2.19.205.11
+2.19.205.27
+2.19.205.33
+2.19.205.34
+2.19.205.40
+2.19.205.41
+2.19.205.42
+2.19.205.49
+2.19.205.50
+2.19.205.58
+2.19.205.59
+2.19.205.64
+2.19.205.65
+2.19.205.82
+2.19.205.83
+2.19.205.88
+2.19.205.97
+2.19.205.98
+2.19.205.105
+23.50.131.139
+23.50.131.142
+2.22.31.185
+23.58.222.152
+2.21.243.227
+23.58.223.186
+2.19.126.99
+2.21.239.22
+23.59.65.253
+23.55.110.83
+2.22.31.97
+23.55.110.72
+23.211.135.156
+2.22.104.90
+2.22.144.9
+2.20.45.26
+2.21.69.217
+23.209.208.88
+23.58.223.179
+2.21.243.224
+2.19.126.75
+23.50.131.154
+2.21.173.115
+23.211.135.138
+
+
+
+Channel: T.me/TirexNet
+</div>
+
+## TirexNet — post 3762
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایپی های متصل دیگه 2.19.204.225 2.19.204.232 2.19.204.234 2.19.204.240 2.19.204.249 2.19.204.250 2.19.204.251 2.19.205.8 2.19.205.9 2.19.205.11 2.19.205.27 2.19.205.33 2.19.205.34 2.19.205.40 2.19.205.41 2.19.205.42 2.19.205.49 2.19.205.50 2.19.205.58 2.19.205.59…
+</div>
+
+## TirexNet — post 3761
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+akamai-scanned-ip.txt
+</div>
+
+## TirexNet — post 3760
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+akamai-scanned-ip.txt
+</div>
+
+## TirexNet — post 3759
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+tx@tirexnet.txt
+</div>
+
+## TirexNet — post 3758
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایول، جدیده سه سوته وصلید
+</div>
+
+## TirexNet — post 3757
+
+<div align="center">
+  <a href="https://t.me/TirexNet/3757" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ داخلشو وارد ویتوری کنید و با روش Psiphon+MitM وصل شین
+</div>
+
+## TirexNet — post 3756
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+https://punkpaste.ir/f/v2rayNG-2-1-7-arm64--rf0kqw
+
+دانلود با نت ملی
+</div>
+
+## TirexNet — post 3754
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جیسونش ایراد داشت
+</div>
+
+## TirexNet — post 3752
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+الان کانفیگ جیسون میزارم واسه کسایی که با ترکیب ویتوری سایفون میزدن
+</div>
+
+## TirexNet — post 3751
+
+<div align="center">
+  <a href="https://t.me/TirexNet/3751" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لیست چند هزارتایی آیپی های تمیز.
+منبع the vpn method
+@TirexNet
+</div>
+
+## TirexNet — post 3749
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایپی های متصل جدید 92.122.123.128 2.19.204.87 2.19.204.137 2.19.204.144 2.19.204.145 2.19.204.170 2.19.204.184 2.19.204.185 2.19.204.202 2.22.151.4 2.22.151.9 2.22.151.12 2.22.151.13 2.22.151.15 2.22.151.17 2.22.151.20 2.22.151.22 2.22.151.23 2.22.151.32…
+</div>
+
+## TirexNet — post 3748
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایپی های متصل جدید
+
+
+92.122.123.128
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.22.151.4
+2.22.151.9
+2.22.151.12
+2.22.151.13
+2.22.151.15
+2.22.151.17
+2.22.151.20
+2.22.151.22
+2.22.151.23
+2.22.151.32
+2.22.151.36
+2.22.151.37
+2.22.151.39
+2.22.151.47
+2.22.151.51
+2.22.151.53
+2.22.151.54
+2.22.151.58
+2.22.151.60
+2.22.151.62
+2.22.151.135
+2.22.151.138
+2.22.151.139
+2.22.151.141
+2.22.151.142
+2.22.151.143
+2.22.151.144
+2.22.151.146
+2.22.151.149
+2.22.151.150
+2.22.151.151
+2.22.151.152
+2.22.151.153
+2.22.151.154
+2.22.151.155
+2.22.151.156
+2.22.151.157
+2.22.151.158
+2.22.151.159
+2.22.151.161
+2.22.151.162
+2.22.151.163
+2.22.151.164
+2.22.151.168
+2.22.151.169
+2.22.151.170
+2.22.151.171
+2.22.151.173
+2.22.151.175
+2.22.151.179
+2.22.151.181
+2.22.151.182
+2.22.151.183
+2.22.151.184
+2.22.151.185
+2.22.151.186
+2.22.151.4
+2.22.151.9
+2.22.151.12
+2.22.151.13
+2.22.151.15
+2.22.151.17
+2.22.151.20
+2.22.151.22
+2.22.151.23
+2.22.151.32
+2.22.151.36
+2.22.151.37
+2.22.151.39
+2.22.151.47
+2.22.151.51
+2.22.151.53
+2.22.151.54
+2.22.151.58
+2.22.151.60
+2.22.151.62
+2.22.151.135
+2.22.151.138
+2.22.151.139
+2.22.151.141
+2.22.151.142
+2.22.151.143
+2.22.151.144
+2.22.151.146
+2.22.151.149
+2.22.151.150
+2.22.151.151
+2.22.151.152
+2.22.151.153
+2.22.151.154
+2.22.151.155
+2.22.151.156
+2.22.151.157
+2.22.151.158
+2.22.151.159
+2.22.151.161
+2.22.151.162
+2.22.151.163
+2.22.151.164
+2.22.151.168
+2.22.151.169
+2.22.151.170
+2.22.151.171
+2.22.151.173
+2.22.151.175
+2.22.151.179
+2.22.151.181
+2.22.151.182
+2.22.151.183
+2.22.151.184
+2.22.151.185
+2.22.151.186
+2.22.151.188
+2.22.151.189
+2.22.151.190
+2.22.151.191
+2.22.151.193
+2.22.151.194
+2.22.151.195
+2.19.204.19
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.19.204.210
+2.19.204.211
+2.19.204.217
+2.19.204.218
+2.19.204.225
+2.19.204.232
+2.19.204.234
+2.19.204.240
+2.19.204.249
+2.19.204.250
+2.19.204.251
+2.19.205.8
+2.19.205.9
+2.19.205.11
+2.19.205.27
+2.19.205.33
+2.19.205.34
+2.19.205.40
+2.19.205.41
+2.19.205.42
+2.19.205.49
+2.19.205.50
+2.19.205.58
+2.19.205.59
+2.19.205.64
+2.19.205.65
+2.19.205.82
+2.19.205.83
+2.19.205.88
+2.19.205.97
+2.19.205.98
+2.19.205.105
+184.31.169.195
+184.31.169.252
+184.31.170.97
+184.31.170.185
+2.22.151.4
+23.67.253.11
+23.67.253.24
+23.67.253.55
+23.67.253.77
+23.67.253.101
+23.67.253.120
+23.53.35.146
+23.53.35.158
+23.53.35.171
+23.53.35.182
+23.53.35.194
+23.53.35.207
+184.26.163.12
+184.26.163.24
+184.26.163.38
+184.26.163.51
+184.26.163.66
+184.26.163.79
+2.16.186.20
+2.16.186.31
+2.16.186.44
+2.16.186.58
+2.16.186.69
+2.16.186.81
+23.195.81.72
+23.195.81.84
+23.195.81.96
+23.195.81.108
+104.124.148.191
+104.124.148.203
+23.32.5.18
+23.32.5.44
+23.32.5.71
+23.32.5.96
+23.32.5.118
+23.32.5.141
+23.32.5.167
+23.32.5.193
+23.32.5.214
+23.32.5.236
+96.16.97.82
+96.16.97.104
+96.16.97.126
+96.16.97.148
+96.16.97.169
+96.16.97.191
+184.50.87.22
+184.50.87.44
+184.50.87.66
+184.50.87.88
+92.122.123.128
+92.122.123.128
+2.22.151.188
+2.22.151.189
+2.22.151.190
+2.22.151.191
+2.22.151.193
+2.22.151.194
+2.22.151.195
+2.19.204.210
+
+
+
+Channel: T.me/TirexNet
+</div>
+
+## sirhishamtradinghub — post 3684
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+There’s nothing more painful and frustrating than framing your setup, but price refuses to tap your order, and you miss the trade. Then you watch it play out all the way to TP. 💔📈
+</div>
+
+## sirhishamtradinghub — post 3683
+
+<div align="center">
+  <img src="telegram/content/sirhishamtradinghub_3683_1778775810.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+$EURUSD H1 Framework I'm Bearish 👀
+</div>
+
+## TheVPNMethod — post 701
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+— آموزش متود جدید CDN—Fronting! دانلود آموزش ویدئویی + آپدیت برنامه شیر و خورشید با لینک داخلی: https://punkpaste.ir/f/CDN-Fronting-xi5yp6 ZIP Password: @TheVPNMethod لیست آیپی های تمیز: 23.221.28.5 23.44.201.206 23.220.163.205 23.209.46.33 23.10.34.11…
+</div>
+
+## TheVPNMethod — post 700
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اوضاع اوکیه؟ برم یه استراحتی کنم.
+</div>
+
+## TheVPNMethod — post 699
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لیست آیپی تست شده، وصل!
+برای متود CDN—Fronting!
+همه رو یک‌جا کپی و در شیروخورشید پیست کنید.
+
+
+2.23.227.196
+2.17.147.11
+2.18.64.9
+2.18.64.4
+2.18.64.5
+2.22.114.98
+95.100.153.184
+95.101.27.196
+2.17.96.131
+95.101.137.74
+95.101.78.25
+2.23.245.35
+2.16.168.107
+2.17.100.250
+2.16.245.188
+2.17.100.130
+95.100.110.28
+2.22.89.43
+2.18.63.33
+95.100.153.186
+2.22.151.140
+95.100.177.68
+95.101.61.215
+95.101.27.71
+2.23.227.218
+2.23.227.209
+2.23.227.221
+2.17.100.218
+2.17.97.198
+95.101.27.101
+2.17.240.5
+2.16.106.222
+95.101.234.87
+2.21.33.113
+23.194.20.27
+95.101.38.176
+95.101.35.113
+2.17.100.225
+2.16.168.214
+2.17.113.121
+2.23.227.212
+2.23.227.219
+23.212.110.218
+95.101.35.96
+2.17.96.158
+2.16.168.208
+2.16.245.174
+2.16.245.173
+23.192.237.219
+2.17.152.213
+2.17.100.200
+2.22.112.208
+2.23.172.114
+2.23.227.199
+2.23.227.215
+2.21.134.89
+2.17.100.136
+2.23.90.148
+95.101.111.168
+23.219.79.75
+2.16.168.122
+2.16.168.123
+95.100.177.112
+23.192.24.7
+23.12.157.106
+2.16.245.133
+23.52.22.3
+2.17.147.218
+23.216.134.80
+23.55.163.135
+23.46.188.71
+2.17.100.169
+95.101.234.88
+2.22.151.152
+2.17.241.119
+95.101.122.131
+95.101.111.161
+2.21.245.14
+2.18.172.59
+95.101.234.90
+23.11.41.157
+95.101.38.158
+2.16.164.34
+2.16.164.89
+
+— @TheVPNMethod
+</div>
+
+## TheVPNMethod — post 696
+
+<div align="center">
+  <a href="https://t.me/TheVPNMethod/696" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لیست چند هزارتایی آیپی های تمیز
+برای متود CDN—Fronting
+این فایل رو باز کنید از توش‌ یه تعداد آیپی کپی کنید وارد برنامه شیر و خورشید کنید.
+— @TheVPNMethod
+</div>
+
+## TheVPNMethod — post 690
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموزش متود جدید CDN—Fronting دانلود آموزش ویدئویی + آپدیت برنامه شیر و خورشید با لینک داخلی: https://punkpaste.ir/f/CDN-Fronting-xi5yp6 ZIP Password: @TheVPNMethod لیست آیپی های تمیز: 92.122.123.128 2.19.204.87 2.19.204.137 2.19.204.144 2.19.204.145 2.19.204.170…
+</div>
+
+## TheVPNMethod — post 689
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+همچنان قوی وصله! 🔥
+</div>
+
+## TheVPNMethod — post 688
+
+<div align="center">
+  <a href="telegram/content/TheVPNMethod_688_1778775811.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آموزش متود جدید CDN—Fronting
+دانلود آموزش ویدئویی + آپدیت برنامه شیر و خورشید با لینک داخلی:
+https://punkpaste.ir/f/CDN-Fronting-xi5yp6
+
+ZIP Password: @TheVPNMethod
+لیست آیپی های تمیز:
+
+92.122.123.128
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.19.204.210
+
+— @TheVPNMethod
+</div>
+
+## TheVPNMethod — post 687
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بچه‌ها چرتو پرتارو گوش ندید که نمیدونم شیر و خورشید امن نیست و فلان، متود CDN—Fronting سالهاست که هست، ۲۰۱۵ اومد و یه روش خوب بود، چین‌و روسیه هم زیاد درگیر بودن ولی خب جلوشو گرفتن.
+اینجام الان فعلا رو CDN Akamai اوکیه.
+ولی بزودی احتمالاً جلوش گرفته میشه یا سرعتش به شدت افت می‌کنه.
+
+فعلاً استفاده کنید تا ببینیم چی میشه.
+</div>
+
+## TheVPNMethod — post 686
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرعت گااادیانو کاستاکورتا 🔥
+</div>
+
+## TheVPNMethod — post 685
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+— آموزش متود جدید CDN—Fronting! دانلود آموزش ویدئویی + آپدیت برنامه شیر و خورشید با لینک داخلی: https://punkpaste.ir/f/CDN-Fronting-xi5yp6 ZIP Password: @TheVPNMethod لیست آیپی های تمیز: 23.221.28.5 23.44.201.206 23.220.163.205 23.209.46.33 23.10.34.11…
+</div>
+
+## TheVPNMethod — post 684
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+The VPN Method pinned a video
+</div>
+
+## TheVPNMethod — post 683
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وصل شدید باهاش؟
+</div>
+
+## TheVPNMethod — post 681
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بنازم شیر و خورشید کارتونو راحت کرد.
+</div>
+
+## TheVPNMethod — post 679
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+— آموزش متود جدید CDN—Fronting! دانلود آموزش ویدئویی + آپدیت برنامه شیر و خورشید با لینک داخلی: https://punkpaste.ir/f/CDN-Fronting-xi5yp6 ZIP Password: @TheVPNMethod لیست آیپی های تمیز: 23.221.28.5 23.44.201.206 23.220.163.205 23.209.46.33 23.10.34.11…
+</div>
+
+## TheVPNMethod — post 678
+
+<div align="center">
+  <a href="telegram/content/TheVPNMethod_678_1778775813.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+— آموزش متود جدید CDN—Fronting!
+
+دانلود آموزش ویدئویی + آپدیت برنامه شیر و خورشید با لینک داخلی:
+https://punkpaste.ir/f/CDN-Fronting-xi5yp6
+
+ZIP Password: @TheVPNMethod
+
+لیست آیپی های تمیز:
+23.221.28.5
+23.44.201.206
+23.220.163.205
+23.209.46.33
+23.10.34.11
+23.39.185.35
+23.32.152.106
+23.218.232.181
+23.206.188.212
+2.21.2.89
+23.208.222.120
+23.48.203.248
+23.44.201.136
+23.44.201.151
+23.44.201.149
+2.21.2.58
+23.3.90.48
+23.44.201.41
+2.19.204.184
+23.218.232.188
+23.44.201.12
+23.212.253.227
+23.201.31.155
+23.220.163.203
+23.44.201.185
+23.52.116.66
+23.44.201.17
+23.62.54.24
+23.218.239.132
+23.39.149.69
+23.52.40.147
+23.58.95.144
+2.16.244.58
+23.212.253.137
+2.17.106.176
+23.62.54.137
+2.17.106.5
+23.203.134.233
+23.212.253.232
+23.206.188.197
+23.44.201.170
+23.54.127.39
+23.214.170.83
+23.52.40.89
+23.55.176.73
+23.202.229.140
+23.215.56.61
+2.17.106.166
+23.222.126.108
+184.25.85.224
+23.1.241.123
+23.3.90.43
+184.26.13.91
+23.54.210.170
+
+— @TheVPNMethod
+</div>
+
+## TheVPNMethod — post 677
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صبر کنید جالب شد.
+</div>
+
+## TheVPNMethod — post 673
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وصلید؟
+</div>
+
+## TheVPNMethod — post 672
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روش پاک کردن سرتیفیکیت قدیمی.
+https://t.me/VPNMethods/21469
+</div>
+
+## TheVPNMethod — post 671
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ آموزش کامل و امن تولید سرتیفیکیت برای Psiphon + MitM (با Termux) — این آموزش مخصوص کسانی نوشته شده که می‌خواهند امن‌ترین روش ممکن را برای تولید سرتیفیکیت شخصی استفاده کنند. — هشدارهای مهم: این سرتیفیکیت قدرت زیادی دارد. اگر کلید خصوصی (mycert.key) لو برود،…
+</div>
+
+## TheVPNMethod — post 670
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ آموزش کامل و امن تولید سرتیفیکیت برای Psiphon + MitM (با Termux) — این آموزش مخصوص کسانی نوشته شده که می‌خواهند امن‌ترین روش ممکن را برای تولید سرتیفیکیت شخصی استفاده کنند. — هشدارهای مهم: این سرتیفیکیت قدرت زیادی دارد. اگر کلید خصوصی (mycert.key) لو برود،…
+</div>
+
+## DigiGozar — post 9210
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بات هم بازه✅
+</div>
+
+## DigiGozar — post 9209
+
+<div align="center">
+  <a href="telegram/content/DigiGozar_9209_1778775814.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مشکل حل شد
+🚀
+مشکل دیتابیس حل شد
+✅
+
+سرعت به دلیل اختلال کمی پایینه بزودی اون هم حل میشه
+
+تمام چت های پشتیبانی حذف شدن خلوت بشه بتونیم جواب بدیم
+
+اگه رسید پرداختتون تایید نشده
+عکس رسید/مبلغ/آیدی عددی خودتون رو
+با #رسید بفرستید تا رسیدگی بشه
+
+در غیر این صورت پاسخی داده نمیشه
+❌
+</div>
+
+## DigiGozar — post 9207
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گروه هم باز شده
+https://t.me/DigiGozarGP
+</div>
+
+## DigiGozar — post 9205
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+درحال رفع مشکل سرعت و دیتابیس هستیم صبور باشید
+🫥
+</div>
+
+## DigiGozar — post 9204
+
+<div align="center">
+  <a href="telegram/content/DigiGozar_9204_1778775815.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+الان روال میشه 
+💅
+</div>
+
+## DigiGozar — post 9203
+
+<div align="center">
+  <a href="telegram/content/DigiGozar_9203_1778775815.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستانی که اکانت هاشون رو تمدید/جدید خریداری کردن و از پنل پاک شده پشتیبانی پیام بدن جدید بگیرن تمدید و اکلنت های جدید روی دیتابیس ثبت نشده اگر اکانتتون قدیمی بوده حجمتون تموم شده و از پنل پاک شده پشتیبانی پیام ندید!
+</div>
+
+## DigiGozar — post 9202
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستانی که اکانت هاشون رو تمدید/جدید خریداری کردن و از پنل پاک شده پشتیبانی پیام بدن جدید بگیرن
+
+تمدید و اکلنت های جدید روی دیتابیس ثبت نشده
+
+اگر اکانتتون قدیمی بوده حجمتون تموم شده و از پنل پاک شده پشتیبانی پیام ندید!
+</div>
+
+## ByGFW — post 2309
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پیرو متد هایی که جدید اومده بسیار مراقب باشید نصب سرتیفیکیت غیر رسمی ممکنه امنیت شمارو به خطر بندازه. آموزشش رو میزارم با مسئولیت خودتون استفاده کنید.
+</div>
+
+## ByGFW — post 2308
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پیرو متد هایی که جدید اومده بسیار مراقب باشید
+نصب سرتیفیکیت غیر رسمی ممکنه امنیت شمارو به خطر بندازه.
+
+آموزشش رو میزارم با مسئولیت خودتون استفاده کنید.
+</div>
+
+## MatinSenPaii — post 3051
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اگر حمایت‌های پارتنرم نبود، مدتها پیش سلامت روانم رو از دست داده بودم حقیقتا. و اصلا بعد از دی‌ماه نمیتونستم هیچ کدوم از آموزش‌ها رو استارت بزنم و شاید از مبارزه ناامید شده بودم. تشکر ویژه از شما، بانو
+❤️
+</div>
+
+## MatinSenPaii — post 3050
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خب گویا آی‌پی دیفالتی که پشت جیسون بودش رو زدن. مجددا موش و گربه بازی سر آیپی و sni تمیز.
+Pypi رو زدن،
+خود python.org بذارید باید اوکی بشه. همینطور از آیپی های این پست استفاده کنید:
+https://t.me/MatinSenPaii/3040?single
+</div>
+
+## MatinSenPaii — post 3049
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اگر حمایت‌های پارتنرم نبود، مدتها پیش سلامت روانم رو از دست داده بودم حقیقتا. و اصلا بعد از دی‌ماه نمیتونستم هیچ کدوم از آموزش‌ها رو استارت بزنم و شاید از مبارزه ناامید شده بودم.
+تشکر ویژه از شما، بانو
+❤️
+</div>
+
+## MatinSenPaii — post 3048
+
+<div align="center">
+  <img src="telegram/content/MatinSenPaii_3048_1778775815.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Kharabam:
+وقتی رو سایفون ویندوز upstream proxy ست میکنید دیگه اجازه انتخاب لوکیشن نمیده برای دور زدن این محدودیت ریجستری ادیتور رو باز کنید برید به این آدرس
+Computer\HKEY_CURRENT_USER\Software\Psiphon3
+و EgressRegion رو ادیت کنید و Value data کد هر کشوری که میخواید بهش وصل بشید بذارید
+</div>
+
+## MatinSenPaii — post 3047
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اگر به ارور Upstream proxy میخورید، یعنی پورت رو دقیقا اونی که توی ویدئو گفتم ست نکردید. یا توی بخش مناسبی نزدید. باید مو به مو چیزایی که گفتم انجام بشه دوستان
+</div>
+
+## MatinSenPaii — post 3046
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روی ویندوز از این آموزش استفاده کنید:
+https://t.me/MatinSenPaii/3035
+روی اندروید مستقیم وصل میشید با این اپ:
+https://t.me/MatinSenPaii/3038
+</div>
+
+## MatinSenPaii — post 3045
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Matin SenPai pinned a file
+</div>
+
+## MatinSenPaii — post 3044
+
+<div align="center">
+  <img src="telegram/content/MatinSenPaii_3044_1778775815.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یوتوب ویدئو رو پاک کرد به علت محتوای خطرناک و آسیب زا به منم استرایک زد😐
+</div>
+
+## MatinSenPaii — post 3043
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یوتوب ویدئو رو پاک کرد به علت محتوای خطرناک و آسیب زا به منم استرایک زد😐
+</div>
+
+## MatinSenPaii — post 3042
+
+<div align="center">
+  <img src="telegram/content/MatinSenPaii_3042_1778775816.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یوتوب ویدئو رو پاک کرد به علت محتوای خطرناک و آسیب زا به منم استرایک زد😐
+</div>
+
+## MatinSenPaii — post 3041
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Matin SenPai pinned a video
+</div>
+
+## MatinSenPaii — post 3039
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ShirOKhorshid-2026.05.14.apk
+</div>
+
+## MatinSenPaii — post 3038
+
+<div align="center">
+  <a href="https://t.me/MatinSenPaii/3038" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🛡مهم: اگر این نسخه رو نصب کنید دیگه دردسر ستاپ کردن MITM و... ندارید!
+این نسخه حدودا یک ساعت پیش توسط برنامه‌نویس شیر و خورشید آپدیت شد و به راحتی می‌تونید طبق این آموزش بهش وصل بشید:
+1- وارد اپلیکیشن شیر و خورشید(آخرین نسخه که امروز منتشر شده) می‌شید
+2- وارد بخش Options میشید از نوار بالا
+3- روی More Options کلیک میکنید
+4- گزینه‌ی Connection Protocol رو قرار میدید روی CDN Fronting
+5- میرید و عادی کانکت میشید و به راحتی وصل میشه!
+</div>
+
+## MatinSenPaii — post 3037
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حالا دیدین متد ترکیبی سایفون افسانه نبود و واقعا وصل میشد؟🤣🤣🤣🤣🤣
+</div>
+
+## MatinSenPaii — post 3036
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستان عزیز، خواهش میکنم به DNS بها بدید. معلوم نیست کی مجددا متدهای حال حاضر رو می‌بندن. از نرم‌افزار و آموزش‌های @WhiteDNS استفاده کنید و الان که اینترنتتون شاید اوکی تر باشه، نصب و ستاپ کنید
+</div>
+
+## MatinSenPaii — post 3035
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+☠️ آموزش اتصال رایگان و نامحدود به اینترنت با متد ترکیبی MITM + Psiphon
+
+
+⚡️لینک‌های داخلی جهت دانلود: https://guardts.ir/f/db4006f1197c و https://uploadgirl.ir/d/1f4fb76a-c869-494a-b439-b11cb8d35947 (شامل فایلهای V2rayNG، کلاینت شیر و خورشید، ویدئو آموزشی، V2rayN و فایل Certificate Generator و خود فایل Json پترنیها)
+
+لینک پروژه اصلی: https://github.com/patterniha/MITM-DomainFronting
+
+
+⭐️توی این ویدئو بهتون یاد میدم که چطوری با استفاده از متد ترکیبی سایفون(کلاینت شیر و خورشید) + کانفیگ دامین فرانتینگ پترنیها، به اینترنت بین‌الملل وصل بشید!
+
+
+⚠️ پیش‌نیازها و نکات مهم:
+
+1️⃣ این ویدئو هیچ پیش نیازی نداره
+
+
+✉️ تماشا در تلگرام
+
+
+📹 تماشا در یوتوب
+
+
+💰 دونیت
+</div>
+
+## MatinSenPaii — post 3034
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+چه حالی میده رایگان وصل بودن
+📚 از زمان SNI Spoof اینو تجربه نکردم خدایی
+</div>
+
+## MatinSenPaii — post 3033
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بی‌زحمت لینک سایت‌های داخلی برای آپلود(هرسایتی که میشناسید اوکیه) واسم بفرستید، تا زمانی که ویدئو حاضر شد واستون همزمان به همراه کلاینت شیر و خورشید و فایل جیسون و ... روی چندین جا آپلود کنم:
+https://t.me/MatinSenPaii?direct
+</div>
+
+## MatinSenPaii — post 3032
+
+
+
+
+## purnet — post 15254
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تولد توسعه دهنده purvpn و با یک روز تاخیر تبریک میگم.
+خودش فک کنم یادش رفته🎂❤️
+</div>
+
+## archivetell — post 4893
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایرانسل تست شده
+
+2.19.204.225
+</div>
+
+## archivetell — post 4891
+
+<div align="center">
+  <a href="https://t.me/archivetell/4891" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+برنامه Akamai IP Scanner
+
+۱. لیست رنج‌های هدف (با پشتیبانی از تمام فرمت‌ها مثل 16/ یا 24/) را در فایل ips.txt قرار دهید. (پیشفرض قرار داده شده)
+
+۲. روی فایل scan.ps1 راست‌کلیک کرده و گزینه Run with PowerShell را برای شروع اسکن انتخاب کنید.
+
+۳. بهترین آی‌پی‌ها به‌صورت لحظه‌ای در clean_ips.txt ذخیره می‌شوند (هر زمان مایل بودید می‌توانید اسکن را متوقف کنید).
+</div>
+
+## archivetell — post 4890
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایرانسل تست شده
+
+2.19.204.251
+</div>
+
+## archivetell — post 4889
+
+<div align="center">
+  <a href="https://t.me/archivetell/4889" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لیست چند هزار تایی ip تمیز akamai
+
+شیر و خورشید
+
+CDN SNI hostname خالی بذار
+
+CDN edge IPs :
+
+این آیپی ها رو بذار
+</div>
+
+## archivetell — post 4888
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+2.22.151.4
+23.67.253.11
+23.67.253.24
+23.67.253.55
+23.67.253.77
+23.67.253.101
+23.67.253.120
+23.53.35.146
+23.53.35.158
+23.53.35.171
+23.53.35.182
+23.53.35.194
+23.53.35.207
+184.26.163.12
+184.26.163.24
+184.26.163.38
+184.26.163.51
+184.26.163.66
+184.26.163.79
+2.16.186.20
+2.16.186.31
+2.16.186.44
+2.16.186.58
+2.16.186.69
+2.16.186.81
+23.195.81.72
+23.195.81.84
+23.195.81.96
+23.195.81.108
+104.124.148.191
+104.124.148.203
+23.32.5.18
+23.32.5.44
+23.32.5.71
+23.32.5.96
+23.32.5.118
+23.32.5.141
+23.32.5.167
+23.32.5.193
+23.32.5.214
+23.32.5.236
+96.16.97.82
+96.16.97.104
+96.16.97.126
+96.16.97.148
+96.16.97.169
+96.16.97.191
+184.50.87.22
+184.50.87.44
+184.50.87.66
+184.50.87.88
+92.122.123.128
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.19.204.210
+138.201.54.122
+2.22.151.4
+2.22.151.9
+2.22.151.12
+2.22.151.13
+2.22.151.15
+2.22.151.17
+2.22.151.20
+2.22.151.22
+2.22.151.23
+2.22.151.32
+2.22.151.36
+2.22.151.37
+2.22.151.39
+2.22.151.47
+2.22.151.51
+2.22.151.53
+2.22.151.54
+2.22.151.58
+2.22.151.60
+2.22.151.62
+2.22.151.135
+2.22.151.138
+2.22.151.139
+2.22.151.141
+2.22.151.142
+2.22.151.143
+2.22.151.144
+2.22.151.146
+2.22.151.149
+2.22.151.150
+2.22.151.151
+2.22.151.152
+2.22.151.153
+2.22.151.154
+2.22.151.155
+2.22.151.156
+2.22.151.157
+2.22.151.158
+2.22.151.159
+2.22.151.161
+2.22.151.162
+2.22.151.163
+2.22.151.164
+2.22.151.168
+2.22.151.169
+2.22.151.170
+2.22.151.171
+2.22.151.173
+2.22.151.175
+2.22.151.179
+2.22.151.181
+2.22.151.182
+2.22.151.183
+2.22.151.184
+2.22.151.185
+2.22.151.186
+2.22.151.188
+2.22.151.189
+2.22.151.190
+2.22.151.191
+2.22.151.193
+2.22.151.194
+2.22.151.195
+
+ایرانسل وصله ولی ضعیف
+</div>
+
+## archivetell — post 4886
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شیر و خورشید CDN SNI hostname خالی بذار CDN edge IPs : 2.19.204.225 2.19.204.232 2.19.204.234 2.19.204.240 2.19.204.249 2.19.204.250 2.19.204.251 2.19.205.8 2.19.205.9 2.19.205.11 2.19.205.27 2.19.205.33 2.19.205.34 2.19.205.40 2.19.205.41 2.19.205.42…
+</div>
+
+## archivetell — post 4884
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+میگن رو ایرانسل اکامی رو زدن ، وصلید؟
+</div>
+
+## archivetell — post 4882
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شیر و خورشید CDN SNI hostname خالی بذار CDN edge IPs : 2.19.204.225 2.19.204.232 2.19.204.234 2.19.204.240 2.19.204.249 2.19.204.250 2.19.204.251 2.19.205.8 2.19.205.9 2.19.205.11 2.19.205.27 2.19.205.33 2.19.205.34 2.19.205.40 2.19.205.41 2.19.205.42…
+</div>
+
+## archivetell — post 4881
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شیر و خورشید CDN SNI hostname خالی بذار CDN edge IPs : 92.122.123.128 2.19.204.87 2.19.204.137 2.19.204.144 2.19.204.145 2.19.204.170 2.19.204.184 2.19.204.185 2.19.204.202 2.19.204.210 138.201.54.122
+</div>
+
+## archivetell — post 4880
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فعلا در این کانال صرفا مطالب مهم و پین‌های گروه @ProjectXHTTP گذاشته می شود. /// اگر کارهای بنده باعث شده گره ای از مشکلات شما باز شود ممنون میشم حمایتی هم از اینجانب بکنید: USDT (BEP20): 0x76a768B53Ca77B43086946315f0BDF21156bF424 USDT (TRC20): TU5…
+</div>
+
+## archivetell — post 4879
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فعلا در این کانال صرفا مطالب مهم و پین‌های گروه
+
+@ProjectXHTTP
+
+گذاشته می شود.
+
+///
+
+اگر کارهای بنده باعث شده گره ای از مشکلات شما باز شود ممنون میشم حمایتی هم از اینجانب بکنید:
+
+USDT (BEP20): 0x76a768B53Ca77B43086946315f0BDF21156bF424
+
+USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o
+</div>
+
+## archivetell — post 4878
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شیر و خورشید
+
+CDN SNI hostname خالی بذار
+
+CDN edge IPs :
+92.122.123.128
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.19.204.210
+138.201.54.122
+</div>
+
+## archivetell — post 4876
+
+<div align="center">
+  <a href="https://t.me/archivetell/4876" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سایفون میتواند هم از طریق akamai و هم از طریق fastly متصل شود.
+
+این دو کانفیگ سایفون را مجبور میکند که از طریق akamai یا fastly متصل شود.
+
+در کانفیگ akamai شما نیاز به یک ip سفید و در کانفیگ fastly نیاز به یک sni سفید دارید که میتوانید در صورت نیاز آن را در کانفیگ ها تغییر دهید.
+
+گرچه دومین‌فرانتینگ های استفاده شده به اپ شیر و خورشید اضافه شده اما با استفاده از هسته Xray-core شما از ویژگی های متعددی مثل "فینگرپرینت کروم" و "happyEyeballs" و ... برخوردار هستید.
+
+پروژه های دیگری در راه است حمایت فراموش نشه
+
+@patterniha
+</div>
+
+## archivetell — post 4874
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+منتظر ایران نتلیفای باشین، از معجزاتش زنده کردن مرده هاست
+ایشالا که خبری بشه
+</div>
+
+## archivetell — post 4873
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎯 خلاصه و جمع‌بندی متدهای امروز (سایفون + دامین فرانتینگ)
+
+---
+
+رفقا سلام! ✋ امروز یه رگبار پیام تو کانال داشتیم درباره متد جدید و می‌دونم ممکنه با دیدن این همه فایل و ربات و کد، خیلیا گیج شده باشن که «بالاخره کدوم رو باید انجام بدیم؟!»
+
+بیاین خیلی عامیانه و تروتمیز جمع‌بندی کنیم که دقیقاً بدونید باید چیکار کنید:
+
+🔥 راحت‌ترین و سریع‌ترین راه (بدون هیچ دردسری!)
+اگر حوصله درگیری با فایل و سرتیفیکیت و تنظیمات پیچیده رو ندارید، فقط نسخه آپدیت‌شده‌ی برنامه «شیر و خورشید» رو نصب کنید.
+تو این آپدیت، فقط کافیه پروتکل اتصال رو بذارید روی "فرانتینگ cdn". تمام! برنامه خودش وصل می‌شه و نیازی به گرفتن سرتیفیکیت، برنامه V2ray و وارد کردن کانفیگ نیست.
+
+📱 روش دستی برای اندروید (V2rayNG)
+اگه دوست دارید خودتون متد رو دستی پیاده کنید:
+۱. دریافت گواهینامه: باید دو تا کلید بگیرید (یا از سایت regery.com، یا ربات‌های تلگرامی مثل @CrtGen7Bot). در نهایت باید دو تا فایل به اسم‌های mycert.key و mycert.crt داشته باشید.
+۲. نصب در گوشی: تو تنظیمات گوشی CA certificate رو سرچ کنید و فایل mycert.crt رو اونجا نصب کنید.
+۳. تنظیمات V2rayNG: برید تو بخش assets files برنامه و اون دو تا فایل رو اضافه کنید. بعدش طبق آموزش قبلی، سایفون رو بهش متصل کنید.
+
+💻 روش راحت برای ویندوز
+برای ویندوز ابزار آماده PsiphonOverMITM کار رو راحت کرده:
+۱. فایل زیپ پروژه رو از گیت‌هاب دانلود و اکسترکت کنید.
+۲. روی فایل Run-PsiphonOverMITM.bat راست‌کلیک کرده و Run as Administrator رو بزنید.
+۳. برنامه سایفون رو باز کنید، برید تو Settings و تو بخش Upstream Proxy این مشخصات رو وارد کنید:
+Hostname: 127.0.0.1
+Port: 20808
+۴. تغییرات رو تایید کنید تا متصل بشه.
+
+⚠️ اون آموزش طولانی SSL سرور ایران چی بود؟
+پستی که درباره انتقال فایل‌های fullchain و privkey به سرور داخل بود، فقط و فقط مخصوص ادمین‌ها و کسانیه که سرور شخصی دارن. اگر شما یک کاربر عادی هستید، اون پست رو کاملاً نادیده بگیرید!
+
+💡 نتیجه‌گیری: اولویت اول برای اینکه گیج نشید و سریع وصل بشید، همون دانلود نسخه جدید "شیر و خورشید" و گذاشتنش روی حالت "فرانتینگ cdn" هست. لذتش رو ببرید! ✌️
+
+📌 #آموزش #سایفون #دامین_فرانتینگ #نت_ملی #تونل #شیر_و_خورشید
+
+ArchiveTell |
+</div>
+
+## archivetell — post 4872
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚀 آموزش اتصال رایگان به اینترنت آزاد (ترکیب Psiphon + دامین فرانتینگ پترنیها)
+
+---
+
+رفقا سلام! ✋ امروز یه متد به‌شدت خفن، بدون پیش‌نیاز و کاملاً رایگان براتون داریم که با ترکیب کلاینت سایفون (شیر و خورشید) و کانفیگ‌های دامین فرانتینگِ پترنیها کار می‌کنه و اینترنت آزاد رو براتون میاره.
+
+این روش برای وب‌گردی، اینستاگرام و تلگرام عالیه (البته برای گیم آنلاین پیشنهاد نمی‌شه). تمام فایل‌های مورد نیاز هم از قبل آماده شده و لینک‌هاش پایین پست هست! 👇
+
+🖥 آموزش برای ویندوز (V2rayN)
+1️⃣ نصب V2rayN: برنامه V2rayN رو باز کنید (اگه ارور داد، Runtime و Framework نسخه ۶ به بالا رو نصب کنید).
+2️⃣ ساخت سرتیفیکیت: فایل Certificate Generator (موجود در فایل‌های دانلود) رو داخل پوشه bin تو مسیر V2rayN کپی و اجرا کنید تا دو فایل جدید ساخته بشه.
+3️⃣ نصب سرتیفیکیت: روی فایل mycert راست‌کلیک کنید، Install Certificate رو بزنید. مسیر Local Machine و بعد Trusted Root Certification Authorities رو انتخاب کنید تا نصب بشه.
+4️⃣ تنظیمات V2rayN:
+🔸 برنامه رو باز کنید، از Configuration گزینه Add Custom Configuration رو بزنید. یه اسم بذارید، فایل Json پترنیها رو Browse کنید و Core type رو روی Xray بذارید.
+🔸 تو مسیر Settings ➔ Option Settings، پورت Mux رو حتماً روی 10808 تنظیم کنید.
+🔸 کانفیگ رو انتخاب، Enter بزنید و وضعیت سیستم رو روی Clear System Proxy بذارید.
+5️⃣ تنظیمات کلاینت شیر و خورشید: برنامه رو باز کنید، برید تو Settings. قسمت Upstream Proxy، هاست رو 127.0.0.1 و پورت رو 10808 قرار بدید و استارت کنید.
+
+📱 آموزش برای اندروید (V2rayNG)
+1️⃣ پیش‌نیازها: نصب آخرین نسخه V2rayNG و کلاینت سایفون (شیر و خورشید).
+2️⃣ نصب سرتیفیکیت: تو تنظیمات گوشی CA Certificate رو سرچ کنید و فایل mycert.crt (موجود در فایل‌های دانلود) رو نصب کنید.
+3️⃣ تنظیمات V2rayNG:
+🔸 فایل‌های سرتیفیکیت رو تو نرم‌افزار Add کنید.
+🔸 فایل کانفیگ JSON رو با زدن دکمه + و Import from local وارد برنامه کنید.
+🔸 تو تنظیمات، پورت (Local Proxy Port) رو روی 10808 و Mode رو روی Proxy Only قرار بدید و کانفیگ رو استارت بزنید.
+4️⃣ تنظیمات کلاینت (شیر و خورشید):
+🔸 وارد Options ➔ VPN Settings بشید، تیک Don't tunnel selected apps رو بزنید و V2rayNG رو از تونل خارج کنید.
+🔸 تو بخش Proxy Settings، گزینه Connect through an HTTP Proxy رو انتخاب کنید. هاست رو 127.0.0.1 و پورت رو 10808 بذارید و استارت رو بزنید.
+
+📥 لینک‌های دانلود و منابع مورد نیاز:
+تمام فایل‌ها (V2rayN، V2rayNG، کلاینت شیر و خورشید، Certificate Generator و فایل Json پترنیها) رو می‌تونید از لینک‌های زیر بردارید:
+🔗 لینک دانلود مستقیم فایل‌ها در تلگرام:
+https://t.me/MatinSenPaii/3035
+🔗 لینک پروژه اصلی در گیت‌هاب:
+https://github.com/therealaleph/Maste...
+📺 ویدیوی آموزشی کامل در یوتیوب:
+https://youtu.be/M3kZxw1M3vE
+
+(اگر این روش براتون مفید بود، می‌تونید از توسعه‌دهنده این متد از طریق لینک matinsenpai.pages.dev حمایت کنید ☕️)
+
+📌 #آموزش #سایفون #دامین_فرانتینگ #نت_ملی #تونل #رایگان #Psiphon #V2rayN
+
+🔵 @ArchiveTell | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣⚡️
+</div>
+
+## archivetell — post 4871
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+## 🚀 آموزش اشتراک‌گذاری اینترنت آزاد روی هات‌سپات (بدون نیاز به نصب برنامه‌ روی گوشی دوم!)
+
+اگر می‌خواهید اینترنت فیلترشده را از لپ‌تاپ به گوشی یا دستگاه‌های دیگر منتقل کنید، به‌طوری که بقیه فقط با وصل شدن به وای‌فای شما به اینترنت بین‌الملل دسترسی داشته باشند، این روش بهترین گزینه است.
+
+### 🛠 پیش‌نیازها:
+1. لپ‌تاپ دارای کارت شبکه وای‌فای.
+2. برنامه v2rayN (نسخه جدید).
+3. فعال بودن یک کانفیگ سالم.
+
+### 🟢 مرحله اول: تنظیمات v2rayN
+ابتدا باید قابلیت عبور ترافیک از هسته برنامه را فعال کنید:
+1. برنامه v2rayN را باز کنید.
+2. از منوی پایین، روی آیکون برنامه راست کلیک کرده و System Proxy را روی حالت Set System Proxy قرار دهید (آیکون برنامه قرمز/رنگ روشن می‌شود).
+
+3. گزینه TUN Mode را در قسمت پایین برنامه فعال کنید. این کار باعث می‌شود تمام ترافیک سیستم وارد تونل شود.
+
+### 📡 مرحله دوم: فعال‌سازی Hotspot ویندوز
+1. در ویندوز به بخش Settings و سپس Network & Internet بروید.
+2. وارد قسمت Mobile Hotspot شوید و آن را On کنید.
+
+3. نام (SSID) و رمز عبور را تنظیم کنید.
+
+### 🔗 مرحله سوم: اشتراک‌گذاری آداپتور (مرحله طلایی)
+حالا باید جادوی اصلی را انجام دهید تا اینترنتِ "تونل شده" به هات‌سپات منتقل شود:
+1. به مسیر زیر در کنترل پنل بروید:
+Control Panel > Network and Internet > Network Connections
+
+2. در اینجا لیست کارت‌های شبکه را می‌بینید. کارتی را پیدا کنید که مربوط به v2ray است (معمولاً نامی مثل nekoray-tun یا v2ray-tun یا Sing-box دارد).
+
+3. روی آن راست‌کلیک کرده و Properties را بزنید.
+
+4. به تب Sharing بروید.
+
+5. تیک گزینه اول یعنی Allow other network users to connect through... را بزنید.
+
+6. در کادر پایین آن، نام آداپتور مربوط به هات‌سپات خود را انتخاب کنید (معمولاً با نامی شبیه Local Area Connection* X یا Microsoft Wi-Fi Direct Virtual Adapter ظاهر می‌شود).
+
+7. روی OK کلیک کنید.
+
+### ✅ نتیجه نهایی
+حالا هر دستگاهی (گوشی، تلویزیون، کنسول) که به هات‌سپات لپ‌تاپ شما وصل شود، بدون نیاز به هیچ اپلیکیشن اضافی یا تنظیم پروکسی، مستقیماً به اینترنت آزاد متصل خواهد بود. 🌐
+
+💡 نکته مهم: اگر بعد از این کار اینترنت قطع شد، یک‌بار هات‌سپات و v2ray را خاموش و روشن کنید تا آی‌پی‌ها به‌درستی ست شوند.
+
+
+@ArchiveTell
+</div>
+
+## archivetell — post 4870
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ما بزرگ بودیم..
+با من در نیفتید
+</div>
+
+## hamvex — post 2571
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌐آموزش کامل دور زدن فیلترینگ با متود CDN-Fronting (فول تانل)(اندروید) اتصال بدون نیاز به v2rayNG و نصب سرتیفیکیت 
+🐱 https://github.com/shirokhorshid/shirokhorshid-android 
+⬇️
+🔄 https://www.uploadina.com/a7a08c93f7bada88/CDN-Fronting.mp4 (لینک دانلود داخلی…
+</div>
+
+## hamvex — post 2570
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌐آموزش کامل دور زدن فیلترینگ با متود CDN-Fronting (فول تانل)(اندروید) اتصال بدون نیاز به v2rayNG و نصب سرتیفیکیت 
+🐱 https://github.com/shirokhorshid/shirokhorshid-android 
+⬇️
+🔄 https://www.uploadina.com/a7a08c93f7bada88/CDN-Fronting.mp4 (لینک دانلود داخلی…
+</div>
+
+## hamvex — post 2569
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وصلین؟
+</div>
+
+## hamvex — post 2568
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🗣️ خیلی از عزیزانی هستن که از ابتدای قطعی اینترنت حتی یکبار هم نتونستن وصل بشن این شامل خونواده ،دوستان ،آشناها و حتی اون بنده خدایی که تو گروهای روبیکا ، بله یا ایتا دنبال پروکسی واسه صرفا یه آپدیتینگ تلگرام میگرده میشه پس اگه میبینین تو چنل یا بقیه چنلا…
+</div>
+
+## hamvex — post 2565
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌐آموزش کامل دور زدن فیلترینگ با متود CDN-Fronting (فول تانل)(اندروید)
+
+اتصال بدون نیاز به v2rayNG و نصب سرتیفیکیت
+
+
+🐱
+https://github.com/shirokhorshid/shirokhorshid-android
+
+
+⬇️
+🔄
+https://www.uploadina.com/a7a08c93f7bada88/CDN-Fronting.mp4 (لینک دانلود داخلی ویدئو)
+Pass : @hamvex
+
+
+⬇️
+👩‍💻
+https://www.uploadina.com/file_password.html?file=1b1bf6b51ca93050 (لینک دانلود داخلی شیروخورشید)
+Pass : @hamvex
+
+
+🔹حتما آخرین نسخه نرم‌افزار شیروخورشید رو نصب داشته باشید.
+
+
+🔺چند آیپی قابل استفاده :
+همه آیپی‌هارو با هم کپی و پیست کنید تو بخش CDN edge IPs
+
+151.101.64.223
+151.101.0.223
+151.101.128.223
+151.101.192.223
+92.122.123.128
+2.16.186.20
+2.16.186.31
+2.16.186.44
+2.16.186.58
+2.16.186.69
+2.16.186.81
+2.19.204.19
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.19.204.210
+2.19.204.211
+2.19.204.217
+2.19.204.218
+2.19.204.225
+2.19.204.232
+2.19.204.234
+2.19.204.240
+2.19.204.249
+2.19.204.250
+2.19.204.251
+2.19.205.8
+2.19.205.9
+2.19.205.11
+2.19.205.27
+2.19.205.33
+2.19.205.34
+2.19.205.40
+2.19.205.41
+2.19.205.42
+2.19.205.49
+2.19.205.50
+2.19.205.58
+2.19.205.59
+2.19.205.64
+2.19.205.65
+2.19.205.82
+2.19.205.83
+2.19.205.88
+2.19.205.97
+2.19.205.98
+2.19.205.105
+2.22.151.4
+2.22.151.9
+2.22.151.12
+2.22.151.13
+2.22.151.15
+2.22.151.17
+2.22.151.20
+2.22.151.22
+2.22.151.23
+2.22.151.32
+2.22.151.36
+2.22.151.37
+2.22.151.39
+2.22.151.47
+2.22.151.51
+2.22.151.53
+2.22.151.54
+2.22.151.58
+2.22.151.60
+2.22.151.62
+2.22.151.135
+2.22.151.138
+2.22.151.139
+2.22.151.141
+2.22.151.142
+2.22.151.143
+2.22.151.144
+2.22.151.146
+2.22.151.149
+2.22.151.150
+2.22.151.151
+2.22.151.152
+2.22.151.153
+2.22.151.154
+2.22.151.155
+2.22.151.156
+2.22.151.157
+2.22.151.158
+2.22.151.159
+2.22.151.161
+2.22.151.162
+2.22.151.163
+2.22.151.164
+2.22.151.168
+2.22.151.169
+2.22.151.170
+2.22.151.171
+2.22.151.173
+2.22.151.175
+2.22.151.179
+2.22.151.181
+2.22.151.182
+2.22.151.183
+2.22.151.184
+2.22.151.185
+2.22.151.186
+2.22.151.188
+2.22.151.189
+2.22.151.190
+2.22.151.191
+2.22.151.193
+2.22.151.194
+2.22.151.195
+23.32.5.18
+23.32.5.44
+23.32.5.71
+23.32.5.96
+23.32.5.118
+23.32.5.141
+23.32.5.167
+23.32.5.193
+23.32.5.214
+23.32.5.236
+23.53.35.146
+23.53.35.158
+23.53.35.171
+23.53.35.182
+23.53.35.194
+23.53.35.207
+23.67.253.11
+23.67.253.24
+23.67.253.55
+23.67.253.77
+23.67.253.101
+23.67.253.120
+23.195.81.72
+23.195.81.84
+23.195.81.96
+23.195.81.108
+50.7.5.83
+63.141.252.203
+65.109.34.234
+92.122.123.128
+94.130.13.19
+94.130.33.41
+94.130.50.12
+94.130.70.160
+95.216.69.37
+96.16.97.82
+96.16.97.104
+96.16.97.126
+96.16.97.148
+96.16.97.169
+96.16.97.191
+104.124.148.191
+104.124.148.203
+138.201.54.122
+142.54.178.211
+144.76.1.88
+184.26.163.12
+184.26.163.24
+184.26.163.38
+184.26.163.51
+184.26.163.66
+184.26.163.79
+184.31.169.195
+184.31.169.252
+184.31.170.97
+184.31.170.185
+184.50.87.22
+184.50.87.44
+184.50.87.66
+184.50.87.88
+
+🔺برای بخش CDN sni hostname هم سایت زیر رو قرار بدید (اینو نزارید هم وصل میشه)
+python.org
+
+
+
+🔖از طریق حالت خودکار و اتصال مستقیم هم میتونید وصل شید
+</div>
+
+## hamvex — post 2564
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تیم فعال شیروخورشید
+یه آپدیت خفن 
+🔥
+</div>
+
+## hamvex — post 2563
+
+<div align="center">
+  <a href="https://t.me/hamvex/2563" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌐 آموزش کامل دور زدن فیلترینگ با متود MITM + PSIPHON (فول تانل)(اندروید) 
+🎬 https://youtu.be/C0Xr8bmhAow?si=mRxXRmQIh0jm1Xs0 
+🐱 https://github.com/patterniha 
+⬇️
+🔄 https://uplod.ir/eyn04g87pgzo/MITM_PSIPHON.mp4.htm ( لینک دانلود داخلی) Pass : @hamvex 
+🔻Creator…
+</div>
+
+## hamvex — post 2557
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🌐 آموزش کامل دور زدن فیلترینگ با متود MITM + PSIPHON (فول تانل)(اندروید) 
+🎬 https://youtu.be/C0Xr8bmhAow?si=mRxXRmQIh0jm1Xs0 
+🐱 https://github.com/patterniha 
+⬇️
+🔄 https://uplod.ir/eyn04g87pgzo/MITM_PSIPHON.mp4.htm ( لینک دانلود داخلی) Pass : @hamvex 
+🔻Creator…
+</div>
+
+## networkti — post 342
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تعداد زیادی ای پی‌وایت لیست برای روش جدیده توی گوشی با مرورگر بازش کنید و یک تعدادیشو کپی کنید و توی برنامه شیر و خورشید توی قسمت CDN edge IPs وارد کنید و بزنید وصل میشه (اول شیرو خورشید رو که بالا فرستادم نصب کنید و طبق اموزشی که زیرش نوشته مراحل رو پیش…
+</div>
+
+## networkti — post 341
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ShirOKhorshid-2026.05.14.apk
+</div>
+
+## networkti — post 340
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تعداد زیادی ای پی‌وایت لیست برای روش جدیده
+
+توی گوشی با مرورگر بازش کنید و یک تعدادیشو کپی کنید و توی برنامه شیر و خورشید توی قسمت
+CDN edge IPs
+وارد کنید و بزنید وصل میشه
+
+(اول شیرو خورشید رو که بالا فرستادم نصب کنید و طبق اموزشی که زیرش نوشته مراحل رو پیش برید و بعد اینکاری که الان گفتم رو انجام بدید)
+</div>
+
+## networkti — post 339
+
+<div align="center">
+  <a href="https://t.me/networkti/339" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📎 Document
+</div>
+
+## networkti — post 338
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانال من یدونه عرزشی مادر طبقاتی داره که هی ری اکشن بر عکس میزنه 
+🤣
+</div>
+
+## networkti — post 335
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Mahdavi:
+در قسمت CDN edge IPs اگه IP های وایت لیست شده آکامای رو بذارید سرعت اتصال بهتر میشه.
+
+Kharabam:
+
+63 تا IP وایت لیست Akamai:
+
+2.22.151.4
+2.22.151.9
+2.22.151.12
+2.22.151.13
+2.22.151.15
+2.22.151.17
+2.22.151.20
+2.22.151.22
+2.22.151.23
+2.22.151.32
+2.22.151.36
+2.22.151.37
+2.22.151.39
+2.22.151.47
+2.22.151.51
+2.22.151.53
+2.22.151.54
+2.22.151.58
+2.22.151.60
+2.22.151.62
+2.22.151.135
+2.22.151.138
+2.22.151.139
+2.22.151.141
+2.22.151.142
+2.22.151.143
+2.22.151.144
+2.22.151.146
+2.22.151.149
+2.22.151.150
+2.22.151.151
+2.22.151.152
+2.22.151.153
+2.22.151.154
+2.22.151.155
+2.22.151.156
+2.22.151.157
+2.22.151.158
+2.22.151.159
+2.22.151.161
+2.22.151.162
+2.22.151.163
+2.22.151.164
+2.22.151.168
+2.22.151.169
+2.22.151.170
+2.22.151.171
+2.22.151.173
+2.22.151.175
+2.22.151.179
+2.22.151.181
+2.22.151.182
+2.22.151.183
+2.22.151.184
+2.22.151.185
+2.22.151.186
+2.22.151.188
+2.22.151.189
+2.22.151.190
+2.22.151.191
+2.22.151.193
+2.22.151.194
+2.22.151.195
+</div>
+
+## networkti — post 334
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ShirOKhorshid-2026.05.14.apk
+</div>
+
+## networkti — post 333
+
+<div align="center">
+  <a href="https://t.me/networkti/333" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🛡مهم: اگر این نسخه رو نصب کنید دیگه دردسر ستاپ کردن MITM و... ندارید!
+این نسخه حدودا یک ساعت پیش توسط برنامه‌نویس شیر و خورشید آپدیت شد و به راحتی می‌تونید طبق این آموزش بهش وصل بشید:
+1- وارد اپلیکیشن شیر و خورشید(آخرین نسخه که امروز منتشر شده) می‌شید
+2- وارد بخش Options میشید از نوار بالا
+3- روی More Options کلیک میکنید
+4- گزینه‌ی Connection Protocol رو قرار میدید روی CDN Fronting
+5- میرید و عادی کانکت میشید و به راحتی وصل میشه!
+</div>
+
+## networkti — post 332
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانال متین سنپای داره آموزش یک روش جدید وصل شدن رایگان با سرعت بالا رو آماده میکنه:
+
+https://t.me/MatinSenPaii
+
+کانال متین رو میتونید از توی کانفیگ‌ مخصوص فیلترشکن TheFeed هم چک کنید تا وقتی آموزش رو گذاشت استفاده کنید.
+</div>
+
+## Break_The_Barriers — post 1559
+
+<div align="center">
+  <img src="telegram/content/Break_The_Barriers_1559_1778775818.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فقط کافیه اپلیکیشن رو نصب کنید، ابتدا وارد Options بشید و سپس More Options رو انتخاب کنید.
+
+در قسمت Connection Protocol، گزینه‌ی CDN Fronting رو انتخاب کنید و در انتها به صفحه‌ی اصلی بازگشته و Start را بزنید.
+
+@break_the_barriers
+</div>
+
+## Break_The_Barriers — post 1558
+
+<div align="center">
+  <a href="https://t.me/Break_The_Barriers/1558" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نسخه 2026.05.14 کلاینت ShiroKhorshid Android منتشر شد.
+
+در این آپدیت، قابلیت CDN Domain Fronting مستقیماً به هسته برنامه اضافه شده و دیگر نیازی به xray، cert و تنظیمات جانبی نیست.
+
+GitHub: https://github.com/shirokhorshid/shirokhorshid-android
+
+لینک دانلود دانلود داخلی، بدون نیاز به فیلترشکن:
+
+https://punkpaste.ir/f/ShirOKhorshid-2026-0-ghmata
+
+تشکر ویژه از @patterniha 🫂❤️
+
+@break_the_barriers
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 11:41
 ---
 
